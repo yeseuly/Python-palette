@@ -1,5 +1,0 @@
-# NOTE (2024.03.08)
-
-- Level(Difficulty)
-- Homework #1
-- Next Time

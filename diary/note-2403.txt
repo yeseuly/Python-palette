@@ -1,0 +1,12 @@
+# NOTE (2024.03.08)
+
+- Set the Environment
+- GitHub Test
+- Next Time: 2024.03.17
+
+# NOTE (2024.03.17)
+
+- Conda Environment
+- Basic Python Code
+- HW1 Test
+- HW2 Basic
