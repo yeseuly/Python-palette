@@ -9,5 +9,10 @@
 - 빅데이터분석기사 스터디 방향
 - Conda Environment
 - Basic Python Code
-- HW1 Test
-- HW2 Basic
+- HW1
+- HW2
+
+# NOTE (2024.03.24)
+
+- matplotlib package
+- HW3
