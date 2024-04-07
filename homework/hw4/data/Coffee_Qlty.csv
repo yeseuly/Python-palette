@@ -1,0 +1,1340 @@
+REC_ID,Species,Continent.of.Origin,Country.of.Origin,Harvest.Year,Expiration,Variety,Color,Processing.Method,Aroma,Flavor,Aftertaste,Acidity,Body,Balance,Uniformity,Clean.Cup,Sweetness,Moisture,Quakers,Category.One.Defects,Category.Two.Defects
+0,Arabica,Africa,Ethiopia,2014,04/03/16,,Green,Washed / Wet,8.67,8.83,8.67,8.75,8.5,8.42,10.0,10.0,10.0,0.12,0,0,0
+1,Arabica,Africa,Ethiopia,2014,04/03/16,Other,Green,Washed / Wet,8.75,8.67,8.5,8.58,8.42,8.42,10.0,10.0,10.0,0.12,0,0,1
+2,Arabica,North America,Guatemala,,05/31/11,Bourbon,,,8.42,8.5,8.42,8.42,8.33,8.42,10.0,10.0,10.0,0.0,0,0,0
+3,Arabica,Africa,Ethiopia,2014,03/25/16,,Green,Natural / Dry,8.17,8.58,8.42,8.42,8.5,8.25,10.0,10.0,10.0,0.11,0,0,2
+4,Arabica,Africa,Ethiopia,2014,04/03/16,Other,Green,Washed / Wet,8.25,8.5,8.25,8.5,8.42,8.33,10.0,10.0,10.0,0.12,0,0,2
+5,Arabica,South America,Brazil,2013,09/03/14,,Bluish-Green,Natural / Dry,8.58,8.42,8.42,8.5,8.25,8.33,10.0,10.0,10.0,0.11,0,0,1
+6,Arabica,South America,Peru,2012,09/17/13,Other,Bluish-Green,Washed / Wet,8.42,8.5,8.33,8.5,8.25,8.25,10.0,10.0,10.0,0.11,0,0,0
+7,Arabica,Africa,Ethiopia,2010,09/02/11,,,,8.25,8.33,8.5,8.42,8.33,8.5,10.0,10.0,9.33,0.03,0,0,0
+8,Arabica,Africa,Ethiopia,2010,09/02/11,,,,8.67,8.67,8.58,8.42,8.33,8.42,9.33,10.0,9.33,0.03,0,0,0
+9,Arabica,Africa,Ethiopia,2014,03/29/16,Other,Green,Natural / Dry,8.08,8.58,8.5,8.5,7.67,8.42,10.0,10.0,10.0,0.1,0,0,4
+10,Arabica,Africa,Ethiopia,2014,03/26/16,,,Natural / Dry,8.17,8.67,8.25,8.5,7.75,8.17,10.0,10.0,10.0,0.1,0,0,1
+11,Arabica,North America,United States,2014,03/12/16,Other,,Washed / Wet,8.25,8.42,8.17,8.33,8.08,8.17,10.0,10.0,10.0,0.0,0,0,0
+12,Arabica,North America,United States,2014,03/12/16,Other,,Washed / Wet,8.08,8.67,8.33,8.42,8.0,8.08,10.0,10.0,10.0,0.0,0,0,0
+13,Arabica,North America,United States,2009,05/31/11,,,,8.33,8.42,8.08,8.25,8.25,8.0,10.0,10.0,10.0,0.0,0,0,2
+14,Arabica,Africa,Ethiopia,2010,08/31/11,,,,8.25,8.33,8.5,8.25,8.58,8.75,9.33,10.0,9.33,0.05,0,0,2
+15,Arabica,North America,United States,2014,03/12/16,Other,,Washed / Wet,8.0,8.5,8.58,8.17,8.17,8.0,10.0,10.0,10.0,0.0,0,0,0
+16,Arabica,Asia,Indonesia,,05/31/11,,,,8.33,8.25,7.83,7.75,8.5,8.42,10.0,10.0,10.0,0.03,0,0,0
+17,Arabica,Africa,Ethiopia,2009,06/16/11,,,,8.17,8.33,8.25,8.33,8.42,8.33,9.33,10.0,9.33,0.05,0,0,2
+18,Arabica,Asia,China,2015,04/07/17,Catimor,Green,Washed / Wet,8.42,8.25,8.08,8.17,7.92,8.0,10.0,10.0,10.0,0.1,0,0,0
+19,Arabica,Africa,Ethiopia,2014,03/24/16,Ethiopian Yirgacheffe,,Natural / Dry,8.17,8.17,8.0,8.17,8.08,8.33,10.0,10.0,10.0,0.0,0,0,8
+20,Arabica,North America,United States,2014,03/12/16,Other,None,Washed / Wet,8.0,8.25,8.08,8.5,8.25,8.0,10.0,10.0,10.0,0.0,0,0,0
+21,Arabica,North America,Costa Rica,2014,04/02/15,Caturra,Green,Washed / Wet,8.08,8.25,8.0,8.17,8.0,8.33,10.0,10.0,10.0,0.11,0,0,2
+22,Arabica,North America,Mexico,2012,07/26/13,Other,Green,Washed / Wet,8.17,8.25,8.17,8.0,7.83,8.17,10.0,10.0,10.0,0.13,0,0,0
+23,Arabica,North America,United States,2014,03/12/16,Other,,Washed / Wet,8.25,8.33,8.17,8.17,7.83,8.17,10.0,10.0,10.0,0.0,0,0,0
+24,Arabica,Africa,Ethiopia,2013,09/03/14,,Bluish-Green,Natural / Dry,8.42,8.17,7.92,8.17,8.33,8.0,10.0,10.0,10.0,0.11,0,0,1
+25,Arabica,South America,Brazil,2011,12/02/12,Bourbon,Green,Natural / Dry,8.5,8.5,8.0,8.0,8.0,8.0,10.0,10.0,10.0,0.12,0,0,2
+26,Arabica,Africa,Ethiopia,2009,06/16/11,,,,7.83,8.25,8.08,8.17,8.17,8.17,10.0,10.0,10.0,0.05,0,0,2
+27,Arabica,Africa,Uganda,2013,06/26/15,SL14,Green,Washed / Wet,8.42,8.17,8.17,8.17,7.83,7.92,10.0,10.0,10.0,0.12,0,0,1
+28,Arabica,North America,Honduras,2016,05/18/18,Caturra,Green,,8.17,8.08,8.08,8.0,8.08,8.0,10.0,10.0,10.0,0.1,0,0,3
+29,Arabica,Asia,Taiwan,2015,05/18/17,Sumatra,Green,Pulped natural / honey,8.0,8.0,8.0,8.25,8.0,8.17,10.0,10.0,10.0,0.0,0,0,0
+30,Arabica,North America,Nicaragua,,05/18/11,,,,7.92,8.25,8.0,8.33,8.0,8.08,10.0,10.0,10.0,0.08,0,0,2
+31,Arabica,Africa,Tanzania,2012,09/03/14,,Bluish-Green,Natural / Dry,8.42,8.17,8.17,8.0,7.58,8.0,10.0,10.0,10.0,0.11,0,0,1
+32,Arabica,South America,Brazil,2011,12/02/12,Bourbon,Green,Natural / Dry,8.5,8.17,8.0,7.75,8.0,8.0,10.0,10.0,10.0,0.12,0,0,2
+33,Arabica,North America,Costa Rica,2015,12/02/16,Caturra,Blue-Green,Washed / Wet,8.17,7.83,8.0,8.08,7.83,8.0,10.0,10.0,10.0,0.0,0,0,0
+34,Arabica,Africa,Ethiopia,2014,03/26/16,,Green,Natural / Dry,8.0,8.08,7.92,8.0,8.08,8.08,10.0,10.0,10.0,0.1,0,0,3
+35,Arabica,Africa,Kenya,2013,05/30/15,SL34,Blue-Green,Washed / Wet,8.08,8.0,8.0,8.25,7.92,7.92,10.0,10.0,10.0,0.12,0,0,1
+36,Arabica,North America,United States,2012,04/06/13,Hawaiian Kona,,Natural / Dry,8.08,8.17,8.0,7.92,7.92,7.83,10.0,10.0,10.0,0.0,0,1,4
+37,Arabica,North America,United States,2010,01/28/12,,,,8.25,8.42,8.08,7.75,7.67,7.83,10.0,10.0,10.0,0.0,0,2,1
+38,Arabica,Africa,Ethiopia,2009,06/17/11,,,,7.92,7.75,8.08,8.08,8.08,8.17,10.0,10.0,10.0,0.1,0,0,2
+39,Arabica,North America,United States,2014,03/12/16,Other,,Washed / Wet,7.67,8.17,8.0,8.0,8.17,8.08,10.0,10.0,10.0,0.0,0,0,0
+40,Arabica,Asia,Thailand,2012,04/12/13,Caturra,Green,Washed / Wet,7.83,8.33,7.83,8.25,7.58,7.92,10.0,10.0,10.0,0.1,0,1,9
+41,Arabica,South America,Brazil,2010,01/04/12,Yellow Bourbon,,,8.17,7.92,7.92,7.75,8.33,8.0,10.0,10.0,10.0,0.08,0,0,2
+42,Arabica,South America,Brazil,2010,01/04/12,Yellow Bourbon,,,8.42,7.92,8.0,7.75,7.92,8.0,10.0,10.0,10.0,0.01,0,0,3
+43,Arabica,Asia,Taiwan,2015,06/09/16,Bourbon,Green,Semi-washed / Semi-pulped,8.08,8.17,7.75,8.08,7.75,7.83,10.0,10.0,10.0,0.12,0,0,0
+44,Arabica,Africa,Kenya,2014,01/29/16,SL28,Bluish-Green,Natural / Dry,8.08,8.08,8.0,8.0,7.83,8.08,10.0,10.0,10.0,0.11,0,0,2
+45,Arabica,South America,Brazil,2011,12/02/12,Bourbon,Blue-Green,Semi-washed / Semi-pulped,8.33,8.0,8.0,8.0,7.75,8.0,10.0,10.0,10.0,0.11,0,0,2
+46,Arabica,Africa,Uganda,2014,10/01/15,,,Semi-washed / Semi-pulped,8.08,8.08,7.83,7.92,8.08,7.92,10.0,10.0,10.0,0.0,0,0,0
+47,Arabica,South America,Colombia,2013,03/20/15,Caturra,Green,Washed / Wet,7.75,7.92,7.83,8.08,8.08,8.17,10.0,10.0,10.0,0.12,0,1,1
+48,Arabica,Africa,Kenya,2013,02/06/15,SL28,Green,Washed / Wet,7.92,8.17,7.83,8.5,7.5,7.92,10.0,10.0,10.0,0.11,0,0,1
+49,Arabica,Africa,Uganda,2012,02/12/13,Other,Blue-Green,Washed / Wet,8.25,8.0,7.83,8.08,8.0,7.92,10.0,10.0,10.0,0.1,0,0,0
+50,Arabica,Africa,Ethiopia,2009,06/17/11,,,,7.75,8.08,8.0,8.25,8.0,8.0,10.0,10.0,10.0,0.01,0,0,4
+51,Arabica,North America,United States,2009,05/31/11,,,,8.33,8.17,7.75,8.0,7.75,7.83,10.0,10.0,10.0,0.0,0,0,0
+52,Arabica,North America,Guatemala,2016,05/16/17,Bourbon,Green,Washed / Wet,7.92,8.08,7.92,8.08,8.08,7.83,10.0,10.0,10.0,0.1,1,0,3
+53,Arabica,Africa,Uganda,2013,06/30/15,SL14,Green,Natural / Dry,8.17,8.17,7.92,8.08,7.83,7.75,10.0,10.0,10.0,0.12,0,0,0
+54,Arabica,South America,Colombia,2013,07/26/14,Caturra,Blue-Green,Washed / Wet,8.0,8.0,8.0,8.17,7.83,8.0,10.0,10.0,10.0,0.0,0,1,0
+55,Arabica,North America,Panama,2017,10/09/18,Gesha,Bluish-Green,Washed / Wet,8.0,8.0,7.92,8.08,7.83,8.0,10.0,10.0,10.0,0.08,1,0,0
+56,Arabica,Africa,Ethiopia,2014,04/03/16,,Green,Washed / Wet,7.83,8.08,7.92,8.08,8.0,7.92,10.0,10.0,10.0,0.1,0,0,4
+57,Arabica,North America,Guatemala,2012,07/03/13,Bourbon,Green,Washed / Wet,7.83,8.0,8.0,8.17,7.83,8.0,10.0,10.0,10.0,0.12,0,0,3
+58,Arabica,North America,Guatemala,2012,06/05/13,Catuai,Bluish-Green,Washed / Wet,8.0,8.0,7.83,8.33,7.83,7.83,10.0,10.0,10.0,0.1,0,0,1
+59,Arabica,Africa,Ethiopia,2017,06/23/18,Caturra,None,Natural / Dry,7.83,8.0,7.83,8.17,7.92,8.0,10.0,10.0,10.0,0.09,4,0,7
+60,Arabica,South America,Peru,2013,01/22/15,,Green,Washed / Wet,8.0,8.0,8.0,8.08,7.92,7.75,10.0,10.0,10.0,0.1,0,4,6
+61,Arabica,Oceania,Papua New Guinea,2012,10/25/13,,Bluish-Green,Washed / Wet,8.33,8.42,7.83,8.33,8.0,8.25,9.33,9.33,10.0,0.12,0,0,1
+62,Arabica,North America,El Salvador,2013,03/18/14,Bourbon,Blue-Green,Washed / Wet,7.92,8.17,8.0,7.92,7.75,7.83,10.0,10.0,10.0,0.1,0,0,3
+63,Arabica,North America,El Salvador,2012,01/12/14,Bourbon,None,Semi-washed / Semi-pulped,7.83,8.0,8.0,7.75,7.92,8.17,10.0,10.0,10.0,0.11,0,0,0
+64,Arabica,North America,United States,2012,04/06/13,Hawaiian Kona,,Natural / Dry,7.83,8.0,7.92,7.75,8.08,8.0,10.0,10.0,10.0,0.0,0,0,1
+65,Arabica,North America,Panama,2014,05/22/16,Caturra,,Natural / Dry,8.0,7.75,7.83,7.83,7.67,8.58,10.0,10.0,10.0,0.09,0,2,2
+66,Arabica,Africa,Kenya,2014,05/22/16,SL28,Green,Natural / Dry,7.92,7.92,7.83,8.08,7.83,7.92,10.0,10.0,10.0,0.1,0,0,3
+67,Arabica,Africa,Ethiopia,2015,03/30/16,Other,Green,Natural / Dry,7.83,8.0,7.83,7.92,7.83,8.08,10.0,10.0,10.0,0.12,0,0,7
+68,Arabica,Africa,Uganda,2013,06/26/15,SL14,Green,Washed / Wet,8.33,7.92,7.67,7.92,7.67,7.92,10.0,10.0,10.0,0.12,0,0,1
+69,Arabica,North America,Guatemala,2013,02/26/14,Bourbon,Green,Washed / Wet,8.0,7.83,7.67,8.33,7.83,8.0,10.0,10.0,10.0,0.11,0,0,1
+70,Arabica,Africa,Ethiopia,2015,03/30/16,,Green,Washed / Wet,7.75,7.83,7.83,8.17,7.92,7.83,10.0,10.0,10.0,0.1,0,0,18
+71,Arabica,Africa,Uganda,2013,06/26/15,SL14,Green,Washed / Wet,8.08,8.0,7.83,7.67,8.0,7.83,10.0,10.0,10.0,0.12,0,0,5
+72,Arabica,North America,United States,2012,04/06/13,Hawaiian Kona,,Natural / Dry,7.92,7.92,7.75,7.92,7.75,7.92,10.0,10.0,10.0,0.0,0,4,6
+73,Arabica,South America,Brazil,2011,12/02/12,Bourbon,Blue-Green,Semi-washed / Semi-pulped,8.0,8.0,8.0,7.67,7.75,8.0,10.0,10.0,10.0,0.11,0,0,1
+74,Arabica,North America,El Salvador,2009,05/31/11,,,,8.08,7.83,7.83,8.08,7.83,7.83,10.0,10.0,10.0,0.01,0,0,0
+75,Arabica,Asia,China,2015,04/06/17,Catimor,Green,Natural / Dry,8.0,8.0,8.0,7.83,7.83,7.75,10.0,10.0,10.0,0.1,0,0,0
+76,Arabica,North America,Guatemala,2014,05/22/16,Pacamara,Green,Natural / Dry,7.83,7.75,7.83,7.67,7.83,8.58,10.0,10.0,10.0,0.11,0,0,1
+77,Arabica,North America,Costa Rica,2014,05/01/15,Caturra,Bluish-Green,Washed / Wet,7.92,8.08,8.0,7.92,8.0,8.08,10.0,10.0,9.33,0.0,0,0,0
+78,Arabica,North America,Costa Rica,2014,05/01/15,Caturra,Bluish-Green,Washed / Wet,8.0,7.58,7.58,7.67,8.08,8.5,10.0,10.0,10.0,0.1,0,0,2
+79,Arabica,Africa,Kenya,2012,04/19/14,SL34,Green,Washed / Wet,7.83,8.08,7.75,8.08,7.92,7.75,10.0,10.0,10.0,0.0,0,0,2
+80,Arabica,Africa,Kenya,2012,03/12/14,SL34,Green,Washed / Wet,8.0,7.92,7.92,8.08,7.83,7.75,10.0,10.0,10.0,0.0,0,0,6
+81,Arabica,Africa,Ethiopia,2009,06/17/11,,,,7.83,7.83,7.92,8.08,7.75,7.83,10.0,10.0,10.0,0.05,0,0,2
+82,Arabica,Africa,Ethiopia,2009,06/17/11,Typica,,,7.92,7.83,7.75,8.33,7.75,7.75,10.0,10.0,10.0,0.1,0,0,3
+83,Arabica,North America,Guatemala,2016,04/27/17,Bourbon,Green,,8.0,7.92,7.75,8.0,7.92,7.83,10.0,10.0,10.0,0.1,2,0,2
+84,Arabica,South America,Colombia,2015,04/07/16,Caturra,Green,Washed / Wet,8.17,7.92,7.83,8.0,7.58,7.83,10.0,10.0,10.0,0.11,0,0,0
+85,Arabica,South America,Colombia,2014,01/17/15,Caturra,Green,Natural / Dry,7.58,8.08,7.92,7.83,8.0,7.92,10.0,10.0,10.0,0.12,0,0,2
+86,Arabica,Asia,Indonesia,2012,11/26/13,Sumatra Lintong,Green,Semi-washed / Semi-pulped,7.75,7.83,7.67,8.0,8.08,7.83,10.0,10.0,10.0,0.11,0,0,3
+87,Arabica,North America,Guatemala,2012,01/17/13,Caturra,,Washed / Wet,8.25,8.0,7.67,7.92,7.75,7.67,10.0,10.0,10.0,0.0,0,0,7
+88,Arabica,Africa,Ethiopia,2016,08/09/17,Other,Green,Natural / Dry,7.75,8.0,7.58,8.0,8.0,7.92,10.0,10.0,10.0,0.11,1,0,8
+89,Arabica,South America,Colombia,2015,08/17/16,Caturra,,Natural / Dry,8.17,7.83,7.58,8.08,8.0,7.75,10.0,10.0,10.0,0.0,0,0,0
+90,Arabica,Africa,Ethiopia,2014,10/07/15,,Green,Natural / Dry,8.42,8.0,7.42,8.0,7.92,7.92,9.33,10.0,10.0,0.1,0,2,7
+91,Arabica,North America,United States,2014,03/10/15,Hawaiian Kona,Bluish-Green,Natural / Dry,7.58,7.83,7.83,7.92,7.83,8.17,10.0,10.0,10.0,0.11,0,2,2
+92,Arabica,South America,Colombia,2012,03/16/13,Caturra,Green,Natural / Dry,7.83,8.0,7.75,7.75,7.83,7.83,10.0,10.0,10.0,0.11,0,0,8
+93,Arabica,North America,United States,2010,12/27/11,,,,8.08,8.17,7.92,8.0,8.08,8.0,9.33,9.33,10.0,0.01,0,1,7
+94,Arabica,Africa,Ethiopia,2010,06/17/11,,,,7.67,8.0,7.83,8.0,7.92,7.83,10.0,10.0,10.0,0.0,0,0,5
+95,Arabica,North America,United States,,05/17/11,,,,7.5,7.92,8.25,7.83,7.92,7.75,10.0,10.0,10.0,0.0,0,0,0
+96,Arabica,Africa,Uganda,2016,07/24/18,SL14,Green,Washed / Wet,8.17,7.92,7.75,7.75,7.67,7.75,10.0,10.0,10.0,0.11,0,0,1
+97,Arabica,South America,Colombia,2016,02/15/18,Caturra,Green,Washed / Wet,8.0,7.92,7.75,7.92,7.75,7.83,10.0,10.0,10.0,0.0,0,0,3
+98,Arabica,North America,Costa Rica,2016,01/30/18,Catuai,Green,Washed / Wet,7.83,8.0,7.58,7.92,7.92,7.83,10.0,10.0,10.0,0.12,1,1,1
+99,Arabica,North America,Mexico,2015,09/21/17,Typica,Green,Washed / Wet,7.83,8.0,7.83,7.75,7.67,7.83,10.0,10.0,10.0,0.09,0,0,3
+100,Arabica,Africa,Kenya,2015,05/07/17,,Green,Washed / Wet,8.17,7.83,7.92,7.75,7.67,7.83,10.0,10.0,10.0,0.11,5,0,7
+101,Arabica,Africa,Kenya,2012,04/19/14,SL34,Green,Washed / Wet,7.75,7.83,7.75,8.08,8.0,7.75,10.0,10.0,10.0,0.0,0,0,5
+102,Arabica,South America,Brazil,2012,02/28/13,Mundo Novo,Green,Natural / Dry,8.0,8.0,7.83,7.83,7.67,7.67,10.0,10.0,10.0,0.12,0,0,3
+103,Arabica,North America,Mexico,2010,04/05/12,Pacamara,,,7.92,8.17,7.75,8.08,7.42,7.83,10.0,10.0,10.0,0.0,0,0,0
+104,Arabica,North America,United States,,02/24/12,,,,7.75,7.92,7.75,7.75,8.0,8.0,10.0,10.0,10.0,0.0,0,0,1
+105,Arabica,North America,Guatemala,2009,09/07/11,,,,7.83,8.08,7.67,8.0,7.75,7.67,10.0,10.0,10.0,0.04,0,0,1
+106,Arabica,South America,Colombia,2016,11/25/17,Caturra,,Washed / Wet,7.92,7.92,7.67,7.83,7.92,7.83,10.0,10.0,10.0,0.0,6,1,2
+107,Arabica,South America,Colombia,2015,10/25/16,Caturra,Green,Washed / Wet,7.92,7.83,7.75,7.83,7.75,8.0,10.0,10.0,10.0,0.12,0,0,1
+108,Arabica,Asia,Taiwan,2015,06/08/16,Typica,Green,Semi-washed / Semi-pulped,7.67,7.83,8.0,7.58,8.0,7.92,10.0,10.0,10.0,0.11,0,0,0
+109,Arabica,Africa,Tanzania,2014,12/12/15,Other,Green,Washed / Wet,8.0,7.83,7.83,7.92,7.75,7.75,10.0,10.0,10.0,0.12,0,0,2
+110,Arabica,South America,Colombia,2012,12/11/13,Caturra,Green,Washed / Wet,7.75,7.92,7.83,7.75,7.75,8.0,10.0,10.0,10.0,0.11,0,0,3
+111,Arabica,North America,Mexico,2012,07/11/13,Typica,,Semi-washed / Semi-pulped,7.75,8.0,7.75,7.83,7.5,7.92,10.0,10.0,10.0,0.11,0,0,0
+112,Arabica,South America,Brazil,2011,12/22/12,Bourbon,Green,Natural / Dry,8.0,7.92,7.75,7.75,8.0,7.75,10.0,10.0,10.0,0.11,0,0,2
+113,Arabica,South America,Brazil,2011,12/02/12,Catuai,Green,Natural / Dry,8.0,8.0,7.75,8.0,7.5,7.75,10.0,10.0,10.0,0.12,0,0,2
+114,Arabica,Africa,Kenya,2009,08/26/11,,,,8.0,7.67,7.83,8.17,7.92,7.75,10.0,10.0,10.0,0.06,0,1,9
+115,Arabica,Asia,Taiwan,2016,05/18/17,Typica,Green,Natural / Dry,7.92,7.58,7.83,7.83,7.83,7.83,10.0,10.0,10.0,0.0,0,0,0
+116,Arabica,Africa,Uganda,2013,06/30/15,SL14,Green,Natural / Dry,7.75,7.92,7.67,7.67,8.25,7.75,10.0,10.0,10.0,0.12,0,0,1
+117,Arabica,North America,United States,2012,04/06/13,Hawaiian Kona,,Natural / Dry,7.67,7.75,7.75,7.75,7.83,8.0,10.0,10.0,10.0,0.0,0,3,15
+118,Arabica,Africa,Ethiopia,2009,06/17/11,,,,7.75,7.92,7.83,7.92,7.75,7.67,10.0,10.0,10.0,0.1,0,0,2
+119,Arabica,Africa,Ethiopia,2009,06/17/11,,,,7.42,7.92,7.92,8.0,7.83,7.83,10.0,10.0,10.0,0.1,0,0,4
+120,Arabica,Asia,Thailand,2015,06/27/17,Caturra,Green,Pulped natural / honey,7.75,7.75,7.75,7.75,8.0,7.75,10.0,10.0,10.0,0.12,0,0,0
+121,Arabica,Africa,Kenya,2014,06/01/16,SL34,Green,Washed / Wet,7.92,7.83,7.58,7.92,7.75,7.83,10.0,10.0,10.0,0.13,0,0,0
+122,Arabica,North America,Honduras,2014,04/25/15,Catuai,Green,Washed / Wet,7.83,7.75,8.0,7.67,7.67,7.67,10.0,10.0,10.0,0.11,0,0,4
+123,Arabica,North America,El Salvador,2010,08/22/12,,,,7.75,8.0,8.0,8.33,7.67,7.92,10.0,10.0,9.33,0.15,0,0,3
+124,Arabica,North America,Nicaragua,2009,05/31/11,,,,7.83,7.58,7.58,7.83,7.75,7.67,10.0,10.0,10.0,0.18,0,0,2
+125,Arabica,North America,El Salvador,2016,06/26/18,Bourbon,Blue-Green,Washed / Wet,7.83,7.83,7.5,8.0,7.83,7.67,10.0,10.0,10.0,0.0,0,0,2
+126,Arabica,Asia,Indonesia,2016,11/24/17,Java,Green,Washed / Wet,7.92,7.83,7.75,7.75,7.75,7.75,10.0,10.0,10.0,0.12,0,0,7
+127,Arabica,Asia,Japan,,11/02/17,Mundo Novo,Green,Pulped natural / honey,7.75,7.75,7.75,7.42,8.08,7.83,10.0,10.0,10.0,0.12,0,0,0
+128,Arabica,North America,Costa Rica,2015,10/04/17,Catuai,Blue-Green,Washed / Wet,8.08,7.75,7.67,7.83,7.5,7.92,10.0,10.0,10.0,0.1,0,0,2
+129,Arabica,North America,Guatemala,2015,06/01/17,Bourbon,Green,Washed / Wet,7.75,7.83,7.58,8.0,7.92,7.75,10.0,10.0,10.0,0.1,0,0,1
+130,Arabica,North America,Costa Rica,2014,07/05/16,Caturra,Green,Washed / Wet,8.17,8.0,7.83,7.17,7.83,7.75,10.0,10.0,10.0,0.12,0,0,0
+131,Arabica,Africa,Ethiopia,2014,05/22/16,Ethiopian Yirgacheffe,,Washed / Wet,8.08,7.83,7.75,7.83,7.58,7.67,10.0,10.0,10.0,0.1,0,0,3
+132,Arabica,North America,Costa Rica,2014,05/22/16,Other,Green,Other,7.67,7.58,7.75,7.75,7.67,8.58,10.0,10.0,10.0,0.08,0,0,1
+133,Arabica,North America,Costa Rica,2014,03/05/15,Catuai,Green,Washed / Wet,8.0,7.58,7.83,7.75,7.75,7.75,10.0,10.0,10.0,0.11,0,0,4
+134,Arabica,North America,Costa Rica,2012,01/03/15,,Green,Washed / Wet,8.08,7.83,7.75,7.83,7.92,8.0,10.0,10.0,9.33,0.0,0,1,10
+135,Arabica,Asia,Taiwan,2013,12/26/14,Typica,Green,Washed / Wet,8.0,7.92,7.75,7.75,7.75,7.75,10.0,10.0,10.0,0.11,0,0,0
+136,Arabica,South America,Colombia,2013,12/20/14,Caturra,Green,Washed / Wet,7.75,7.83,7.75,7.83,7.75,7.83,10.0,10.0,10.0,0.0,0,0,0
+137,Arabica,Africa,Kenya,2012,09/16/13,SL28,Bluish-Green,Washed / Wet,7.75,7.92,7.83,8.0,7.58,7.75,10.0,10.0,10.0,0.11,0,0,0
+138,Arabica,North America,Guatemala,2012,07/17/13,Bourbon,Green,Washed / Wet,8.0,7.83,7.67,7.83,7.67,8.0,10.0,10.0,10.0,0.11,0,0,4
+139,Arabica,North America,Guatemala,2012,07/03/13,Bourbon,Green,Washed / Wet,7.67,7.83,7.67,8.0,7.67,7.83,10.0,10.0,10.0,0.12,0,0,4
+140,Arabica,North America,Mexico,2012,07/02/13,Typica,,Washed / Wet,7.83,7.58,7.67,7.92,7.92,7.83,10.0,10.0,10.0,0.13,0,0,3
+141,Arabica,Africa,Uganda,2012,02/12/13,Other,Blue-Green,Washed / Wet,7.92,7.83,7.75,7.92,7.67,7.75,10.0,10.0,10.0,0.11,0,0,3
+142,Arabica,South America,Peru,,06/13/12,,,,7.67,7.83,7.75,7.75,7.92,7.83,10.0,10.0,10.0,0.0,0,0,3
+143,Arabica,Africa,Ethiopia,2009,06/17/11,,,,7.42,7.75,7.75,8.0,8.0,7.92,10.0,10.0,10.0,0.2,0,0,3
+144,Arabica,Africa,Kenya,,01/11/19,SL34,Blue-Green,Washed / Wet,7.92,7.75,7.83,7.75,7.58,7.92,10.0,10.0,10.0,0.11,0,0,5
+145,Arabica,South America,Colombia,2016,01/10/18,Other,Blue-Green,Washed / Wet,7.83,7.67,7.58,7.92,7.67,7.83,10.0,10.0,10.0,0.0,0,0,4
+146,Arabica,South America,Colombia,2016,12/28/17,Caturra,Green,Washed / Wet,7.92,7.83,7.58,8.0,7.83,7.67,10.0,10.0,10.0,0.0,1,0,5
+147,Arabica,Africa,Kenya,2013,07/21/15,Peaberry,Bluish-Green,Washed / Wet,7.83,7.83,7.83,7.75,7.58,7.83,10.0,10.0,10.0,0.1,0,0,2
+148,Arabica,North America,Guatemala,2014,05/29/15,Pacas,Green,Washed / Wet,7.75,7.83,7.67,7.92,7.75,7.83,10.0,10.0,10.0,0.11,0,0,1
+149,Arabica,North America,Guatemala,2014,03/24/15,Bourbon,Green,Washed / Wet,8.0,7.92,7.67,7.58,7.58,7.67,10.0,10.0,10.0,0.09,0,0,0
+150,Arabica,South America,Colombia,2013,12/20/14,Caturra,,Washed / Wet,7.67,7.67,7.58,7.75,7.58,8.5,10.0,10.0,10.0,0.0,0,0,0
+151,Arabica,South America,Colombia,2013,12/06/14,Caturra,,Washed / Wet,7.75,7.75,7.83,7.75,7.58,8.0,10.0,10.0,10.0,0.0,0,0,5
+152,Arabica,Africa,Kenya,2013,08/30/14,SL28,Green,Washed / Wet,7.75,7.75,7.75,8.08,7.75,7.75,10.0,10.0,10.0,0.0,0,0,0
+153,Arabica,South America,Colombia,2012,07/17/14,Caturra,Green,Washed / Wet,7.67,7.83,7.83,8.0,7.58,7.92,10.0,10.0,10.0,0.0,0,0,2
+154,Arabica,North America,Costa Rica,2012,03/12/14,Bourbon,Bluish-Green,Semi-washed / Semi-pulped,7.75,7.83,7.75,8.0,7.83,7.67,10.0,10.0,10.0,0.12,0,0,2
+155,Arabica,South America,Colombia,2012,10/09/13,Caturra,Green,Washed / Wet,7.42,7.67,7.75,7.75,8.08,7.83,10.0,10.0,10.0,0.11,0,0,6
+156,Arabica,South America,Brazil,2011,12/22/12,Bourbon,Green,Semi-washed / Semi-pulped,8.0,8.0,7.75,7.75,7.58,7.75,10.0,10.0,10.0,0.12,0,0,2
+157,Arabica,South America,Brazil,2011,12/02/12,Catuai,Blue-Green,Semi-washed / Semi-pulped,8.5,8.0,7.5,7.75,7.5,7.83,10.0,10.0,10.0,0.11,0,0,1
+158,Arabica,North America,Costa Rica,2017,11/28/18,Caturra,Bluish-Green,Washed / Wet,7.92,7.67,7.92,7.75,7.67,7.58,10.0,10.0,10.0,0.1,0,0,2
+159,Arabica,Africa,Uganda,2016,03/14/18,SL14,Green,Washed / Wet,7.92,7.75,7.67,7.75,7.83,7.75,10.0,10.0,10.0,0.11,0,0,1
+160,Arabica,Asia,China,2015,04/06/17,Catimor,Green,Washed / Wet,7.75,7.92,7.67,7.83,7.75,7.67,10.0,10.0,10.0,0.1,0,0,1
+161,Arabica,North America,Costa Rica,2014,07/05/16,Caturra,Green,Washed / Wet,7.92,7.83,7.83,7.83,7.58,7.58,10.0,10.0,10.0,0.11,0,0,0
+162,Arabica,South America,Colombia,2015,06/04/16,Other,Green,Washed / Wet,8.08,7.67,7.83,7.83,7.67,7.67,10.0,10.0,10.0,0.12,0,1,0
+163,Arabica,Asia,China,2013,06/16/15,Other,Green,Washed / Wet,7.67,8.0,7.75,7.83,7.75,7.58,10.0,10.0,10.0,0.0,0,0,2
+164,Arabica,North America,Guatemala,2013,02/26/14,Bourbon,Green,Washed / Wet,8.17,7.83,7.67,7.83,7.67,7.83,10.0,10.0,10.0,0.11,0,0,2
+165,Arabica,Africa,Kenya,2012,09/16/13,SL28,Blue-Green,Washed / Wet,7.92,7.83,7.67,8.0,7.67,7.75,10.0,10.0,10.0,0.11,0,0,0
+166,Arabica,North America,Mexico,2012,07/11/13,Typica,Green,Washed / Wet,8.0,7.92,7.42,8.08,7.5,7.67,10.0,10.0,10.0,0.12,0,0,0
+167,Arabica,North America,Mexico,2012,06/06/13,Typica,,Washed / Wet,7.92,7.83,7.75,7.75,7.75,7.83,10.0,10.0,10.0,0.11,0,0,4
+168,Arabica,North America,Guatemala,2012,02/15/13,Bourbon,Green,Washed / Wet,7.67,8.0,7.67,8.0,7.5,7.83,10.0,10.0,10.0,0.11,0,0,2
+169,Arabica,South America,Brazil,,03/22/12,,,,7.81,7.81,7.88,7.75,7.38,8.25,9.5,10.0,10.0,0.0,0,0,4
+170,Arabica,South America,Brazil,,03/21/12,,,,8.17,7.67,7.75,7.75,7.67,7.75,10.0,10.0,10.0,0.0,0,2,0
+171,Arabica,North America,Costa Rica,2016,03/23/18,Caturra,Blue-Green,Washed / Wet,7.58,7.83,7.83,8.0,7.67,7.58,10.0,10.0,10.0,0.1,0,0,3
+172,Arabica,Asia,Indonesia,2017,03/14/18,Mandheling,Blue-Green,Other,7.67,7.67,7.83,7.58,7.83,7.83,10.0,10.0,10.0,0.0,0,0,3
+173,Arabica,South America,Colombia,2015,01/24/17,Caturra,Green,Natural / Dry,7.92,7.83,7.75,7.67,7.92,7.67,10.0,10.0,10.0,0.0,0,0,1
+174,Arabica,South America,Colombia,2014,07/09/15,Caturra,Green,Washed / Wet,7.92,7.75,7.67,7.92,7.67,7.75,10.0,10.0,10.0,0.0,0,0,3
+175,Arabica,Asia,Taiwan,2012,07/10/14,Typica,Blue-Green,Washed / Wet,7.83,7.83,7.75,8.0,7.5,7.75,10.0,10.0,10.0,0.11,0,0,0
+176,Arabica,North America,United States,2012,01/21/14,Hawaiian Kona,Blue-Green,Natural / Dry,7.92,7.92,7.5,7.83,7.5,7.92,10.0,10.0,10.0,0.11,0,0,1
+177,Arabica,North America,Mexico,2012,06/06/13,Pacamara,,Washed / Wet,7.75,7.92,7.75,7.67,7.83,7.67,10.0,10.0,10.0,0.12,0,2,4
+178,Arabica,Africa,Ethiopia,2009,06/17/11,,,,7.5,7.75,7.83,7.92,7.92,7.75,10.0,10.0,10.0,0.2,0,0,2
+179,Arabica,Africa,Kenya,2017,08/03/18,SL28,Green,Washed / Wet,7.33,7.58,7.83,7.75,7.75,7.92,10.0,10.0,10.0,0.11,0,0,4
+180,Arabica,North America,Honduras,2016,05/11/18,Caturra,Green,,7.92,8.0,7.75,7.67,7.67,7.75,10.0,10.0,10.0,0.1,0,0,3
+181,Arabica,South America,Colombia,2016,02/20/18,Caturra,Green,Washed / Wet,7.58,7.75,7.5,7.83,7.67,8.5,10.0,10.0,10.0,0.0,3,0,5
+182,Arabica,North America,Honduras,2016,04/04/17,Catuai,Green,Washed / Wet,7.58,7.92,7.58,7.75,7.92,7.75,10.0,10.0,10.0,0.11,1,0,2
+183,Arabica,South America,Colombia,2016,02/15/17,,,,7.67,7.67,7.75,7.83,7.75,7.83,10.0,10.0,10.0,0.0,2,0,4
+184,Arabica,South America,Colombia,2015,04/28/16,Caturra,Green,Natural / Dry,7.75,7.67,8.0,7.67,8.08,7.83,10.0,10.0,10.0,0.11,0,6,0
+185,Arabica,South America,Colombia,2013,07/19/14,Caturra,Green,Washed / Wet,7.75,7.58,7.33,7.83,7.58,8.08,10.0,10.0,10.0,0.0,0,0,0
+186,Arabica,North America,Mexico,2012,07/27/13,Typica,Blue-Green,Washed / Wet,8.0,7.75,7.75,7.83,7.5,7.67,10.0,10.0,10.0,0.12,0,0,1
+187,Arabica,South America,Brazil,2011,10/27/12,Yellow Bourbon,,,8.17,8.0,7.5,7.75,7.5,7.67,10.0,10.0,10.0,0.0,0,0,4
+188,Arabica,South America,Brazil,2011,10/27/12,,,,8.0,8.0,7.5,7.5,7.67,7.75,10.0,10.0,10.0,0.02,0,0,2
+189,Arabica,Africa,Ethiopia,,06/13/12,,,,7.75,7.75,7.92,7.75,7.5,7.92,10.0,10.0,10.0,0.0,0,0,1
+190,Arabica,North America,Guatemala,2009,04/30/11,,,,7.5,7.67,7.75,7.67,7.92,7.92,10.0,10.0,10.0,0.04,0,1,1
+191,Arabica,Asia,Taiwan,2016,08/10/18,Typica,Blue-Green,Washed / Wet,7.92,7.75,7.75,7.67,7.67,7.83,10.0,10.0,10.0,0.12,0,0,0
+192,Arabica,Asia,Thailand,2015,11/02/17,Catimor,Green,Natural / Dry,7.83,7.75,7.75,7.42,7.83,7.67,10.0,10.0,10.0,0.12,0,0,0
+193,Arabica,South America,Colombia,2016,08/05/17,Caturra,Green,Natural / Dry,7.83,7.58,7.75,7.58,7.67,8.0,10.0,10.0,10.0,0.11,0,0,2
+194,Arabica,North America,Guatemala,2016,05/23/17,Caturra,Green,Washed / Wet,7.75,7.75,7.58,7.92,7.75,7.75,10.0,10.0,10.0,0.11,4,0,4
+195,Arabica,North America,Guatemala,2015,04/06/17,Caturra,Green,Washed / Wet,7.75,7.92,7.5,8.08,7.58,7.67,10.0,10.0,10.0,0.1,0,0,1
+196,Arabica,Asia,China,2015,04/06/17,Catimor,Green,Natural / Dry,7.83,7.83,7.58,7.75,7.75,7.75,10.0,10.0,10.0,0.1,0,0,1
+197,Arabica,South America,Colombia,2015,11/18/16,Caturra,Green,Washed / Wet,7.67,7.67,7.75,7.75,7.67,7.92,10.0,10.0,10.0,0.11,0,0,3
+198,Arabica,South America,Colombia,2015,10/25/16,Caturra,Green,Washed / Wet,7.83,7.67,7.75,7.58,7.92,7.75,10.0,10.0,10.0,0.12,0,4,2
+199,Arabica,South America,Colombia,2015,06/04/16,Other,Green,Washed / Wet,7.83,7.75,7.83,7.58,7.67,7.75,10.0,10.0,10.0,0.12,0,0,0
+200,Arabica,South America,Colombia,2015,04/28/16,Caturra,Green,Natural / Dry,7.42,7.67,7.83,7.75,7.92,7.83,10.0,10.0,10.0,0.12,0,3,0
+201,Arabica,Africa,Tanzania,2014,12/12/15,Other,Green,Washed / Wet,7.83,7.67,7.75,7.83,7.67,7.67,10.0,10.0,10.0,0.12,0,0,7
+202,Arabica,Africa,Tanzania,2014,12/12/15,Other,Green,Washed / Wet,7.83,7.75,7.75,7.75,7.67,7.75,10.0,10.0,10.0,0.12,0,0,2
+203,Arabica,North America,Guatemala,2014,08/21/15,Bourbon,Green,Other,7.83,7.83,7.5,7.92,7.58,7.75,10.0,10.0,10.0,0.1,0,0,1
+204,Arabica,South America,Colombia,2013,10/01/14,Caturra,Green,Washed / Wet,7.58,7.5,7.75,7.83,7.92,7.83,10.0,10.0,10.0,0.11,0,0,2
+205,Arabica,North America,United States,2012,12/11/13,Hawaiian Kona,Bluish-Green,Natural / Dry,7.33,7.92,7.92,7.92,7.92,8.08,10.0,10.0,9.33,0.11,0,1,1
+206,Arabica,North America,Mexico,2012,09/11/13,Typica,Green,Semi-washed / Semi-pulped,7.83,7.92,7.67,7.83,7.5,7.75,10.0,10.0,10.0,0.12,0,0,1
+207,Arabica,North America,Mexico,2012,04/09/13,Bourbon,Green,Washed / Wet,7.83,7.83,7.75,7.67,7.83,7.58,10.0,10.0,10.0,0.12,0,0,0
+208,Arabica,North America,Mexico,2012,04/02/13,Bourbon,Bluish-Green,Washed / Wet,7.83,7.92,7.67,7.75,7.5,7.75,10.0,10.0,10.0,0.1,0,0,4
+209,Arabica,Africa,Uganda,2012,02/12/13,Other,Green,Natural / Dry,8.17,7.75,7.58,7.67,7.83,7.58,10.0,10.0,10.0,0.13,0,4,29
+210,Arabica,North America,Guatemala,2017,06/01/18,Bourbon,Green,Washed / Wet,7.75,7.83,7.58,7.83,7.67,7.75,10.0,10.0,10.0,0.13,0,0,1
+211,Arabica,South America,Colombia,2016,08/19/17,Caturra,Green,Washed / Wet,7.83,7.75,7.58,7.67,7.75,7.83,10.0,10.0,10.0,0.0,0,0,2
+212,Arabica,North America,Costa Rica,2016,08/19/17,Caturra,Bluish-Green,Washed / Wet,7.92,7.75,7.67,7.67,7.5,7.67,10.0,10.0,10.0,0.09,0,0,2
+213,Arabica,North America,Guatemala,2016,06/23/17,Caturra,Green,Washed / Wet,7.75,7.75,7.58,8.0,7.67,7.83,10.0,10.0,10.0,0.11,0,0,6
+214,Arabica,North America,Guatemala,2016,06/01/17,Caturra,Green,Washed / Wet,7.75,7.92,7.58,7.92,7.67,7.67,10.0,10.0,10.0,0.1,1,0,10
+215,Arabica,North America,Guatemala,2016,06/01/17,Bourbon,Green,Washed / Wet,7.58,7.83,7.58,7.83,7.83,7.67,10.0,10.0,10.0,0.1,0,0,2
+216,Arabica,South America,Colombia,2015,08/17/16,Caturra,Bluish-Green,Washed / Wet,8.0,7.5,7.5,7.67,8.0,7.83,10.0,10.0,10.0,0.0,0,0,0
+217,Arabica,North America,Nicaragua,2015,08/02/16,Caturra,Bluish-Green,Natural / Dry,7.67,7.83,7.83,7.5,7.67,7.83,10.0,10.0,10.0,0.12,0,0,0
+218,Arabica,South America,Brazil,2015,04/23/16,Catuai,,Natural / Dry,7.67,7.75,7.75,7.67,7.83,7.75,10.0,10.0,10.0,0.0,0,0,16
+219,Arabica,North America,Costa Rica,2014,04/09/16,Caturra,Blue-Green,Washed / Wet,7.67,7.75,7.67,7.75,7.5,8.0,10.0,10.0,10.0,0.0,0,0,0
+220,Arabica,Africa,Ethiopia,2014,03/25/16,Gesha,Green,Natural / Dry,7.5,7.92,7.58,7.83,7.75,7.83,10.0,10.0,10.0,0.1,0,0,5
+221,Arabica,Africa,Tanzania,2014,12/12/15,Other,Green,Washed / Wet,7.92,7.75,7.75,7.75,7.75,7.58,10.0,10.0,10.0,0.13,0,0,0
+222,Arabica,South America,Colombia,2014,10/15/15,Other,Green,Washed / Wet,7.67,7.5,7.67,7.42,7.83,8.58,10.0,10.0,10.0,0.12,0,0,4
+223,Arabica,North America,Guatemala,2013,07/16/15,,Bluish-Green,Washed / Wet,7.67,7.75,7.67,7.75,7.75,7.75,10.0,10.0,10.0,0.11,0,0,0
+224,Arabica,Africa,Kenya,2013,11/07/14,SL28,Green,Washed / Wet,7.58,7.75,7.75,7.75,7.75,7.83,10.0,10.0,10.0,0.08,0,0,0
+225,Arabica,South America,Brazil,2012,05/20/14,Mundo Novo,Green,Natural / Dry,7.58,7.83,7.75,7.67,7.67,8.0,10.0,10.0,10.0,0.11,0,0,3
+226,Arabica,North America,Guatemala,2013,05/09/14,Bourbon,Green,Washed / Wet,7.92,7.75,7.67,7.67,7.83,7.92,10.0,10.0,10.0,0.11,0,0,4
+227,Arabica,North America,El Salvador,2013,03/18/14,Bourbon,Bluish-Green,Natural / Dry,8.42,8.08,7.5,7.17,7.58,8.17,9.33,10.0,10.0,0.11,0,0,2
+228,Arabica,South America,Colombia,2012,10/19/13,Caturra,Green,Washed / Wet,7.75,7.75,7.75,7.75,7.83,7.75,10.0,10.0,10.0,0.0,0,0,2
+229,Arabica,North America,Guatemala,2012,03/26/13,Catuai,Bluish-Green,Natural / Dry,7.83,7.5,7.5,8.0,7.83,7.83,10.0,10.0,10.0,0.11,0,0,2
+230,Arabica,Africa,Uganda,2012,02/12/13,Other,Green,Washed / Wet,7.83,7.75,7.5,7.83,7.83,7.75,10.0,10.0,10.0,0.11,0,0,1
+231,Arabica,Asia,Indonesia,2017,05/24/18,Mandheling,Bluish-Green,Natural / Dry,7.81,7.88,7.56,7.75,7.63,7.75,10.0,10.0,10.0,0.12,0,0,0
+232,Arabica,South America,Colombia,2017,11/09/18,Caturra,Green,Washed / Wet,7.83,7.5,7.42,7.5,7.83,8.5,10.0,10.0,10.0,0.0,3,1,3
+233,Arabica,Asia,Taiwan,2016,05/18/17,Typica,Bluish-Green,Washed / Wet,7.58,7.67,7.67,7.67,7.75,7.83,10.0,10.0,10.0,0.1,0,0,4
+234,Arabica,North America,Guatemala,2016,04/27/17,Bourbon,Green,Washed / Wet,8.0,7.75,7.5,7.58,7.92,7.67,10.0,10.0,10.0,0.1,0,0,4
+235,Arabica,South America,Colombia,2014,11/05/15,Caturra,,Washed / Wet,7.92,7.75,7.67,7.75,7.67,7.67,10.0,10.0,10.0,0.0,0,0,2
+236,Arabica,North America,Guatemala,2014,06/16/15,Bourbon,Bluish-Green,Washed / Wet,7.58,7.75,7.67,8.0,7.75,7.67,10.0,10.0,10.0,0.1,0,0,10
+237,Arabica,North America,United States,2012,01/24/14,Hawaiian Kona,Green,Natural / Dry,7.83,7.75,7.83,7.83,7.42,8.08,9.33,10.0,10.0,0.11,0,1,9
+238,Arabica,North America,Mexico,2012,09/04/13,Typica,Green,Washed / Wet,7.67,7.75,7.67,7.75,7.67,7.75,10.0,10.0,10.0,0.11,0,1,10
+239,Arabica,Africa,Ethiopia,2012,08/17/13,Other,,Natural / Dry,7.92,7.92,7.83,8.0,7.92,7.92,10.0,10.0,8.67,0.09,0,0,15
+240,Arabica,North America,Costa Rica,2017,01/11/19,,None,Washed / Wet,7.58,7.75,7.67,7.75,7.83,7.75,10.0,10.0,10.0,0.08,2,1,13
+241,Arabica,Africa,Ethiopia,2017,06/05/18,Gesha,Green,Natural / Dry,7.83,7.75,7.67,7.75,7.33,7.75,10.0,10.0,10.0,0.11,11,3,1
+242,Arabica,North America,Honduras,2017,05/11/18,Caturra,Green,Washed / Wet,7.42,7.83,7.75,7.92,7.75,7.58,10.0,10.0,10.0,0.1,0,0,5
+243,Arabica,North America,Guatemala,2015,06/09/16,Caturra,Green,Washed / Wet,7.67,7.83,7.58,7.92,7.75,7.67,10.0,10.0,10.0,0.12,0,0,7
+244,Arabica,South America,Colombia,2014,12/18/15,Other,Green,Washed / Wet,7.67,7.67,7.83,7.58,7.58,7.83,10.0,10.0,10.0,0.11,0,2,7
+245,Arabica,North America,Guatemala,2014,08/08/15,Bourbon,Green,Natural / Dry,7.92,7.67,7.42,7.92,7.75,7.83,10.0,10.0,10.0,0.1,0,0,1
+246,Arabica,North America,Guatemala,2014,06/27/15,Bourbon,Green,Other,7.75,7.83,7.5,7.83,7.58,7.67,10.0,10.0,10.0,0.1,0,0,0
+247,Arabica,South America,Colombia,2014,05/27/15,,Green,Washed / Wet,7.67,7.75,7.67,7.67,7.67,7.75,10.0,10.0,10.0,0.12,0,0,0
+248,Arabica,South America,Colombia,2014,05/27/15,Caturra,Green,Natural / Dry,7.58,7.42,7.75,7.92,7.75,7.92,10.0,10.0,10.0,0.12,0,0,0
+249,Arabica,South America,Colombia,2014,04/08/15,Caturra,Green,Washed / Wet,7.67,7.67,7.5,7.5,7.67,7.67,10.0,10.0,10.0,0.12,0,0,3
+250,Arabica,Africa,Ethiopia,2013,01/17/15,Other,Green,Natural / Dry,7.75,7.75,7.5,7.58,7.67,7.92,10.0,10.0,10.0,0.09,0,4,40
+251,Arabica,South America,Brazil,2013,01/02/15,Yellow Bourbon,Green,Natural / Dry,7.58,7.83,7.67,7.25,8.0,7.75,10.0,10.0,10.0,0.1,0,0,0
+252,Arabica,South America,Colombia,2013,06/21/14,Caturra,Green,Washed / Wet,7.67,7.83,7.67,7.75,7.67,7.75,10.0,10.0,10.0,0.11,0,0,1
+253,Arabica,Africa,Kenya,2012,03/08/14,SL34,Green,Washed / Wet,7.67,7.83,7.5,7.75,7.92,7.67,10.0,10.0,10.0,0.0,0,0,2
+254,Arabica,Asia,Thailand,2012,06/21/13,Other,Green,Washed / Wet,7.92,8.17,8.17,8.42,8.08,8.17,8.67,8.67,9.33,0.12,0,0,0
+255,Arabica,Africa,Kenya,2012,05/31/13,SL28,Bluish-Green,Washed / Wet,7.67,7.75,7.67,7.75,7.83,7.67,10.0,10.0,10.0,0.0,0,0,0
+256,Arabica,Africa,Uganda,2012,02/12/13,Other,Green,Washed / Wet,7.92,7.75,7.58,7.67,7.67,7.83,10.0,10.0,10.0,0.1,0,10,26
+257,Arabica,Asia,Thailand,2011,08/15/12,,,,7.58,7.75,7.58,7.75,7.58,7.75,10.0,10.0,10.0,0.06,0,0,0
+258,Arabica,South America,Brazil,2017,10/20/18,Bourbon,Green,Natural / Dry,7.5,7.75,7.58,7.5,7.58,7.5,10.0,10.0,10.0,0.0,0,0,3
+259,Arabica,North America,Mexico,2017,07/03/18,Mundo Novo,Green,Washed / Wet,7.83,7.83,7.58,7.92,7.42,7.5,10.0,10.0,10.0,0.11,0,0,5
+260,Arabica,Asia,Thailand,2015,10/18/17,Catimor,Bluish-Green,Natural / Dry,7.67,7.75,7.5,7.67,7.67,7.83,10.0,10.0,10.0,0.1,0,0,1
+261,Arabica,South America,Brazil,2016,08/16/17,Bourbon,Green,Natural / Dry,7.58,7.67,7.67,7.75,7.58,7.83,10.0,10.0,10.0,0.11,2,0,7
+262,Arabica,Asia,Taiwan,2015,05/18/17,Typica,Green,Washed / Wet,7.83,7.75,7.83,7.75,7.83,7.75,9.33,10.0,10.0,0.11,0,0,3
+263,Arabica,South America,Colombia,2016,02/10/17,,Green,,7.75,7.67,7.5,7.75,7.83,7.75,10.0,10.0,10.0,0.11,0,1,2
+264,Arabica,South America,Colombia,2016,01/20/17,,,,7.75,7.58,7.5,7.83,7.75,7.92,10.0,10.0,10.0,0.0,3,1,5
+265,Arabica,Asia,Taiwan,2014,11/06/16,,Blue-Green,Natural / Dry,7.75,7.75,7.58,7.75,7.75,7.67,10.0,10.0,10.0,0.0,0,0,0
+266,Arabica,South America,Colombia,2015,08/17/16,,,Washed / Wet,7.92,7.67,7.5,7.83,7.58,7.67,10.0,10.0,10.0,0.0,0,0,0
+267,Arabica,South America,Colombia,2014,03/11/16,,None,Washed / Wet,7.83,7.75,7.58,7.58,7.75,7.75,10.0,10.0,10.0,0.0,0,1,1
+268,Arabica,South America,Colombia,2014,12/12/15,Caturra,Green,Washed / Wet,7.75,7.58,7.67,7.83,7.83,7.67,10.0,10.0,10.0,0.0,0,0,1
+269,Arabica,Asia,Taiwan,2014,11/23/15,Typica,Green,Washed / Wet,8.0,7.92,7.92,7.92,7.67,7.33,10.0,10.0,10.0,0.06,0,0,0
+270,Arabica,South America,Colombia,2014,01/17/15,Caturra,Green,Natural / Dry,7.67,7.83,7.67,7.75,7.67,7.83,10.0,10.0,10.0,0.12,0,0,3
+271,Arabica,North America,Mexico,2012,07/03/13,Typica,Blue-Green,Washed / Wet,7.67,7.75,7.58,7.67,7.75,7.83,10.0,10.0,10.0,0.12,0,10,32
+272,Arabica,North America,Mexico,2012,06/06/13,Typica,,Washed / Wet,7.5,7.67,7.58,7.83,7.75,7.75,10.0,10.0,10.0,0.11,0,0,2
+273,Arabica,North America,Mexico,2012,04/02/13,Typica,Green,Washed / Wet,7.75,7.92,7.83,7.92,7.75,7.67,9.33,10.0,10.0,0.0,0,0,2
+274,Arabica,South America,Colombia,2017,06/30/18,Caturra,Green,Washed / Wet,7.92,7.58,7.5,7.83,7.58,7.67,10.0,10.0,10.0,0.0,0,1,6
+275,Arabica,South America,Colombia,2016,03/14/18,Caturra,Green,,7.83,7.67,7.5,7.75,7.75,7.75,10.0,10.0,10.0,0.0,2,1,0
+276,Arabica,North America,Costa Rica,2015,06/06/17,Caturra,Blue-Green,Washed / Wet,7.67,7.67,7.75,7.67,7.5,7.75,10.0,10.0,10.0,0.0,0,0,0
+277,Arabica,North America,Guatemala,2016,05/23/17,Bourbon,Green,Washed / Wet,7.75,7.75,7.5,7.75,7.83,7.58,10.0,10.0,10.0,0.11,7,0,6
+278,Arabica,Asia,Taiwan,2016,02/22/17,,,,7.75,7.67,7.5,7.75,7.75,7.67,10.0,10.0,10.0,0.0,0,0,0
+279,Arabica,South America,Brazil,2015,10/07/16,Yellow Bourbon,Green,Natural / Dry,7.25,7.58,7.42,8.0,7.75,7.83,10.0,10.0,10.0,0.0,0,0,0
+280,Arabica,Asia,Taiwan,2014,04/29/16,Typica,Green,Washed / Wet,7.67,7.75,7.67,7.75,7.42,7.75,10.0,10.0,10.0,0.0,0,0,1
+281,Arabica,Africa,Ethiopia,2014,03/30/16,,Green,Natural / Dry,7.75,7.75,7.67,7.67,7.58,7.67,10.0,10.0,10.0,0.12,0,0,4
+282,Arabica,South America,Brazil,2014,10/16/15,Bourbon,Green,Semi-washed / Semi-pulped,7.67,7.67,7.58,7.5,7.83,8.17,10.0,10.0,9.33,0.0,0,0,1
+283,Arabica,North America,Costa Rica,2013,06/09/15,Catuai,Green,Washed / Wet,7.83,7.42,7.5,7.83,7.75,7.83,10.0,10.0,10.0,0.1,0,0,3
+284,Arabica,North America,Guatemala,2014,05/22/15,Bourbon,Green,Washed / Wet,7.58,7.83,7.33,8.0,7.58,7.75,10.0,10.0,10.0,0.1,0,0,1
+285,Arabica,South America,Brazil,2013,12/26/14,Yellow Bourbon,Green,Natural / Dry,7.92,7.5,7.33,7.67,8.17,7.5,10.0,10.0,10.0,0.1,0,0,0
+286,Arabica,South America,Ecuador,2013,10/04/14,,Bluish-Green,Natural / Dry,7.5,7.67,7.58,7.75,7.83,7.83,10.0,10.0,10.0,0.09,0,0,0
+287,Arabica,South America,Colombia,2013,09/03/14,Caturra,Green,Washed / Wet,7.67,7.58,7.58,7.83,7.58,7.67,10.0,10.0,10.0,0.11,0,0,1
+288,Arabica,North America,Guatemala,2013,04/26/14,Bourbon,Green,Washed / Wet,7.5,7.83,7.5,7.83,7.83,7.67,10.0,10.0,10.0,0.11,0,0,3
+289,Arabica,North America,Mexico,2012,07/26/13,Bourbon,Green,Natural / Dry,7.67,8.0,7.67,7.42,7.67,7.5,10.0,10.0,10.0,0.1,0,0,2
+290,Arabica,North America,Mexico,2012,06/06/13,Pacas,,Natural / Dry,7.67,7.58,7.5,7.75,7.75,7.75,10.0,10.0,10.0,0.11,0,0,4
+291,Arabica,South America,Brazil,2011,12/20/12,Yellow Bourbon,Green,Semi-washed / Semi-pulped,7.83,7.83,7.58,7.67,7.5,7.58,10.0,10.0,10.0,0.12,0,0,3
+292,Arabica,Asia,Thailand,2011,09/19/12,,,,7.75,7.75,7.58,8.0,7.67,7.58,10.0,10.0,10.0,0.02,0,0,2
+293,Arabica,Asia,Thailand,2011,08/15/12,,,,7.5,7.83,7.58,7.58,7.75,7.83,10.0,10.0,10.0,0.01,0,0,0
+294,Arabica,Africa,Ethiopia,2010,06/17/11,,,,7.58,7.83,7.58,8.0,7.83,7.5,10.0,10.0,10.0,0.1,0,0,3
+295,Arabica,Africa,Kenya,,01/11/19,SL28,Green,Washed / Wet,7.75,7.58,7.5,7.58,7.75,7.75,10.0,10.0,10.0,0.11,0,0,2
+296,Arabica,South America,Brazil,2017,10/20/18,Bourbon,Green,Natural / Dry,7.67,7.67,7.58,7.75,7.67,7.67,10.0,10.0,10.0,0.11,0,0,5
+297,Arabica,South America,Colombia,2017,09/28/18,Caturra,Green,Washed / Wet,7.83,7.83,7.58,7.58,7.58,7.58,10.0,10.0,10.0,0.11,0,0,1
+298,Arabica,Asia,Taiwan,2016,06/06/18,Typica,Green,Natural / Dry,7.67,7.67,7.58,7.58,7.67,7.83,10.0,10.0,10.0,0.0,0,0,0
+299,Arabica,South America,Colombia,2016,02/15/18,,Green,Washed / Wet,7.92,7.75,7.5,7.67,7.75,7.5,10.0,10.0,10.0,0.0,0,1,4
+300,Arabica,Asia,China,2015,04/06/17,Catimor,Green,Washed / Wet,7.83,7.75,7.67,7.5,7.58,7.67,10.0,10.0,10.0,0.1,1,0,2
+301,Arabica,South America,Colombia,2015,11/26/16,Caturra,Green,Natural / Dry,7.75,7.67,7.5,7.67,7.58,7.83,10.0,10.0,10.0,0.0,0,0,0
+302,Arabica,Africa,Uganda,2013,06/30/15,Bourbon,Green,Natural / Dry,8.0,7.92,7.58,7.75,7.33,7.5,10.0,10.0,10.0,0.12,0,0,0
+303,Arabica,North America,United States,2013,06/09/15,Other,Green,Washed / Wet,7.83,7.83,7.83,7.67,8.0,8.17,9.33,9.33,10.0,0.12,0,0,1
+304,Arabica,South America,Colombia,2014,02/05/15,Caturra,Green,Washed / Wet,7.67,7.67,7.67,7.92,7.5,7.67,10.0,10.0,10.0,0.0,0,0,5
+305,Arabica,South America,Colombia,2014,01/24/15,Other,Green,Washed / Wet,7.67,7.42,7.42,7.42,8.0,8.33,10.0,10.0,10.0,0.0,0,0,3
+306,Arabica,South America,Colombia,2013,11/22/14,Caturra,Blue-Green,Washed / Wet,7.58,7.67,7.75,7.67,7.67,7.67,10.0,10.0,10.0,0.0,0,0,1
+307,Arabica,South America,Colombia,2013,08/27/14,Caturra,Green,Washed / Wet,7.75,7.67,7.75,7.58,7.42,8.0,10.0,10.0,10.0,0.11,0,0,3
+308,Arabica,North America,United States,2013,05/02/14,Hawaiian Kona,Bluish-Green,Natural / Dry,7.25,7.42,7.67,7.58,7.83,8.25,10.0,10.0,10.0,0.0,0,0,0
+309,Arabica,North America,Mexico,2012,09/27/13,Caturra,None,Natural / Dry,7.83,7.58,7.58,7.5,7.75,7.67,10.0,10.0,10.0,0.13,0,5,5
+310,Arabica,North America,Guatemala,2012,05/24/13,Caturra,Bluish-Green,Washed / Wet,7.67,7.58,7.58,7.67,7.75,7.75,10.0,10.0,10.0,0.11,0,0,1
+311,Arabica,South America,Colombia,2011,04/19/12,,,,7.83,7.83,7.58,7.33,7.42,7.67,10.0,10.0,10.0,0.1,0,0,1
+312,Arabica,South America,Colombia,2010,02/09/12,,,,7.75,7.67,7.25,7.25,7.58,8.5,10.0,10.0,10.0,0.06,0,0,1
+313,Arabica,North America,United States,,06/29/11,,,,7.83,7.67,7.75,7.67,7.58,7.5,10.0,10.0,10.0,0.0,0,0,0
+314,Arabica,South America,Brazil,2017,10/20/18,Bourbon,Green,Natural / Dry,7.67,7.83,7.5,7.67,7.67,7.5,10.0,10.0,10.0,0.11,0,0,2
+315,Arabica,Africa,Kenya,2017,09/01/18,SL28,Bluish-Green,Washed / Wet,8.08,7.67,7.67,7.58,7.25,7.67,10.0,10.0,10.0,0.11,0,0,0
+316,Arabica,North America,Honduras,2016,05/11/18,Caturra,Green,Washed / Wet,7.5,7.5,7.67,7.67,8.0,8.0,10.0,10.0,10.0,0.1,0,0,2
+317,Arabica,North America,Nicaragua,2016,05/11/18,Caturra,Green,Washed / Wet,7.67,7.75,7.67,7.67,7.83,7.58,10.0,10.0,10.0,0.1,0,0,3
+318,Arabica,South America,Brazil,2016,08/16/17,Bourbon,Green,Natural / Dry,7.58,7.75,7.58,7.75,7.58,7.58,10.0,10.0,10.0,0.11,2,0,3
+319,Arabica,Asia,Taiwan,2015,05/18/17,Caturra,Bluish-Green,Natural / Dry,7.5,7.67,7.33,7.92,7.83,7.67,10.0,10.0,10.0,0.1,0,0,0
+320,Arabica,North America,Costa Rica,,03/14/17,,Blue-Green,,7.33,7.67,7.67,7.5,7.67,7.5,10.0,10.0,10.0,0.11,0,0,1
+321,Arabica,Asia,Thailand,2014,06/08/16,,Bluish-Green,Washed / Wet,7.5,7.75,7.58,7.83,7.67,7.58,10.0,10.0,10.0,0.12,0,0,0
+322,Arabica,South America,Colombia,2014,11/21/15,Caturra,,Washed / Wet,7.5,7.75,7.5,7.75,7.67,7.67,10.0,10.0,10.0,0.11,0,0,4
+323,Arabica,North America,Guatemala,2014,02/27/15,Bourbon,Green,Washed / Wet,8.0,7.5,7.33,8.0,8.0,8.0,9.33,10.0,10.0,0.1,0,0,0
+324,Arabica,South America,Colombia,2013,10/29/14,Caturra,Green,Washed / Wet,7.83,7.75,7.67,7.58,7.58,7.67,10.0,10.0,10.0,0.0,0,0,3
+325,Arabica,South America,Colombia,2013,08/16/14,Caturra,Green,Washed / Wet,7.67,7.67,7.67,7.67,7.33,7.75,10.0,10.0,10.0,0.0,0,0,1
+326,Arabica,North America,Guatemala,2013,05/30/14,Bourbon,Green,Washed / Wet,7.67,7.67,7.42,7.67,8.0,7.75,10.0,10.0,10.0,0.12,0,1,3
+327,Arabica,North America,Guatemala,2013,02/26/14,Bourbon,Green,Washed / Wet,7.83,7.67,7.33,7.67,7.67,7.83,10.0,10.0,10.0,0.11,0,0,2
+328,Arabica,South America,Colombia,2012,11/22/13,Caturra,Green,Washed / Wet,7.75,7.75,7.58,7.83,7.17,7.75,10.0,10.0,10.0,0.11,0,0,1
+329,Arabica,North America,Guatemala,2012,08/23/13,Caturra,Green,Natural / Dry,8.17,8.17,7.83,7.67,8.08,7.75,9.33,9.33,9.33,0.11,0,0,1
+330,Arabica,North America,Guatemala,2012,07/09/13,Bourbon,Green,Washed / Wet,7.67,8.17,7.5,7.42,7.58,7.83,10.0,10.0,10.0,0.11,0,0,13
+331,Arabica,North America,Mexico,2012,07/02/13,Typica,Green,Washed / Wet,7.67,7.5,7.5,7.33,7.83,8.25,10.0,10.0,10.0,0.12,0,4,11
+332,Arabica,Asia,Indonesia,2012,05/23/13,Typica,Green,Washed / Wet,8.17,7.67,7.58,7.58,7.42,7.67,10.0,10.0,10.0,0.12,0,0,0
+333,Arabica,North America,Guatemala,2012,04/30/13,Caturra,Green,Washed / Wet,7.67,7.5,7.33,8.0,7.67,7.67,10.0,10.0,10.0,0.1,0,0,0
+334,Arabica,North America,United States,,04/20/12,,,,7.75,8.0,7.92,8.08,7.75,8.0,9.33,9.33,9.33,0.0,0,0,0
+335,Arabica,South America,Brazil,2017,10/20/18,Bourbon,Green,Natural / Dry,7.58,7.67,7.58,7.58,7.67,7.58,10.0,10.0,10.0,0.11,0,0,5
+336,Arabica,North America,Guatemala,2016,07/05/17,Caturra,Green,Washed / Wet,7.75,7.75,7.5,7.83,7.58,7.58,10.0,10.0,10.0,0.11,1,0,0
+337,Arabica,South America,Colombia,2016,04/15/17,Caturra,Green,Washed / Wet,7.75,7.75,7.58,7.58,7.67,7.58,10.0,10.0,10.0,0.11,0,0,4
+338,Arabica,Asia,China,2015,04/06/17,Catimor,Green,Washed / Wet,7.67,7.58,7.58,7.58,7.67,7.75,10.0,10.0,10.0,0.1,1,0,4
+339,Arabica,South America,Colombia,2015,11/18/16,Caturra,Green,Washed / Wet,7.67,7.75,7.58,7.67,7.75,7.58,10.0,10.0,10.0,0.12,0,0,3
+340,Arabica,North America,Mexico,2014,05/11/16,Caturra,Green,Washed / Wet,7.75,7.75,7.58,7.58,7.5,7.67,10.0,10.0,10.0,0.12,0,1,13
+341,Arabica,Africa,Ethiopia,2014,03/24/16,Other,,Washed / Wet,7.75,7.67,7.58,7.67,7.5,7.67,10.0,10.0,10.0,0.0,0,0,7
+342,Arabica,Africa,Uganda,2013,06/27/15,SL14,Green,Washed / Wet,7.67,7.67,7.42,7.75,7.75,7.67,10.0,10.0,10.0,0.12,0,0,5
+343,Arabica,South America,Colombia,2014,06/24/15,Caturra,Green,Natural / Dry,7.67,7.58,7.67,7.67,7.67,7.67,10.0,10.0,10.0,0.0,0,0,0
+344,Arabica,South America,Colombia,2014,03/13/15,Caturra,Green,Washed / Wet,7.67,7.58,7.67,7.58,7.67,7.75,10.0,10.0,10.0,0.12,0,0,1
+345,Arabica,South America,Colombia,2014,03/21/15,Caturra,,Washed / Wet,7.75,7.58,7.5,7.58,7.75,7.83,10.0,10.0,10.0,0.0,0,0,0
+346,Arabica,Asia,Taiwan,2013,12/26/14,Typica,Green,Other,7.75,7.75,7.75,7.75,7.5,7.58,10.0,10.0,10.0,0.11,0,0,0
+347,Arabica,South America,Colombia,2012,08/31/13,Caturra,Green,Washed / Wet,7.67,7.67,7.58,7.67,7.75,7.58,10.0,10.0,10.0,0.11,0,0,3
+348,Arabica,North America,Mexico,2012,06/06/13,Typica,,Washed / Wet,7.83,7.67,7.58,7.58,7.67,7.58,10.0,10.0,10.0,0.12,0,0,2
+349,Arabica,South America,Colombia,2012,04/02/13,Caturra,Green,Natural / Dry,7.67,7.58,7.58,7.58,7.67,7.75,10.0,10.0,10.0,0.11,0,0,4
+350,Arabica,South America,Brazil,2012,01/22/13,Catuai,Blue-Green,Semi-washed / Semi-pulped,7.83,7.75,7.5,7.75,7.5,7.58,10.0,10.0,10.0,0.12,0,0,2
+351,Arabica,South America,Colombia,2016,02/20/18,Caturra,Bluish-Green,Washed / Wet,7.75,7.58,7.58,7.75,7.75,7.5,10.0,10.0,10.0,0.0,0,0,5
+352,Arabica,Asia,Taiwan,2016,02/13/18,,Blue-Green,,7.58,7.58,7.17,7.17,7.0,7.0,10.0,10.0,10.0,0.11,0,0,0
+353,Arabica,North America,Costa Rica,2015,06/06/17,Caturra,Blue-Green,Washed / Wet,7.92,7.42,7.5,7.67,7.5,7.67,10.0,10.0,10.0,0.0,0,0,0
+354,Arabica,South America,Colombia,2016,04/07/17,Caturra,Green,Natural / Dry,7.75,7.58,7.58,7.5,7.75,7.75,10.0,10.0,10.0,0.0,0,0,0
+355,Arabica,North America,Guatemala,2016,03/16/17,Bourbon,Bluish-Green,Washed / Wet,7.67,7.75,7.5,7.83,7.58,7.58,10.0,10.0,10.0,0.1,2,0,5
+356,Arabica,South America,Colombia,2015,11/18/16,Caturra,Green,Washed / Wet,7.58,7.58,7.58,7.58,7.75,7.67,10.0,10.0,10.0,0.12,0,0,4
+357,Arabica,Africa,Tanzania,2015,11/15/16,Ruiru 11,Green,Washed / Wet,7.75,7.67,7.58,7.67,7.67,7.58,10.0,10.0,10.0,0.13,0,0,21
+358,Arabica,Asia,Indonesia,2015,09/13/16,Sumatra,Bluish-Green,Semi-washed / Semi-pulped,7.25,7.67,7.58,7.92,7.83,7.58,10.0,10.0,10.0,0.13,0,0,8
+359,Arabica,Africa,Ethiopia,2014,03/30/16,,,Natural / Dry,7.67,7.75,7.5,7.58,7.75,7.67,10.0,10.0,10.0,0.1,0,1,18
+360,Arabica,South America,Colombia,2014,03/11/16,,,Washed / Wet,7.67,7.42,7.67,7.83,7.58,7.67,10.0,10.0,10.0,0.0,0,1,0
+361,Arabica,South America,Colombia,2014,01/22/16,Caturra,Green,Washed / Wet,8.0,7.58,7.25,7.58,7.92,7.58,10.0,10.0,10.0,0.11,0,0,0
+362,Arabica,North America,Guatemala,2013,12/18/15,Caturra,Green,Washed / Wet,7.58,7.75,7.5,7.83,7.42,7.67,10.0,10.0,10.0,0.1,0,0,0
+363,Arabica,South America,Colombia,2014,08/11/15,Caturra,,Washed / Wet,7.75,7.58,7.33,7.5,7.83,7.83,10.0,10.0,10.0,0.0,0,2,0
+364,Arabica,North America,Honduras,2014,04/08/15,Caturra,Green,Natural / Dry,7.67,7.5,7.67,7.5,7.67,7.67,10.0,10.0,10.0,0.1,0,0,3
+365,Arabica,South America,Colombia,2013,04/26/14,Caturra,Green,Washed / Wet,7.58,7.75,7.42,7.67,7.75,7.67,10.0,10.0,10.0,0.0,0,1,1
+366,Arabica,South America,Colombia,2013,05/24/14,Caturra,Green,Washed / Wet,7.58,7.67,7.58,7.75,7.58,7.75,10.0,10.0,10.0,0.11,0,0,2
+367,Arabica,North America,Mexico,2012,08/31/13,Bourbon,Green,Natural / Dry,7.83,7.58,7.25,7.5,7.5,7.42,10.0,10.0,10.0,0.13,0,0,14
+368,Arabica,North America,Mexico,2012,08/30/13,Typica,Green,Semi-washed / Semi-pulped,7.67,7.75,7.67,7.75,7.58,7.5,10.0,10.0,10.0,0.11,0,0,12
+369,Arabica,North America,Mexico,2012,07/11/13,Pacamara,Green,Washed / Wet,7.75,7.67,7.67,7.75,7.33,7.5,10.0,10.0,10.0,0.12,0,0,0
+370,Arabica,North America,Guatemala,2012,04/30/13,Caturra,Green,Washed / Wet,7.83,7.5,7.5,8.0,7.67,7.5,10.0,10.0,10.0,0.1,0,0,5
+371,Arabica,South America,Colombia,2012,02/08/13,Caturra,Green,Washed / Wet,7.67,7.58,7.58,7.67,7.67,7.67,10.0,10.0,10.0,0.11,0,0,0
+372,Arabica,North America,Guatemala,2012,01/31/13,Bourbon,Green,Washed / Wet,7.5,7.5,7.75,7.5,8.0,7.67,10.0,10.0,10.0,0.0,0,3,12
+373,Arabica,North America,United States,,03/07/12,,,,7.5,7.67,7.58,7.92,7.58,7.67,10.0,10.0,10.0,0.01,0,0,0
+374,Arabica,Asia,Indonesia,2010,11/29/11,,,,7.83,7.58,7.58,7.58,7.75,7.58,10.0,10.0,10.0,0.0,0,0,0
+375,Arabica,South America,Colombia,2017,11/09/18,Caturra,Green,Washed / Wet,7.5,7.58,7.58,7.5,7.75,7.83,10.0,10.0,10.0,0.0,2,0,1
+376,Arabica,North America,Guatemala,2017,08/23/18,Bourbon,Green,Washed / Wet,7.67,7.75,7.5,7.58,7.58,7.67,10.0,10.0,10.0,0.1,0,0,3
+377,Arabica,South America,Colombia,2016,05/10/18,Caturra,Green,Washed / Wet,7.67,7.67,7.5,7.67,7.67,7.58,10.0,10.0,10.0,0.11,0,0,2
+378,Arabica,North America,Costa Rica,2016,02/17/18,Caturra,Blue-Green,Washed / Wet,7.58,7.5,7.42,7.92,7.5,7.67,10.0,10.0,10.0,0.09,0,0,4
+379,Arabica,Asia,Taiwan,2015,02/13/18,,Blue-Green,,7.67,7.67,7.0,7.08,7.0,7.0,10.0,10.0,10.0,0.11,0,0,0
+380,Arabica,Africa,Uganda,2015,07/21/17,SL14,Green,Washed / Wet,7.58,7.75,7.33,7.75,7.67,7.58,10.0,10.0,10.0,0.11,0,0,1
+381,Arabica,Asia,Thailand,2015,06/27/17,Catimor,Bluish-Green,Washed / Wet,7.5,7.58,7.75,7.5,7.75,7.67,10.0,10.0,10.0,0.13,0,0,0
+382,Arabica,North America,El Salvador,2016,04/25/17,Bourbon,,Washed / Wet,7.58,7.5,7.75,7.58,7.75,7.67,10.0,10.0,10.0,0.11,0,0,0
+383,Arabica,South America,Colombia,2015,04/28/16,Caturra,Green,Natural / Dry,7.58,7.67,7.58,7.67,7.58,7.67,10.0,10.0,10.0,0.12,0,4,0
+384,Arabica,South America,Brazil,2014,01/15/16,Yellow Bourbon,Green,Semi-washed / Semi-pulped,7.33,7.83,7.75,7.5,7.42,7.83,10.0,10.0,10.0,0.12,0,0,6
+385,Arabica,Africa,Tanzania,2014,12/12/15,Bourbon,Green,Washed / Wet,7.75,7.67,7.58,7.67,7.58,7.58,10.0,10.0,10.0,0.13,0,0,4
+386,Arabica,South America,Colombia,2014,10/15/15,Caturra,Green,Washed / Wet,7.58,7.58,7.25,7.75,7.75,8.58,9.33,10.0,10.0,0.12,0,0,1
+387,Arabica,North America,Guatemala,2013,08/21/15,Bourbon,Green,Natural / Dry,7.75,7.83,7.33,7.83,7.5,7.67,10.0,10.0,10.0,0.1,0,0,1
+388,Arabica,North America,Guatemala,2014,02/18/15,Caturra,Green,Washed / Wet,7.67,7.75,7.5,7.83,7.58,7.5,10.0,10.0,10.0,0.1,0,0,2
+389,Arabica,North America,Guatemala,2013,07/16/14,Bourbon,Green,Washed / Wet,7.67,7.5,7.75,7.42,7.75,7.75,10.0,10.0,10.0,0.11,0,0,0
+390,Arabica,North America,United States,2012,01/24/14,Hawaiian Kona,Green,Natural / Dry,7.42,7.75,7.67,7.58,7.67,7.67,10.0,10.0,10.0,0.0,0,0,2
+391,Arabica,South America,Colombia,2012,06/26/13,Caturra,Green,Washed / Wet,7.5,7.75,7.58,7.5,7.67,7.75,10.0,10.0,10.0,0.11,0,0,2
+392,Arabica,South America,Colombia,,02/01/12,,,,7.58,7.58,7.58,7.67,7.75,7.67,10.0,10.0,10.0,0.1,0,1,3
+393,Arabica,North America,United States,2010,12/27/11,,,,7.5,7.92,7.42,7.67,7.83,7.58,10.0,10.0,10.0,0.01,0,0,0
+394,Arabica,Asia,Thailand,,04/13/11,Peaberry,,,7.58,7.25,7.5,7.92,7.92,7.42,10.0,10.0,10.0,0.11,0,0,0
+395,Arabica,North America,Mexico,,05/26/11,,,,7.25,7.88,7.38,7.63,7.5,8.75,9.0,10.0,10.0,0.09,0,2,4
+396,Arabica,South America,Colombia,2016,11/08/17,Caturra,,Washed / Wet,7.75,7.5,7.75,7.58,7.58,7.58,10.0,10.0,10.0,0.0,1,0,0
+397,Arabica,South America,Colombia,2016,06/15/17,Caturra,Blue-Green,Washed / Wet,7.67,7.58,7.58,7.42,7.67,7.75,10.0,10.0,10.0,0.0,0,0,0
+398,Arabica,South America,Colombia,2016,05/05/17,Caturra,Green,Washed / Wet,7.83,7.58,7.58,7.58,7.5,7.58,10.0,10.0,10.0,0.0,0,1,2
+399,Arabica,South America,Brazil,2015,10/11/16,Catuai,Green,Semi-washed / Semi-pulped,7.5,7.83,7.33,7.58,7.58,7.92,10.0,10.0,10.0,0.1,0,1,5
+400,Arabica,North America,Mexico,2014,07/13/16,Caturra,Green,Washed / Wet,7.75,7.75,7.5,7.67,7.5,7.58,10.0,10.0,10.0,0.12,0,0,2
+401,Arabica,South America,Colombia,2015,04/07/16,Caturra,Green,Washed / Wet,7.67,7.75,7.42,7.83,7.83,7.42,10.0,10.0,10.0,0.11,0,0,1
+402,Arabica,Africa,Tanzania,2014,12/12/15,Other,Green,Semi-washed / Semi-pulped,7.75,7.58,7.67,7.58,7.58,7.58,10.0,10.0,10.0,0.12,0,0,6
+403,Arabica,North America,Mexico,2013,07/15/15,Other,Green,Washed / Wet,7.67,7.67,7.58,7.67,7.5,7.58,10.0,10.0,10.0,0.12,0,0,0
+404,Arabica,North America,Costa Rica,2014,04/07/15,Caturra,Green,Washed / Wet,7.67,7.67,7.42,7.67,7.67,7.67,10.0,10.0,10.0,0.12,0,0,3
+405,Arabica,North America,United States,2014,02/25/15,Hawaiian Kona,Bluish-Green,Natural / Dry,7.83,7.58,7.83,7.67,7.92,8.0,9.33,10.0,9.33,0.11,0,0,1
+406,Arabica,North America,Costa Rica,2013,02/14/15,Catuai,Green,Washed / Wet,7.5,7.67,7.67,7.5,7.83,7.17,10.0,10.0,10.0,0.11,0,0,3
+407,Arabica,South America,Peru,2013,01/21/15,,Green,Washed / Wet,7.83,7.75,7.58,7.83,7.92,7.58,9.33,10.0,10.0,0.12,0,0,5
+408,Arabica,North America,Haiti,2012,10/03/14,Typica,Green,Washed / Wet,7.58,7.5,7.67,7.5,7.83,7.42,10.0,10.0,10.0,0.11,0,0,4
+409,Arabica,South America,Colombia,2013,04/26/14,Caturra,Green,Natural / Dry,7.67,7.67,7.5,7.67,7.92,7.42,10.0,10.0,10.0,0.11,0,0,1
+410,Arabica,North America,Guatemala,2013,02/26/14,Bourbon,Green,Washed / Wet,7.83,7.67,7.17,7.67,7.67,7.67,10.0,10.0,10.0,0.11,0,0,3
+411,Arabica,North America,United States,2012,01/24/14,Hawaiian Kona,Bluish-Green,Natural / Dry,7.92,7.5,7.58,7.83,7.67,7.67,9.33,10.0,10.0,0.1,0,0,4
+412,Arabica,Africa,Burundi,2012,08/29/13,Bourbon,,Washed / Wet,7.75,7.67,7.33,7.5,7.5,7.75,10.0,10.0,10.0,0.0,0,0,5
+413,Arabica,South America,Colombia,2012,05/30/13,Caturra,Green,Washed / Wet,7.5,7.67,7.67,7.58,7.67,7.58,10.0,10.0,10.0,0.0,0,0,1
+414,Arabica,North America,United States,,09/19/12,,,,8.08,7.83,7.83,7.75,7.67,7.58,9.33,10.0,9.33,0.01,0,0,0
+415,Arabica,North America,United States,,02/24/12,,,,7.58,7.67,7.58,7.5,7.83,7.67,10.0,10.0,10.0,0.0,0,0,0
+416,Arabica,North America,Mexico,2017,03/07/18,Typica,Blue-Green,Washed / Wet,7.67,7.83,7.42,7.83,7.33,7.5,10.0,10.0,10.0,0.11,0,0,0
+417,Arabica,North America,Costa Rica,2016,01/30/18,Catuai,Green,Pulped natural / honey,7.5,7.5,7.83,7.5,7.67,7.67,10.0,10.0,10.0,0.11,0,0,0
+418,Arabica,North America,Costa Rica,2015,09/20/17,,,Washed / Wet,7.83,7.5,7.42,7.67,7.5,7.67,10.0,10.0,10.0,0.11,0,0,0
+419,Arabica,North America,Guatemala,2016,08/12/17,Pacas,Green,Washed / Wet,7.5,7.58,7.42,7.83,7.67,7.58,10.0,10.0,10.0,0.11,2,0,7
+420,Arabica,Africa,Uganda,2015,05/19/17,SL14,Green,Washed / Wet,7.5,7.67,7.67,7.42,7.67,7.67,10.0,10.0,10.0,0.12,0,0,1
+421,Arabica,South America,Brazil,2016,01/11/17,,Green,,7.58,7.67,7.42,7.5,7.67,7.42,10.0,10.0,10.0,0.12,0,0,4
+422,Arabica,South America,Colombia,2015,11/26/16,Caturra,Green,Natural / Dry,7.58,7.67,7.67,7.17,7.75,7.83,10.0,10.0,10.0,0.0,0,0,2
+423,Arabica,North America,Mexico,2015,07/13/16,Typica,Bluish-Green,Natural / Dry,7.83,7.75,7.5,7.58,7.58,7.58,10.0,10.0,10.0,0.12,0,0,2
+424,Arabica,Asia,Taiwan,2015,06/17/16,Bourbon,Blue-Green,Washed / Wet,7.67,7.5,7.5,7.5,7.67,7.83,10.0,10.0,10.0,0.1,0,0,0
+425,Arabica,Asia,Taiwan,2014,11/23/15,Typica,Green,Washed / Wet,7.92,7.83,7.75,7.58,7.5,7.33,10.0,10.0,10.0,0.1,0,0,0
+426,Arabica,South America,Colombia,2014,06/24/15,Caturra,Green,Natural / Dry,7.58,7.58,7.5,7.58,7.58,7.75,10.0,10.0,10.0,0.0,0,0,0
+427,Arabica,North America,Guatemala,2014,03/07/15,Caturra,Green,Washed / Wet,7.5,7.67,7.58,7.67,7.67,7.5,10.0,10.0,10.0,0.1,0,0,1
+428,Arabica,South America,Colombia,2013,08/02/14,Caturra,Green,Washed / Wet,7.83,7.5,7.67,7.33,7.67,7.67,10.0,10.0,10.0,0.11,0,0,1
+429,Arabica,North America,Mexico,2013,03/29/14,Bourbon,Green,Washed / Wet,7.58,7.75,7.5,7.5,7.58,7.58,10.0,10.0,10.0,0.12,0,0,6
+430,Arabica,North America,United States,2012,03/21/14,Hawaiian Kona,Bluish-Green,Natural / Dry,7.58,7.75,7.83,8.0,8.08,7.67,9.33,10.0,9.33,0.11,0,0,4
+431,Arabica,North America,Mexico,2012,08/01/13,Mundo Novo,Green,Washed / Wet,7.75,7.58,7.58,7.58,7.5,7.58,10.0,10.0,10.0,0.13,0,0,7
+432,Arabica,North America,Mexico,2012,07/11/13,Caturra,Blue-Green,Washed / Wet,7.75,7.75,7.42,7.92,7.33,7.5,10.0,10.0,10.0,0.12,0,0,0
+433,Arabica,North America,Guatemala,2012,07/09/13,Bourbon,Green,Washed / Wet,7.83,7.58,7.08,7.83,7.42,8.08,10.0,10.0,10.0,0.11,0,0,9
+434,Arabica,South America,Brazil,2012,02/22/13,Yellow Bourbon,Blue-Green,Semi-washed / Semi-pulped,7.75,7.67,7.5,7.58,7.58,7.58,10.0,10.0,10.0,0.11,0,0,1
+435,Arabica,South America,Colombia,2012,02/21/13,Caturra,Green,Washed / Wet,7.67,7.58,7.58,7.42,7.83,7.58,10.0,10.0,10.0,0.12,0,0,1
+436,Arabica,South America,Colombia,2012,02/08/13,Caturra,Green,Washed / Wet,7.67,7.67,7.5,7.5,7.58,7.67,10.0,10.0,10.0,0.11,0,0,0
+437,Arabica,South America,Colombia,2011,06/13/12,,,,7.92,7.75,7.25,7.42,7.83,7.58,10.0,10.0,10.0,0.08,0,0,0
+438,Arabica,South America,Colombia,2010,02/22/12,,,,8.0,7.67,7.67,7.25,7.67,7.5,10.0,10.0,10.0,0.13,0,0,1
+439,Arabica,South America,Colombia,2010,01/17/12,,,,7.92,7.75,7.5,7.42,7.42,7.67,10.0,10.0,10.0,0.04,0,0,1
+440,Arabica,South America,Brazil,2017,10/20/18,Bourbon,Green,Natural / Dry,7.67,7.42,7.5,7.58,7.67,7.58,10.0,10.0,10.0,0.11,0,0,4
+441,Arabica,North America,Guatemala,2017,08/24/18,Bourbon,Green,Washed / Wet,7.58,7.58,7.33,7.67,7.75,7.58,10.0,10.0,10.0,0.1,0,0,1
+442,Arabica,Africa,Tanzania,2016,06/20/18,Bourbon,Green,Washed / Wet,7.67,7.58,7.42,7.67,7.67,7.58,10.0,10.0,10.0,0.12,0,0,3
+443,Arabica,South America,Peru,2017,06/16/18,,Green,,7.92,7.5,7.5,7.58,7.67,7.5,10.0,10.0,10.0,0.11,1,0,0
+444,Arabica,Asia,Vietnam,2017,05/08/18,Catimor,None,Natural / Dry,7.58,7.42,7.08,7.33,7.58,8.58,10.0,10.0,10.0,0.07,0,0,0
+445,Arabica,North America,Guatemala,2016,05/23/17,Caturra,Green,Washed / Wet,7.67,7.75,7.42,7.75,7.58,7.5,10.0,10.0,10.0,0.11,2,2,3
+446,Arabica,North America,Honduras,2016,05/02/17,Catuai,Blue-Green,Washed / Wet,7.67,7.67,7.5,7.67,7.5,7.67,10.0,10.0,10.0,0.11,1,0,1
+447,Arabica,Asia,China,2015,04/06/17,Catimor,Green,Washed / Wet,7.5,7.67,7.33,7.67,7.67,7.67,10.0,10.0,10.0,0.11,0,0,0
+448,Arabica,Asia,China,2015,04/05/17,Catimor,Green,Washed / Wet,7.67,7.67,7.5,7.67,7.42,7.58,10.0,10.0,10.0,0.1,0,0,3
+449,Arabica,North America,El Salvador,2016,03/29/17,Bourbon,Green,Washed / Wet,7.5,7.5,7.33,7.67,8.0,7.67,10.0,10.0,10.0,0.0,0,0,0
+450,Arabica,North America,Guatemala,2015,10/28/16,Bourbon,Green,Washed / Wet,7.5,7.75,7.5,7.83,7.58,7.5,10.0,10.0,10.0,0.11,0,0,1
+451,Arabica,North America,Guatemala,2015,09/28/16,Bourbon,Green,Washed / Wet,7.92,7.67,7.42,7.75,7.5,7.5,10.0,10.0,10.0,0.12,0,0,3
+452,Arabica,Africa,Kenya,2014,07/02/16,SL28,Bluish-Green,Washed / Wet,7.83,7.75,7.67,7.75,7.83,8.5,9.33,9.33,9.33,0.1,0,0,1
+453,Arabica,Asia,Thailand,2014,06/08/16,,Bluish-Green,Washed / Wet,7.67,7.58,7.58,7.75,7.42,7.67,10.0,10.0,10.0,0.12,0,0,0
+454,Arabica,Africa,Tanzania,2014,12/12/15,Other,Bluish-Green,Washed / Wet,7.58,7.67,7.67,7.58,7.42,7.58,10.0,10.0,10.0,0.13,0,0,6
+455,Arabica,South America,Colombia,2014,11/05/15,Caturra,,Washed / Wet,7.58,7.5,7.5,7.67,7.5,7.67,10.0,10.0,10.0,0.0,0,0,4
+456,Arabica,Africa,Uganda,2014,10/28/15,SL14,Bluish-Green,Washed / Wet,8.0,7.67,7.5,7.42,7.33,7.58,10.0,10.0,10.0,0.1,0,0,0
+457,Arabica,South America,Colombia,2014,08/25/15,,Green,Washed / Wet,7.58,7.75,7.5,7.58,7.58,7.58,10.0,10.0,10.0,0.11,0,10,3
+458,Arabica,North America,Honduras,2013,04/12/15,Catuai,Green,Natural / Dry,7.5,7.5,7.5,7.67,7.67,7.67,10.0,10.0,10.0,0.1,0,0,5
+459,Arabica,North America,Honduras,2014,04/08/15,Caturra,Green,Natural / Dry,7.67,7.67,7.5,7.67,7.5,7.67,10.0,10.0,10.0,0.11,0,0,3
+460,Arabica,North America,Guatemala,2014,03/27/15,Catuai,Green,Washed / Wet,7.33,7.83,7.17,8.17,7.33,7.67,10.0,10.0,10.0,0.09,0,0,1
+461,Arabica,North America,United States,2013,02/07/15,Hawaiian Kona,Bluish-Green,Natural / Dry,7.5,7.5,7.58,7.42,7.92,7.67,10.0,10.0,10.0,0.11,0,0,0
+462,Arabica,Africa,Tanzania,2014,01/31/15,Bourbon,Green,Washed / Wet,7.58,7.5,7.58,7.75,7.58,7.58,10.0,10.0,10.0,0.12,0,0,1
+463,Arabica,North America,Guatemala,2013,04/26/14,Bourbon,Green,Washed / Wet,7.67,7.83,7.33,7.67,7.5,7.67,10.0,10.0,10.0,0.11,0,0,2
+464,Arabica,North America,Mexico,2013,03/29/14,Typica,Green,Washed / Wet,7.75,7.58,7.58,7.58,7.5,7.42,10.0,10.0,10.0,0.11,0,0,2
+465,Arabica,North America,Mexico,2012,09/27/13,Typica,None,Washed / Wet,7.75,7.67,7.58,7.5,7.42,7.58,10.0,10.0,10.0,0.12,0,3,8
+466,Arabica,North America,Mexico,2012,09/27/13,Pacamara,None,Washed / Wet,7.58,7.75,7.42,7.67,7.5,7.58,10.0,10.0,10.0,0.14,0,0,10
+467,Arabica,South America,Colombia,2012,08/31/13,Caturra,Green,Washed / Wet,7.67,7.5,7.5,7.5,7.58,8.17,10.0,10.0,10.0,0.11,0,1,2
+468,Arabica,North America,Mexico,2012,07/11/13,Typica,Green,Washed / Wet,7.75,7.5,7.42,7.75,7.58,7.58,10.0,10.0,10.0,0.13,0,0,5
+469,Arabica,South America,Colombia,2012,06/08/13,Caturra,Blue-Green,Washed / Wet,7.58,7.67,7.5,7.58,7.67,7.67,10.0,10.0,10.0,0.11,0,0,0
+470,Arabica,North America,Mexico,2012,06/06/13,Typica,,Washed / Wet,7.5,7.75,7.58,7.58,7.67,7.5,10.0,10.0,10.0,0.11,0,0,5
+471,Arabica,South America,Brazil,2012,03/19/13,Mundo Novo,Green,Natural / Dry,7.75,7.67,7.58,7.5,7.58,7.58,10.0,10.0,10.0,0.12,0,0,1
+472,Arabica,South America,Brazil,2012,02/16/13,Mundo Novo,Green,Natural / Dry,7.92,7.58,7.5,7.58,7.42,7.5,10.0,10.0,10.0,0.11,0,0,4
+473,Arabica,North America,Guatemala,2012,01/31/13,Bourbon,Green,Washed / Wet,7.75,7.5,7.67,7.5,7.92,8.0,10.0,10.0,9.33,0.0,0,0,10
+474,Arabica,South America,Brazil,2011,12/02/12,Mundo Novo,Blue-Green,Semi-washed / Semi-pulped,7.75,7.5,7.58,7.5,7.75,7.5,10.0,10.0,10.0,0.12,0,0,3
+475,Arabica,South America,Brazil,2011,10/27/12,,,,7.58,7.75,7.67,7.5,7.67,7.58,10.0,10.0,10.0,0.02,0,0,2
+476,Arabica,North America,El Salvador,2010,08/22/12,,,,7.42,7.83,8.17,8.08,7.17,7.58,10.0,9.33,10.0,0.14,0,0,3
+477,Arabica,Africa,Ethiopia,,06/16/11,,,,7.75,8.0,7.67,8.08,7.83,7.92,9.33,9.33,9.33,0.01,0,0,0
+478,Arabica,South America,Colombia,2016,02/20/18,Caturra,Green,Washed / Wet,7.58,7.67,7.33,7.67,7.75,7.58,10.0,10.0,10.0,0.0,1,0,4
+479,Arabica,South America,Colombia,2016,01/10/18,Caturra,Green,Washed / Wet,7.75,7.5,7.5,7.42,8.0,7.75,10.0,10.0,10.0,0.0,2,1,5
+480,Arabica,South America,Brazil,2015,04/25/17,Yellow Bourbon,Bluish-Green,Pulped natural / honey,7.58,7.58,7.58,7.5,7.67,7.58,10.0,10.0,10.0,0.11,2,0,2
+481,Arabica,South America,Brazil,2015,10/07/16,Yellow Bourbon,Green,Natural / Dry,7.33,7.67,7.67,7.33,7.75,7.42,10.0,10.0,10.0,0.0,0,0,3
+482,Arabica,Asia,Taiwan,2015,05/18/16,Typica,Green,Natural / Dry,7.83,7.92,7.5,7.83,7.67,7.25,9.33,10.0,10.0,0.0,0,0,0
+483,Arabica,South America,Brazil,2015,04/19/16,Mundo Novo,Green,Natural / Dry,7.42,7.67,7.58,7.5,7.75,7.67,10.0,10.0,10.0,0.11,0,0,13
+484,Arabica,South America,Brazil,2014,10/16/15,Bourbon,Green,Washed / Wet,7.58,7.83,7.67,7.42,7.42,7.5,10.0,10.0,10.0,0.0,0,0,1
+485,Arabica,North America,Costa Rica,2014,07/15/15,Catuai,Green,Washed / Wet,7.83,7.33,7.5,7.67,7.58,7.67,10.0,10.0,10.0,0.1,0,0,3
+486,Arabica,North America,United States,2013,02/19/15,Hawaiian Kona,Bluish-Green,Natural / Dry,7.33,7.75,7.58,7.33,7.83,7.67,10.0,10.0,10.0,0.12,0,0,8
+487,Arabica,Asia,Taiwan,2013,12/26/14,Typica,,Other,7.75,7.75,7.5,7.5,7.5,7.5,10.0,10.0,10.0,0.11,0,0,0
+488,Arabica,North America,United States,2012,03/08/14,Hawaiian Kona,Bluish-Green,Natural / Dry,7.83,7.83,7.33,7.17,7.75,7.67,10.0,10.0,10.0,0.1,0,0,0
+489,Arabica,North America,Mexico,2012,06/06/13,Other,,Washed / Wet,7.75,7.67,7.42,7.75,7.5,7.5,10.0,10.0,10.0,0.1,0,0,1
+490,Arabica,North America,United States,2012,04/06/13,Hawaiian Kona,,Natural / Dry,7.67,7.58,7.5,7.67,7.92,8.0,9.33,9.33,10.0,0.0,0,1,4
+491,Arabica,North America,United States,2012,02/22/13,Hawaiian Kona,Green,Washed / Wet,7.33,7.58,7.58,7.92,7.67,7.58,10.0,10.0,10.0,0.12,0,0,0
+492,Arabica,South America,Colombia,,07/28/12,Caturra,,,7.33,7.33,7.33,7.58,7.25,8.08,10.0,10.0,10.0,0.01,0,0,0
+493,Arabica,South America,Colombia,2010,02/22/12,,,,7.83,7.75,7.33,7.25,7.42,7.92,10.0,10.0,10.0,0.08,0,1,3
+494,Arabica,Asia,Indonesia,2010,11/29/11,,,,7.67,7.58,7.5,7.58,7.67,7.58,10.0,10.0,10.0,0.0,0,0,0
+495,Arabica,North America,Guatemala,,11/11/11,,,,7.92,7.67,7.67,7.25,7.83,7.67,9.33,10.0,10.0,0.02,0,0,1
+496,Arabica,South America,Brazil,2017,10/20/18,Bourbon,Green,Natural / Dry,7.58,7.5,7.5,7.75,7.67,7.5,10.0,10.0,10.0,0.0,0,0,4
+497,Arabica,South America,Brazil,2016,08/16/17,Bourbon,Green,Natural / Dry,7.5,7.58,7.58,7.67,7.58,7.5,10.0,10.0,10.0,0.11,3,0,5
+498,Arabica,South America,Brazil,2016,08/16/17,Bourbon,Bluish-Green,Natural / Dry,7.5,7.67,7.58,7.67,7.58,7.42,10.0,10.0,10.0,0.11,2,0,3
+499,Arabica,Africa,Uganda,2015,07/18/17,Bourbon,Green,Washed / Wet,7.67,7.58,7.42,7.42,7.83,7.5,10.0,10.0,10.0,0.12,0,0,6
+500,Arabica,Africa,Uganda,2015,07/18/17,Bourbon,Green,Natural / Dry,7.67,7.67,7.5,7.58,7.42,7.5,10.0,10.0,10.0,0.12,5,0,8
+501,Arabica,South America,Colombia,2016,02/10/17,,Green,,7.67,7.67,7.33,7.67,7.5,7.58,10.0,10.0,10.0,0.11,0,0,4
+502,Arabica,Asia,Vietnam,2014,12/27/16,Caturra,Green,Other,7.75,7.67,7.58,7.58,7.42,7.67,9.33,10.0,10.0,0.0,0,0,0
+503,Arabica,North America,Guatemala,2015,07/07/16,Catuai,Green,Washed / Wet,7.67,7.75,7.33,7.92,7.42,7.5,10.0,10.0,10.0,0.11,0,0,3
+504,Arabica,North America,Guatemala,2015,06/04/16,Catuai,Green,Washed / Wet,7.75,7.67,7.33,7.75,7.5,7.42,10.0,10.0,10.0,0.11,0,0,2
+505,Arabica,North America,Guatemala,2015,04/22/16,Bourbon,Green,Washed / Wet,7.83,7.67,7.25,7.67,7.75,7.5,10.0,10.0,10.0,0.11,0,0,2
+506,Arabica,South America,Brazil,2014,02/13/16,Catuai,Green,Natural / Dry,7.67,7.67,7.67,7.5,7.42,7.5,10.0,10.0,10.0,0.0,0,0,0
+507,Arabica,Asia,Taiwan,2014,11/23/15,Typica,Green,Washed / Wet,7.92,7.92,7.83,7.58,7.33,7.25,10.0,10.0,10.0,0.08,0,0,0
+508,Arabica,Africa,Uganda,2013,06/26/15,SL14,Green,Washed / Wet,7.83,7.58,7.5,7.5,7.58,7.5,10.0,10.0,10.0,0.12,0,0,0
+509,Arabica,North America,United States,2013,06/09/15,Other,Bluish-Green,Washed / Wet,7.67,7.5,7.67,7.83,7.75,7.83,10.0,10.0,9.33,0.0,0,0,0
+510,Arabica,North America,Guatemala,2014,03/07/15,Bourbon,Green,Washed / Wet,7.67,7.67,7.42,7.83,7.5,7.5,10.0,10.0,10.0,0.1,0,1,0
+511,Arabica,North America,Costa Rica,2013,02/14/15,Catuai,Green,Washed / Wet,7.67,7.58,7.5,7.58,7.5,7.5,10.0,10.0,10.0,0.11,0,0,3
+512,Arabica,South America,Brazil,2013,01/02/15,Yellow Bourbon,Bluish-Green,Semi-washed / Semi-pulped,7.75,7.58,7.42,7.67,7.42,7.67,10.0,10.0,10.0,0.12,0,0,4
+513,Arabica,South America,Colombia,2013,11/07/14,Caturra,Green,Washed / Wet,7.75,7.42,7.33,7.5,7.58,7.17,10.0,10.0,10.0,0.11,0,1,1
+514,Arabica,South America,Colombia,2013,08/02/14,Caturra,Green,Washed / Wet,7.83,7.5,7.58,7.33,7.5,7.67,10.0,10.0,10.0,0.0,0,0,0
+515,Arabica,South America,Colombia,2013,03/15/14,Caturra,Green,Natural / Dry,7.33,7.67,7.75,7.42,7.75,7.58,10.0,10.0,10.0,0.11,0,0,1
+516,Arabica,South America,Colombia,2013,04/26/14,Caturra,Green,Natural / Dry,7.58,7.75,7.42,7.67,7.58,7.42,10.0,10.0,10.0,0.0,0,0,2
+517,Arabica,South America,Colombia,2012,10/23/13,Caturra,Green,Washed / Wet,7.5,7.5,7.42,7.58,7.75,7.58,10.0,10.0,10.0,0.11,0,1,2
+518,Arabica,North America,Mexico,2012,07/26/13,Typica,Green,Washed / Wet,7.67,7.58,7.42,7.5,7.67,7.58,10.0,10.0,10.0,0.11,0,0,20
+519,Arabica,North America,Mexico,2012,07/26/13,Typica,Green,Semi-washed / Semi-pulped,7.67,7.83,7.5,7.58,7.58,7.67,9.33,10.0,10.0,0.11,0,0,7
+520,Arabica,North America,Mexico,2012,07/11/13,Bourbon,Green,Washed / Wet,7.5,7.67,7.5,7.5,7.58,7.58,10.0,10.0,10.0,0.11,0,5,8
+521,Arabica,South America,Colombia,2012,05/22/13,Arusha,,Natural / Dry,7.67,7.58,7.5,7.5,7.75,7.5,10.0,10.0,10.0,0.0,0,1,4
+522,Arabica,South America,Colombia,2012,05/11/13,Caturra,Green,Washed / Wet,7.75,7.58,7.5,7.67,7.83,7.75,9.33,10.0,10.0,0.0,0,0,4
+523,Arabica,South America,Colombia,2012,06/08/13,Caturra,Green,Washed / Wet,7.67,7.58,7.58,7.58,7.67,7.42,10.0,10.0,10.0,0.11,0,0,0
+524,Arabica,North America,Guatemala,2012,04/27/13,Bourbon,Green,Washed / Wet,7.5,7.67,7.5,7.67,7.5,7.83,10.0,10.0,10.0,0.1,0,0,2
+525,Arabica,South America,Colombia,2011,12/01/12,Caturra,Bluish-Green,Washed / Wet,7.67,7.67,7.58,7.5,7.67,7.42,10.0,10.0,10.0,0.12,0,0,0
+526,Arabica,Asia,Thailand,2011,08/15/12,,,,7.33,7.67,7.58,7.5,7.75,7.67,10.0,10.0,10.0,0.28,0,0,0
+527,Arabica,South America,Colombia,,05/11/12,,,,7.33,7.67,7.58,7.33,7.58,7.92,10.0,10.0,10.0,0.08,0,0,1
+528,Arabica,North America,United States,,04/20/12,,,,7.83,7.83,7.67,7.83,7.92,7.83,9.33,9.33,9.33,0.0,0,0,0
+529,Arabica,North America,United States,,03/08/12,,,,7.5,7.58,7.42,7.58,7.58,7.67,10.0,10.0,10.0,0.0,0,0,1
+530,Arabica,South America,Colombia,2011,02/01/12,,,,7.5,7.58,7.67,7.67,7.58,7.58,10.0,10.0,10.0,0.06,0,0,2
+531,Arabica,North America,Nicaragua,2009,05/31/11,Caturra,,,7.58,7.83,7.75,7.92,7.92,8.08,9.33,9.33,9.33,0.07,0,0,0
+532,Arabica,Asia,Thailand,,04/13/11,,,,7.5,7.25,7.42,7.75,8.17,7.5,10.0,10.0,10.0,0.0,0,0,0
+533,Arabica,South America,Brazil,2017,10/20/18,Bourbon,Green,Natural / Dry,7.67,7.58,7.5,7.58,7.58,7.5,10.0,10.0,10.0,0.0,0,0,0
+534,Arabica,North America,El Salvador,2017,08/28/18,Bourbon,Green,Washed / Wet,7.5,7.5,7.75,7.58,7.92,7.83,10.0,10.0,9.33,0.0,0,0,1
+535,Arabica,South America,Colombia,2017,07/07/18,Caturra,Green,Washed / Wet,7.58,7.67,7.5,7.33,7.67,7.58,10.0,10.0,10.0,0.11,0,0,1
+536,Arabica,Asia,Taiwan,2016,06/28/17,Caturra,Green,Natural / Dry,7.17,7.83,7.25,7.67,7.67,7.58,10.0,10.0,10.0,0.09,0,31,0
+537,Arabica,Africa,Ethiopia,2016,02/25/17,Ethiopian Heirlooms,Bluish-Green,Washed / Wet,7.58,7.58,7.5,7.5,7.58,7.58,10.0,10.0,10.0,0.0,0,1,20
+538,Arabica,Asia,Taiwan,2014,09/06/16,Typica,Green,Natural / Dry,7.5,7.58,7.67,7.33,7.5,7.75,10.0,10.0,10.0,0.0,0,0,9
+539,Arabica,Asia,Philippines,2015,07/30/16,Other,Blue-Green,Washed / Wet,7.58,7.58,7.67,7.58,7.5,7.5,10.0,10.0,10.0,0.11,0,0,1
+540,Arabica,Asia,Philippines,2014,07/20/16,Other,Bluish-Green,Washed / Wet,8.08,7.5,7.67,7.42,7.33,7.5,10.0,10.0,10.0,0.0,0,0,0
+541,Arabica,North America,Mexico,2015,07/13/16,Typica,Blue-Green,Natural / Dry,7.83,7.67,7.25,7.58,7.5,7.5,10.0,10.0,10.0,0.13,0,0,3
+542,Arabica,North America,Mexico,2015,06/10/16,Bourbon,Bluish-Green,Washed / Wet,7.75,7.67,7.42,7.42,7.75,7.5,10.0,10.0,10.0,0.12,0,2,8
+543,Arabica,South America,Brazil,2014,08/15/15,Moka Peaberry,Green,Semi-washed / Semi-pulped,7.08,7.5,7.5,7.83,7.75,7.67,10.0,10.0,10.0,0.11,0,0,16
+544,Arabica,Africa,Uganda,2013,06/27/15,SL14,Green,Washed / Wet,8.0,7.5,7.5,7.58,7.33,7.42,10.0,10.0,10.0,0.12,0,0,0
+545,Arabica,Africa,Uganda,2013,06/27/15,SL14,Green,Washed / Wet,7.75,7.58,7.58,7.5,7.5,7.5,10.0,10.0,10.0,0.12,0,0,4
+546,Arabica,North America,Guatemala,2014,04/03/15,Bourbon,Green,Washed / Wet,7.75,7.5,7.42,7.58,7.67,7.5,10.0,10.0,10.0,0.1,0,0,1
+547,Arabica,North America,Guatemala,2014,03/07/15,Caturra,Green,Natural / Dry,7.67,7.83,7.42,7.5,7.33,7.5,10.0,10.0,10.0,0.1,0,0,2
+548,Arabica,North America,Guatemala,2012,12/27/14,,Green,Washed / Wet,7.58,7.58,7.25,7.58,7.58,7.58,10.0,10.0,10.0,0.1,0,0,4
+549,Arabica,South America,Colombia,2013,09/13/14,Caturra,Green,Washed / Wet,7.58,7.5,7.75,7.33,7.58,7.58,10.0,10.0,10.0,0.11,0,0,2
+550,Arabica,South America,Colombia,2013,03/20/14,Caturra,Bluish-Green,Natural / Dry,7.75,7.5,7.25,7.5,7.75,7.5,10.0,10.0,10.0,0.0,0,0,0
+551,Arabica,North America,Guatemala,2013,03/11/14,Bourbon,Green,Washed / Wet,7.83,7.75,7.25,7.92,7.5,7.17,10.0,10.0,10.0,0.11,0,0,2
+552,Arabica,South America,Colombia,2013,01/22/14,Other,Green,Washed / Wet,7.83,7.67,7.42,7.42,7.5,7.58,10.0,10.0,10.0,0.11,0,3,5
+553,Arabica,North America,Mexico,2012,07/26/13,Typica,Green,Natural / Dry,7.58,7.58,7.33,7.25,7.58,7.75,10.0,10.0,10.0,0.1,0,0,4
+554,Arabica,Asia,Vietnam,2012,07/20/13,Other,None,Natural / Dry,7.67,7.33,7.17,7.58,8.08,7.42,10.0,10.0,10.0,0.0,0,0,17
+555,Arabica,North America,Mexico,2012,03/05/13,Typica,Green,Washed / Wet,8.0,7.92,7.67,7.17,7.67,7.42,9.33,10.0,10.0,0.14,0,1,4
+556,Arabica,North America,United States,2012,02/22/13,Hawaiian Kona,Green,Washed / Wet,7.5,7.5,7.5,7.42,7.67,7.83,10.0,10.0,10.0,0.1,0,0,0
+557,Arabica,South America,Colombia,,07/18/12,,,,7.5,7.75,7.33,7.75,7.08,7.83,10.0,10.0,10.0,0.15,0,0,0
+558,Arabica,Asia,Thailand,,04/13/11,,,,7.42,7.58,7.5,7.17,7.5,8.0,10.0,10.0,10.0,0.0,0,0,0
+559,Arabica,Africa,Kenya,2017,10/13/18,SL28,Green,Washed / Wet,7.75,7.58,7.42,7.58,7.5,7.5,10.0,10.0,10.0,0.1,0,0,3
+560,Arabica,North America,Guatemala,2017,06/22/18,Bourbon,Green,Washed / Wet,7.5,7.58,7.33,7.67,7.58,7.58,10.0,10.0,10.0,0.11,1,1,2
+561,Arabica,South America,Brazil,2015,02/06/18,Yellow Bourbon,Bluish-Green,Pulped natural / honey,7.67,7.58,7.58,7.5,7.5,7.42,10.0,10.0,10.0,0.11,2,0,2
+562,Arabica,North America,El Salvador,2016,04/08/17,Pacas,Green,Washed / Wet,7.33,7.67,7.67,7.83,7.33,7.67,10.0,10.0,10.0,0.0,0,0,4
+563,Arabica,Africa,Rwanda,2015,03/25/17,Bourbon,Bluish-Green,Washed / Wet,7.83,7.92,7.75,7.83,7.75,7.75,9.33,9.33,9.33,0.11,0,0,0
+564,Arabica,Asia,Vietnam,2014,01/18/17,Other,Green,Other,7.25,7.58,7.5,7.42,7.75,7.42,10.0,10.0,10.0,0.11,0,11,0
+565,Arabica,North America,Guatemala,2015,07/19/16,Bourbon,Green,Washed / Wet,7.58,7.58,7.33,7.67,7.67,7.5,10.0,10.0,10.0,0.11,0,0,2
+566,Arabica,South America,Brazil,2015,05/25/16,Catuai,Green,Natural / Dry,7.58,7.83,7.33,7.67,7.42,7.33,10.0,10.0,10.0,0.12,0,2,6
+567,Arabica,South America,Colombia,2014,03/20/16,Other,,Washed / Wet,7.83,7.67,7.5,7.58,7.5,7.67,10.0,10.0,10.0,0.0,0,0,1
+568,Arabica,North America,United States,2014,02/20/16,Other,,Other,7.42,7.58,7.25,7.5,7.75,7.75,10.0,10.0,10.0,0.0,0,0,9
+569,Arabica,North America,Guatemala,2014,03/24/15,Bourbon,Green,Washed / Wet,7.67,7.67,7.75,7.67,7.42,7.17,10.0,10.0,10.0,0.1,0,0,4
+570,Arabica,South America,Colombia,2013,01/20/15,Typica,Green,Natural / Dry,7.5,7.42,7.58,7.5,7.58,7.58,10.0,10.0,10.0,0.0,0,4,4
+571,Arabica,South America,Colombia,2013,05/10/14,Caturra,Green,Washed / Wet,7.83,7.5,7.5,7.42,7.5,7.5,10.0,10.0,10.0,0.11,0,0,3
+572,Arabica,Africa,Tanzania,2012,04/19/14,Arusha,Green,Washed / Wet,7.67,7.5,7.33,7.25,7.58,7.75,10.0,10.0,10.0,0.11,0,0,5
+573,Arabica,North America,Mexico,2012,08/30/13,Caturra,Green,Washed / Wet,7.58,7.67,7.5,7.58,7.5,7.5,10.0,10.0,10.0,0.12,0,2,10
+574,Arabica,North America,Mexico,2012,07/11/13,Bourbon,Blue-Green,Washed / Wet,7.67,7.58,7.42,7.75,7.42,7.42,10.0,10.0,10.0,0.12,0,0,7
+575,Arabica,North America,Guatemala,2012,07/09/13,Bourbon,Green,Washed / Wet,7.67,7.67,7.33,7.5,7.33,7.92,10.0,10.0,10.0,0.11,0,0,10
+576,Arabica,North America,Mexico,2012,06/06/13,Typica,,Washed / Wet,7.58,7.58,7.5,7.42,7.67,7.58,10.0,10.0,10.0,0.11,0,0,2
+577,Arabica,North America,El Salvador,2010,08/22/12,,,,7.75,7.58,7.75,7.75,7.25,7.5,10.0,10.0,10.0,0.0,0,1,3
+578,Arabica,North America,Guatemala,,01/09/19,Caturra,Green,Washed / Wet,7.5,7.58,7.42,7.67,7.58,7.5,10.0,10.0,10.0,0.1,1,0,3
+579,Arabica,North America,Guatemala,2017,10/17/18,Caturra,Green,Washed / Wet,7.58,7.67,7.5,7.58,7.5,7.42,10.0,10.0,10.0,0.11,0,0,8
+580,Arabica,North America,Guatemala,2017,09/19/18,Bourbon,Green,Washed / Wet,7.5,7.67,7.17,7.67,7.67,7.58,10.0,10.0,10.0,0.11,0,0,4
+581,Arabica,North America,Guatemala,2017,09/08/18,Bourbon,Green,Washed / Wet,7.5,7.5,7.42,7.58,7.67,7.5,10.0,10.0,10.0,0.1,0,0,1
+582,Arabica,North America,Guatemala,2017,08/22/18,Bourbon,Green,Washed / Wet,7.42,7.58,7.42,7.67,7.5,7.5,10.0,10.0,10.0,0.1,0,0,1
+583,Arabica,Asia,Indonesia,2017,08/08/18,Sulawesi,Blue-Green,Other,7.5,7.58,7.42,7.58,7.58,7.5,10.0,10.0,10.0,0.12,0,0,15
+584,Arabica,North America,Guatemala,2017,06/01/18,Bourbon,Green,Washed / Wet,7.58,7.58,7.33,7.58,7.33,7.67,10.0,10.0,10.0,0.12,0,0,0
+585,Arabica,Asia,Taiwan,2016,06/01/18,Yellow Bourbon,Green,Natural / Dry,7.83,7.67,7.33,7.67,7.58,7.67,9.33,10.0,10.0,0.0,0,0,0
+586,Arabica,North America,El Salvador,2017,05/08/18,Bourbon,,Washed / Wet,7.67,7.67,7.17,7.33,7.58,7.67,10.0,10.0,10.0,0.0,0,0,4
+587,Arabica,North America,Costa Rica,2016,04/28/18,Caturra,Bluish-Green,Washed / Wet,7.58,7.5,7.42,7.67,7.42,7.5,10.0,10.0,10.0,0.09,0,0,1
+588,Arabica,North America,Honduras,2017,04/06/18,Caturra,Green,Natural / Dry,7.58,7.5,7.42,7.58,7.5,7.5,10.0,10.0,10.0,0.09,1,0,6
+589,Arabica,South America,Brazil,2015,04/25/17,Yellow Bourbon,Bluish-Green,Pulped natural / honey,7.5,7.5,7.58,7.5,7.58,7.58,10.0,10.0,10.0,0.11,2,0,1
+590,Arabica,Asia,China,2015,04/06/17,Catimor,Green,Natural / Dry,7.67,7.5,7.33,7.33,7.67,7.67,10.0,10.0,10.0,0.1,0,0,0
+591,Arabica,Asia,China,2015,04/05/17,Catimor,Green,Washed / Wet,7.5,7.67,7.42,7.67,7.5,7.5,10.0,10.0,10.0,0.11,0,0,2
+592,Arabica,South America,Colombia,2014,11/07/15,Caturra,Blue-Green,Washed / Wet,7.5,7.58,7.58,7.75,7.33,7.5,10.0,10.0,10.0,0.0,0,0,2
+593,Arabica,Africa,Malawi,2014,11/04/15,Gesha,Bluish-Green,Washed / Wet,7.75,7.58,7.42,7.5,7.33,7.5,10.0,10.0,10.0,0.12,0,0,0
+594,Arabica,North America,Guatemala,2014,06/16/15,Pacas,Green,Washed / Wet,7.75,7.42,7.25,7.75,7.5,7.67,10.0,10.0,10.0,0.13,0,0,2
+595,Arabica,South America,Colombia,2014,05/27/15,Typica,Green,Washed / Wet,7.67,7.42,7.42,7.58,7.33,7.67,10.0,10.0,10.0,0.12,0,0,0
+596,Arabica,North America,United States,2013,02/05/15,Hawaiian Kona,Blue-Green,Natural / Dry,7.67,7.58,7.42,7.83,7.33,7.5,10.0,10.0,10.0,0.1,0,6,0
+597,Arabica,North America,United States,2013,02/04/15,Hawaiian Kona,Green,Natural / Dry,7.58,7.83,7.75,7.75,7.42,8.0,9.33,9.33,10.0,0.1,0,0,0
+598,Arabica,South America,Colombia,2013,01/21/15,Caturra,Green,Washed / Wet,7.58,7.33,7.17,7.33,7.25,8.58,10.0,10.0,10.0,0.1,0,0,2
+599,Arabica,North America,Mexico,2013,03/29/14,Typica,Green,Washed / Wet,7.58,7.58,7.5,7.5,7.5,7.5,10.0,10.0,10.0,0.12,0,0,6
+600,Arabica,North America,Mexico,2012,07/11/13,Typica,,Washed / Wet,7.58,7.58,7.33,7.75,7.25,7.58,10.0,10.0,10.0,0.12,0,0,0
+601,Arabica,North America,Mexico,2012,06/06/13,Typica,,Natural / Dry,8.08,8.17,8.0,8.0,7.83,7.92,6.67,10.0,10.0,0.12,0,1,4
+602,Arabica,South America,Colombia,2012,04/11/13,Caturra,Blue-Green,Washed / Wet,7.5,7.58,7.42,7.67,7.5,7.58,10.0,10.0,10.0,0.0,0,0,0
+603,Arabica,South America,Colombia,2012,03/05/13,Caturra,Green,Washed / Wet,7.67,7.58,7.58,7.58,7.5,7.42,10.0,10.0,10.0,0.11,0,0,3
+604,Arabica,North America,United States,2012,02/22/13,Hawaiian Kona,Green,Washed / Wet,7.25,7.75,7.5,7.83,7.67,7.67,9.33,10.0,10.0,0.12,0,0,0
+605,Arabica,North America,Panama,2012,02/22/13,Catuai,Green,Washed / Wet,7.42,7.42,7.5,7.58,7.5,7.75,10.0,10.0,10.0,0.0,0,0,4
+606,Arabica,North America,United States,,06/29/11,,,,7.75,7.67,7.5,7.83,7.17,7.42,10.0,10.0,10.0,0.0,0,0,2
+607,Arabica,South America,Brazil,2017,10/20/18,Bourbon,Green,Natural / Dry,7.5,7.58,7.25,7.75,7.58,7.5,10.0,10.0,10.0,0.0,0,0,4
+608,Arabica,South America,Brazil,2016,08/16/17,Bourbon,Bluish-Green,Natural / Dry,7.5,7.58,7.5,7.67,7.5,7.42,10.0,10.0,10.0,0.11,2,0,3
+609,Arabica,Asia,Laos,2015,06/02/17,Catimor,Bluish-Green,Washed / Wet,7.67,7.67,7.42,7.42,7.42,7.5,10.0,10.0,10.0,0.13,0,0,0
+610,Arabica,North America,El Salvador,2016,03/29/17,Pacas,Green,Washed / Wet,7.67,7.67,7.67,7.67,7.5,7.67,10.0,10.0,9.33,0.0,0,0,7
+611,Arabica,North America,Mexico,2016,02/24/17,,Green,,7.5,7.67,7.42,7.75,7.42,7.17,10.0,10.0,10.0,0.11,2,0,3
+612,Arabica,South America,Colombia,2015,11/02/16,,Green,Washed / Wet,7.75,7.5,7.33,7.58,7.33,7.75,10.0,10.0,10.0,0.0,0,1,9
+613,Arabica,South America,Brazil,2015,10/07/16,Yellow Bourbon,Green,Natural / Dry,7.58,7.5,7.42,7.67,7.5,7.5,10.0,10.0,10.0,0.0,0,0,0
+614,Arabica,South America,Brazil,2014,01/15/16,Catuai,,Natural / Dry,7.33,7.5,7.58,7.58,7.67,7.5,10.0,10.0,10.0,0.12,0,0,9
+615,Arabica,Africa,Tanzania,2014,12/18/15,Other,Green,Washed / Wet,7.5,7.5,7.5,7.5,7.5,7.58,10.0,10.0,10.0,0.12,0,0,0
+616,Arabica,Africa,Tanzania,2014,12/15/15,Bourbon,Green,Washed / Wet,7.58,7.5,7.5,7.58,7.33,7.58,10.0,10.0,10.0,0.12,0,0,4
+617,Arabica,Asia,Taiwan,2014,11/23/15,Typica,Green,Washed / Wet,8.0,7.83,7.83,7.42,7.25,7.25,10.0,10.0,10.0,0.08,0,0,0
+618,Arabica,North America,Mexico,2014,08/15/15,Typica,Green,Natural / Dry,7.67,7.58,7.42,7.5,7.42,7.5,10.0,10.0,10.0,0.11,0,0,0
+619,Arabica,Africa,Uganda,2013,06/25/15,SL14,Green,Washed / Wet,7.67,7.5,7.33,7.67,7.5,7.5,10.0,10.0,10.0,0.12,0,0,0
+620,Arabica,Asia,Taiwan,2013,12/26/14,Typica,Green,Washed / Wet,7.67,7.5,7.5,7.5,7.5,7.5,10.0,10.0,10.0,0.11,0,0,0
+621,Arabica,Asia,Thailand,2013,09/03/14,Caturra,Bluish-Green,Washed / Wet,7.42,7.5,7.5,7.67,7.58,7.5,10.0,10.0,10.0,0.11,0,0,0
+622,Arabica,South America,Colombia,2012,01/22/14,Caturra,Bluish-Green,Washed / Wet,7.75,7.58,7.67,7.25,7.58,7.42,10.0,10.0,10.0,0.11,0,0,3
+623,Arabica,North America,El Salvador,2012,08/17/13,Other,None,Washed / Wet,7.92,8.0,7.5,6.75,7.92,7.58,10.0,10.0,9.33,0.0,0,0,17
+624,Arabica,North America,Guatemala,2012,07/17/13,Caturra,Green,Washed / Wet,7.67,7.67,7.17,7.67,7.5,7.5,10.0,10.0,10.0,0.11,0,0,0
+625,Arabica,Asia,Thailand,2012,06/13/13,Other,Bluish-Green,Washed / Wet,7.83,7.33,7.83,7.33,7.58,7.83,10.0,10.0,9.33,0.12,0,0,0
+626,Arabica,North America,Mexico,2012,06/06/13,Other,,Washed / Wet,7.58,7.58,7.42,7.58,7.42,7.5,10.0,10.0,10.0,0.11,0,0,2
+627,Arabica,North America,Mexico,2012,06/06/13,Typica,,Washed / Wet,7.5,7.58,7.58,7.58,7.42,7.42,10.0,10.0,10.0,0.12,0,0,0
+628,Arabica,South America,Colombia,2011,11/15/12,,Green,,7.33,7.58,7.42,7.42,7.67,7.67,10.0,10.0,10.0,0.11,0,0,0
+629,Arabica,North America,United States,,09/19/12,,,,7.83,7.67,7.5,7.67,7.5,7.58,10.0,10.0,9.33,0.03,0,2,0
+630,Arabica,North America,Mexico,2010,04/05/12,Blue Mountain,,,7.75,7.58,7.25,7.75,7.67,7.58,10.0,10.0,10.0,0.0,0,0,1
+631,Arabica,South America,Colombia,2010,02/09/12,,,,8.08,7.67,7.67,7.33,7.33,7.17,10.0,10.0,10.0,0.08,0,0,3
+632,Arabica,South America,Colombia,2009,09/03/11,,,,7.5,7.42,7.33,7.33,7.67,7.83,10.0,10.0,10.0,0.21,0,0,2
+633,Arabica,North America,Guatemala,2017,09/08/18,Bourbon,Green,Washed / Wet,7.5,7.42,7.42,7.75,7.5,7.5,10.0,10.0,10.0,0.1,1,0,2
+634,Arabica,Asia,Taiwan,2016,08/22/18,Typica,Green,Pulped natural / honey,7.67,7.42,7.5,7.42,7.58,7.5,10.0,10.0,10.0,0.11,5,0,0
+635,Arabica,South America,Brazil,2016,04/19/18,,Green,Pulped natural / honey,7.5,7.58,7.42,7.5,7.75,7.33,10.0,10.0,10.0,0.11,0,0,7
+636,Arabica,Asia,Taiwan,2016,02/13/18,,Blue-Green,,7.25,7.25,7.0,7.08,7.0,7.0,10.0,10.0,10.0,0.11,0,0,0
+637,Arabica,South America,Brazil,2016,12/27/16,,Green,,7.42,7.42,7.5,7.33,7.25,7.67,10.0,10.0,10.0,0.0,9,1,2
+638,Arabica,Asia,Indonesia,2015,09/14/16,Typica,Blue-Green,Semi-washed / Semi-pulped,7.83,7.58,7.42,7.33,7.42,7.5,10.0,10.0,10.0,0.13,0,0,6
+639,Arabica,Asia,Thailand,2014,06/08/16,,Green,Washed / Wet,7.75,7.33,7.42,7.67,7.42,7.5,10.0,10.0,10.0,0.12,0,0,0
+640,Arabica,Asia,Thailand,2014,02/15/16,Caturra,Blue-Green,Washed / Wet,7.42,7.58,7.58,7.42,7.58,7.5,10.0,10.0,10.0,0.12,0,0,1
+641,Arabica,Africa,Tanzania,2014,12/12/15,Other,,Washed / Wet,7.75,7.42,7.33,7.5,7.58,7.5,10.0,10.0,10.0,0.12,0,0,1
+642,Arabica,Africa,Uganda,2013,06/30/15,SL14,Green,Natural / Dry,7.83,7.5,7.42,7.58,7.42,7.42,10.0,10.0,10.0,0.12,0,0,0
+643,Arabica,North America,Costa Rica,2013,05/09/15,Catuai,Green,Washed / Wet,7.67,7.42,7.5,7.67,7.0,7.75,10.0,10.0,10.0,0.11,0,0,3
+644,Arabica,North America,Mexico,2014,04/18/15,,Green,Washed / Wet,7.58,7.58,7.42,7.75,7.67,7.67,9.33,10.0,10.0,0.0,0,0,11
+645,Arabica,North America,Guatemala,2012,12/10/14,,Blue-Green,Natural / Dry,7.5,7.58,7.42,7.58,7.42,7.58,10.0,10.0,10.0,0.0,0,0,4
+646,Arabica,South America,Colombia,2013,04/16/14,Caturra,Blue-Green,Washed / Wet,7.75,7.25,7.33,7.42,7.5,7.83,10.0,10.0,10.0,0.11,0,0,3
+647,Arabica,South America,Colombia,2012,10/09/13,Caturra,,Washed / Wet,7.75,7.5,7.75,7.25,7.33,7.58,10.0,10.0,10.0,0.11,0,0,3
+648,Arabica,South America,Colombia,2013,02/27/14,Caturra,Green,Washed / Wet,7.58,7.5,7.42,7.58,7.67,7.42,10.0,10.0,10.0,0.11,0,0,0
+649,Arabica,North America,Mexico,2012,09/04/13,Typica,Green,Washed / Wet,7.5,7.58,7.5,7.5,7.42,7.5,10.0,10.0,10.0,0.1,0,0,6
+650,Arabica,North America,Mexico,2012,07/02/13,Typica,Green,Washed / Wet,7.67,7.58,7.58,7.75,7.67,6.83,10.0,10.0,10.0,0.12,0,0,0
+651,Arabica,South America,Colombia,2012,06/13/13,Caturra,Green,Washed / Wet,7.33,7.42,7.58,7.42,7.67,7.5,10.0,10.0,10.0,0.11,0,2,2
+652,Arabica,South America,Brazil,2011,10/27/12,Mundo Novo,,,7.58,7.5,7.33,7.75,7.5,7.5,10.0,10.0,10.0,0.0,0,0,4
+653,Arabica,South America,Brazil,2017,10/20/18,Bourbon,Green,Natural / Dry,7.5,7.5,7.5,7.5,7.58,7.5,10.0,10.0,10.0,0.11,0,0,4
+654,Arabica,Asia,Indonesia,2017,09/04/18,Other,Green,Washed / Wet,7.83,7.75,7.25,7.5,7.42,7.33,10.0,10.0,10.0,0.11,0,0,5
+655,Arabica,North America,Honduras,2017,06/03/18,Caturra,Green,Washed / Wet,7.58,7.58,7.33,7.5,7.5,7.5,10.0,10.0,10.0,0.1,0,0,4
+656,Arabica,North America,Guatemala,2016,03/16/17,Bourbon,Green,Washed / Wet,7.5,7.5,7.33,7.5,7.67,7.5,10.0,10.0,10.0,0.1,2,0,2
+657,Arabica,Asia,Thailand,2014,06/08/16,,Green,Washed / Wet,7.5,7.83,7.5,7.75,7.33,7.42,9.33,10.0,10.0,0.12,0,0,0
+658,Arabica,Asia,Thailand,2014,02/15/16,Caturra,,Washed / Wet,7.33,7.5,7.5,7.5,7.67,7.5,10.0,10.0,10.0,0.11,0,0,0
+659,Arabica,Africa,Tanzania,2014,12/18/15,Other,Green,Washed / Wet,7.67,7.42,7.33,7.58,7.5,7.5,10.0,10.0,10.0,0.12,0,0,1
+660,Arabica,Africa,Tanzania,2014,12/12/15,Other,Bluish-Green,Washed / Wet,7.75,7.0,7.42,7.58,7.58,7.58,10.0,10.0,10.0,0.12,0,0,3
+661,Arabica,North America,Mexico,2013,04/14/15,Other,Green,Washed / Wet,7.42,7.58,7.5,7.67,7.25,7.5,10.0,10.0,10.0,0.0,0,0,1
+662,Arabica,South America,Brazil,2013,01/14/15,Yellow Bourbon,Bluish-Green,Semi-washed / Semi-pulped,7.42,7.5,7.67,7.33,7.42,7.67,10.0,10.0,10.0,0.11,0,0,0
+663,Arabica,North America,Guatemala,2013,05/30/14,Bourbon,Green,Washed / Wet,7.83,7.42,7.33,7.67,7.42,7.5,10.0,10.0,10.0,0.12,0,0,4
+664,Arabica,South America,Colombia,2013,05/07/14,Caturra,Green,Washed / Wet,7.5,7.5,7.42,7.42,7.58,7.58,10.0,10.0,10.0,0.11,0,0,1
+665,Arabica,North America,Guatemala,2013,02/26/14,Bourbon,Green,Washed / Wet,7.83,7.67,7.17,7.33,7.5,7.67,10.0,10.0,10.0,0.11,0,0,0
+666,Arabica,North America,Mexico,2012,09/27/13,Typica,None,Washed / Wet,7.5,7.58,7.5,7.5,7.42,7.42,10.0,10.0,10.0,0.13,0,0,10
+667,Arabica,North America,Mexico,2012,07/26/13,Typica,Green,Washed / Wet,7.67,7.5,7.33,7.67,7.5,7.33,10.0,10.0,10.0,0.12,0,0,5
+668,Arabica,North America,Mexico,2012,06/07/13,Typica,,Semi-washed / Semi-pulped,7.92,7.5,7.33,7.58,7.25,7.42,10.0,10.0,10.0,0.11,0,0,2
+669,Arabica,North America,Guatemala,2012,03/26/13,Caturra,Green,Natural / Dry,7.67,7.33,7.33,7.33,7.5,7.83,10.0,10.0,10.0,0.11,0,0,5
+670,Arabica,South America,Brazil,2012,03/16/13,Bourbon,Blue-Green,Semi-washed / Semi-pulped,7.67,7.42,7.33,7.67,7.5,7.5,10.0,10.0,10.0,0.0,0,0,4
+671,Arabica,South America,Colombia,2012,03/05/13,Caturra,Green,Washed / Wet,7.67,7.5,7.33,7.5,7.25,7.67,10.0,10.0,10.0,0.11,0,1,3
+672,Arabica,North America,United States,2012,02/22/13,Hawaiian Kona,Green,Washed / Wet,7.33,7.42,7.33,7.75,7.42,7.67,10.0,10.0,10.0,0.12,0,2,3
+673,Arabica,North America,Guatemala,,07/23/11,,,,7.75,7.58,7.67,7.67,7.58,7.58,9.33,10.0,10.0,0.01,0,1,14
+674,Arabica,North America,Honduras,2017,09/27/18,Other,Green,Washed / Wet,7.42,7.67,7.17,7.58,7.58,7.5,10.0,10.0,10.0,0.12,1,0,6
+675,Arabica,North America,Guatemala,2017,09/08/18,Bourbon,Green,Washed / Wet,7.58,7.5,7.33,7.75,7.33,7.5,10.0,10.0,10.0,0.1,1,0,2
+676,Arabica,North America,Guatemala,2016,06/01/18,Bourbon,Green,Washed / Wet,7.67,7.58,7.25,7.67,7.42,7.33,10.0,10.0,10.0,0.12,0,0,0
+677,Arabica,North America,Guatemala,2017,06/01/18,Bourbon,Green,Washed / Wet,7.58,7.5,7.25,7.67,7.5,7.5,10.0,10.0,10.0,0.12,0,0,0
+678,Arabica,North America,Guatemala,2017,01/20/18,Caturra,Green,Washed / Wet,7.5,7.42,7.08,7.75,7.67,7.5,10.0,10.0,10.0,0.11,2,0,3
+679,Arabica,South America,Colombia,2016,08/05/17,Caturra,Green,Washed / Wet,5.08,7.75,7.83,7.75,7.83,8.08,10.0,10.0,10.0,0.11,0,0,1
+680,Arabica,Asia,China,2015,04/06/17,Catimor,Green,Washed / Wet,7.67,7.42,7.42,7.5,7.42,7.42,10.0,10.0,10.0,0.1,0,0,0
+681,Arabica,South America,Brazil,2016,01/11/17,,Green,,7.42,7.5,7.33,7.5,7.25,7.42,10.0,10.0,10.0,0.11,1,0,0
+682,Arabica,Africa,Tanzania,2015,11/15/16,Ruiru 11,Green,Washed / Wet,7.67,7.25,7.42,7.42,7.67,7.42,10.0,10.0,10.0,0.13,0,0,7
+683,Arabica,South America,Brazil,2015,10/07/16,Yellow Bourbon,Green,Natural / Dry,7.17,7.83,7.33,7.5,7.75,7.42,10.0,10.0,10.0,0.0,0,0,0
+684,Arabica,North America,Guatemala,2013,12/18/15,Caturra,Green,Washed / Wet,7.5,7.5,7.5,7.67,7.42,7.5,10.0,10.0,10.0,0.1,0,0,0
+685,Arabica,North America,Mexico,2014,08/14/15,Typica,Green,Washed / Wet,7.42,7.5,7.42,7.58,7.42,7.5,10.0,10.0,10.0,0.11,0,0,0
+686,Arabica,South America,Brazil,2012,05/08/15,Catuai,Blue-Green,Semi-washed / Semi-pulped,7.58,7.67,7.33,7.5,7.5,7.42,10.0,10.0,10.0,0.12,0,0,1
+687,Arabica,South America,Peru,2013,01/21/15,,Green,Washed / Wet,7.58,7.58,7.58,7.75,7.5,7.58,9.33,10.0,10.0,0.0,0,0,3
+688,Arabica,South America,Brazil,2013,12/30/14,Yellow Bourbon,Green,Natural / Dry,7.25,7.33,7.25,7.5,7.42,7.5,10.0,10.0,10.0,0.0,0,0,0
+689,Arabica,North America,Mexico,2013,12/12/14,Bourbon,Green,Washed / Wet,7.5,7.58,7.5,7.92,7.42,7.67,9.33,10.0,10.0,0.12,0,0,0
+690,Arabica,North America,Honduras,2012,12/10/14,,None,Washed / Wet,7.25,7.67,7.42,7.17,7.75,7.5,10.0,10.0,10.0,0.09,0,0,2
+691,Arabica,South America,Colombia,2013,05/31/14,Caturra,Green,Washed / Wet,7.67,7.42,7.33,7.5,7.58,7.5,10.0,10.0,10.0,0.11,0,0,9
+692,Arabica,North America,Mexico,2013,03/29/14,Typica,Green,Washed / Wet,7.5,7.42,7.42,7.67,7.42,7.58,10.0,10.0,10.0,0.12,0,0,5
+693,Arabica,North America,Mexico,2012,09/11/13,Typica,Green,Semi-washed / Semi-pulped,7.42,7.58,7.5,7.42,7.58,7.5,10.0,10.0,10.0,0.13,0,0,2
+694,Arabica,North America,Mexico,2012,09/10/13,Typica,Green,Washed / Wet,7.42,7.58,7.33,7.58,7.5,7.5,10.0,10.0,10.0,0.14,0,0,9
+695,Arabica,North America,Mexico,2012,08/31/13,Caturra,Green,Washed / Wet,7.75,7.33,7.25,7.58,7.58,7.33,10.0,10.0,10.0,0.13,0,0,1
+696,Arabica,North America,Mexico,2012,07/25/13,Typica,Green,Washed / Wet,7.5,7.58,7.33,7.5,7.5,7.5,10.0,10.0,10.0,0.11,0,0,0
+697,Arabica,North America,Mexico,2012,07/11/13,Pacamara,Green,Washed / Wet,7.58,7.58,7.17,7.5,7.5,7.5,10.0,10.0,10.0,0.14,0,0,6
+698,Arabica,North America,Mexico,2012,07/03/13,Caturra,Green,Washed / Wet,7.58,7.33,7.33,7.58,7.5,7.5,10.0,10.0,10.0,0.11,0,0,0
+699,Arabica,North America,Mexico,2012,06/06/13,Bourbon,,Washed / Wet,7.67,7.58,7.33,7.42,7.58,7.33,10.0,10.0,10.0,0.13,0,0,4
+700,Arabica,North America,Mexico,2012,04/09/13,Typica,Bluish-Green,Washed / Wet,7.83,7.5,7.42,7.67,7.17,7.33,10.0,10.0,10.0,0.12,0,0,0
+701,Arabica,South America,Colombia,2012,01/30/13,Caturra,,Natural / Dry,7.67,7.33,7.25,7.42,7.5,7.67,10.0,10.0,10.0,0.0,0,0,2
+702,Arabica,South America,Brazil,2012,01/22/13,Arusha,Blue-Green,Natural / Dry,7.75,7.5,7.42,7.42,7.5,7.42,10.0,10.0,10.0,0.11,0,0,2
+703,Arabica,South America,Colombia,2011,12/21/12,Caturra,Green,Washed / Wet,7.33,7.58,7.17,7.58,7.42,7.58,10.0,10.0,10.0,0.0,0,0,2
+704,Arabica,South America,Colombia,2011,09/21/12,,,,7.58,7.25,7.42,7.25,7.58,7.83,10.0,10.0,10.0,0.02,0,0,1
+705,Arabica,North America,Honduras,2017,04/06/18,Caturra,Green,Washed / Wet,7.5,7.58,7.33,7.5,7.42,7.42,10.0,10.0,10.0,0.1,1,0,8
+706,Arabica,South America,Brazil,2016,02/09/18,Catuai,Green,Natural / Dry,7.33,7.5,7.5,7.33,7.5,7.5,10.0,10.0,10.0,0.11,3,0,11
+707,Arabica,South America,Brazil,2016,10/13/17,,Green,Natural / Dry,7.42,7.42,7.42,7.5,7.5,7.58,10.0,10.0,10.0,0.11,4,0,14
+708,Arabica,South America,Brazil,2016,08/16/17,Bourbon,Bluish-Green,Natural / Dry,7.5,7.5,7.42,7.5,7.42,7.5,10.0,10.0,10.0,0.11,2,0,3
+709,Arabica,North America,Costa Rica,2015,07/15/17,Caturra,Bluish-Green,Washed / Wet,7.75,7.5,7.25,7.25,7.42,7.67,10.0,10.0,10.0,0.1,1,6,3
+710,Arabica,North America,Costa Rica,2015,05/17/17,Catuai,Green,Washed / Wet,7.75,7.33,7.5,7.5,7.33,7.58,10.0,10.0,10.0,0.0,2,0,0
+711,Arabica,Asia,China,2015,04/05/17,Catimor,Green,Pulped natural / honey,7.5,7.58,7.42,7.5,7.42,7.42,10.0,10.0,10.0,0.12,6,0,2
+712,Arabica,South America,Brazil,2015,10/07/16,Bourbon,Green,Natural / Dry,8.25,7.83,7.25,8.33,8.17,8.08,10.0,6.67,10.0,0.07,0,0,0
+713,Arabica,South America,Brazil,2015,04/19/16,Mundo Novo,Green,Natural / Dry,7.42,7.5,7.5,7.42,7.5,7.58,10.0,10.0,10.0,0.11,0,0,10
+714,Arabica,North America,Guatemala,2015,03/09/16,Bourbon,Green,Washed / Wet,7.5,7.42,7.17,7.83,7.5,7.5,10.0,10.0,10.0,0.1,0,0,6
+715,Arabica,Africa,Malawi,2014,11/04/15,Gesha,Green,Washed / Wet,7.33,7.58,7.42,7.58,7.33,7.5,10.0,10.0,10.0,0.12,0,0,0
+716,Arabica,South America,Brazil,2014,10/15/15,Bourbon,Blue-Green,Natural / Dry,7.75,8.08,7.67,8.08,8.08,8.0,10.0,10.0,6.67,0.11,0,0,0
+717,Arabica,North America,Guatemala,2014,06/10/15,Pacas,Green,Washed / Wet,7.58,7.67,7.5,7.58,7.75,7.5,9.33,10.0,10.0,0.12,0,0,3
+718,Arabica,North America,Mexico,2014,04/02/15,,Green,Washed / Wet,7.33,7.58,7.42,7.5,7.5,7.5,10.0,10.0,10.0,0.11,0,0,0
+719,Arabica,South America,Colombia,2013,01/21/15,Caturra,Green,Washed / Wet,7.42,7.33,7.5,7.17,7.08,8.33,10.0,10.0,10.0,0.1,0,0,2
+720,Arabica,Asia,Taiwan,2013,12/26/14,Typica,Green,Semi-washed / Semi-pulped,7.5,7.5,7.5,7.5,7.5,7.5,10.0,10.0,10.0,0.11,0,0,0
+721,Arabica,Asia,Taiwan,2013,12/26/14,Typica,Green,Washed / Wet,7.5,7.5,7.5,7.5,7.5,7.5,10.0,10.0,10.0,0.11,0,0,0
+722,Arabica,North America,Guatemala,2013,07/16/14,Bourbon,Green,Washed / Wet,7.5,7.42,7.58,7.5,7.5,7.58,10.0,10.0,10.0,0.12,0,2,1
+723,Arabica,South America,Colombia,2013,06/21/14,Caturra,Green,Washed / Wet,7.5,7.42,7.5,7.5,7.5,7.58,10.0,10.0,10.0,0.0,0,0,1
+724,Arabica,North America,Mexico,2013,03/15/14,Typica,Green,Washed / Wet,7.67,7.5,7.42,7.5,7.42,7.42,10.0,10.0,10.0,0.12,0,0,3
+725,Arabica,North America,Costa Rica,2012,10/09/13,,Green,Washed / Wet,7.92,7.58,7.25,7.75,7.92,7.58,9.33,9.33,10.0,0.0,0,0,14
+726,Arabica,North America,Guatemala,2012,10/05/13,Bourbon,Green,Washed / Wet,7.67,7.5,7.33,7.67,7.5,7.33,10.0,10.0,10.0,0.11,0,0,3
+727,Arabica,North America,Mexico,2012,09/27/13,Typica,None,Natural / Dry,7.58,7.67,7.58,7.33,7.0,7.58,10.0,10.0,10.0,0.15,0,1,8
+728,Arabica,North America,Mexico,2012,08/31/13,Bourbon,Green,Washed / Wet,7.67,7.58,7.5,7.58,7.5,7.5,10.0,10.0,10.0,0.13,0,0,9
+729,Arabica,North America,Guatemala,2012,05/23/13,Bourbon,Green,Washed / Wet,7.5,7.67,7.33,7.5,7.33,7.5,10.0,10.0,10.0,0.1,0,2,5
+730,Arabica,South America,Brazil,2012,04/11/13,Mundo Novo,Green,Natural / Dry,7.58,7.5,7.42,7.5,7.5,7.42,10.0,10.0,10.0,0.12,0,0,2
+731,Arabica,North America,Mexico,2012,03/05/13,Typica,Green,Washed / Wet,8.0,7.75,7.33,7.33,7.08,7.67,9.33,10.0,10.0,0.11,0,0,0
+732,Arabica,South America,Brazil,2012,02/16/13,Mundo Novo,Green,Washed / Wet,7.58,7.58,7.25,7.58,7.42,7.5,10.0,10.0,10.0,0.11,0,0,2
+733,Arabica,South America,Colombia,2012,01/30/13,Caturra,Green,Natural / Dry,7.83,7.58,7.33,7.25,7.58,7.42,10.0,10.0,10.0,0.0,0,0,0
+734,Arabica,South America,Brazil,,11/15/18,Catuai,Green,Washed / Wet,7.58,7.5,7.25,7.42,7.67,7.33,10.0,10.0,10.0,0.09,6,2,10
+735,Arabica,Asia,Taiwan,2016,02/13/18,,Blue-Green,,7.0,7.08,7.0,7.17,7.0,7.0,10.0,10.0,10.0,0.1,0,0,0
+736,Arabica,North America,Guatemala,2016,08/31/17,Pacas,Green,Washed / Wet,7.67,7.5,7.25,7.67,7.42,7.42,10.0,10.0,10.0,0.11,2,0,2
+737,Arabica,South America,Brazil,2015,10/07/16,Yellow Bourbon,Green,Natural / Dry,7.42,7.67,7.5,7.08,7.5,7.42,10.0,10.0,10.0,0.0,0,0,9
+738,Arabica,North America,El Salvador,2014,07/07/16,Bourbon,Green,Washed / Wet,7.58,7.67,7.5,7.67,7.83,8.42,9.33,9.33,9.33,0.12,0,0,0
+739,Arabica,North America,Honduras,2015,04/14/16,Catuai,Green,Washed / Wet,7.58,7.5,7.42,7.58,7.42,7.42,10.0,10.0,10.0,0.11,0,0,2
+740,Arabica,Africa,Malawi,2014,11/04/15,Gesha,Blue-Green,Washed / Wet,7.58,7.42,7.33,7.42,7.58,7.5,10.0,10.0,10.0,0.13,0,0,0
+741,Arabica,South America,Brazil,2014,10/16/15,Bourbon,Green,Natural / Dry,7.75,7.58,7.42,7.42,7.33,7.33,10.0,10.0,10.0,0.11,0,0,0
+742,Arabica,Asia,Taiwan,2013,12/26/14,Typica,Green,Washed / Wet,7.5,7.5,7.5,7.5,7.5,7.5,10.0,10.0,10.0,0.11,0,0,0
+743,Arabica,North America,Mexico,2013,07/19/14,Mundo Novo,Blue-Green,Washed / Wet,7.58,7.58,7.42,7.42,7.42,7.42,10.0,10.0,10.0,0.12,0,0,4
+744,Arabica,North America,United States,2013,05/03/14,Hawaiian Kona,Bluish-Green,Natural / Dry,7.33,7.42,7.5,7.67,7.5,7.42,10.0,10.0,10.0,0.0,0,0,1
+745,Arabica,North America,Mexico,2012,09/27/13,Bourbon,None,Washed / Wet,7.58,7.58,7.5,7.17,7.42,7.42,10.0,10.0,10.0,0.16,0,3,8
+746,Arabica,North America,Guatemala,2012,09/19/13,Bourbon,Green,Washed / Wet,7.5,7.5,7.33,7.58,7.67,7.33,10.0,10.0,10.0,0.11,0,0,2
+747,Arabica,North America,Mexico,2012,08/31/13,Bourbon,Green,Washed / Wet,7.5,7.58,7.42,7.67,7.33,7.42,10.0,10.0,10.0,0.13,0,0,3
+748,Arabica,North America,Mexico,2012,08/30/13,Typica,Green,Washed / Wet,7.67,7.58,7.33,7.5,7.42,7.42,10.0,10.0,10.0,0.12,0,0,13
+749,Arabica,North America,El Salvador,2012,08/21/13,Other,Green,Washed / Wet,7.75,7.33,7.33,7.5,7.5,7.5,10.0,10.0,10.0,0.0,0,2,5
+750,Arabica,North America,Mexico,2012,07/11/13,Typica,Green,Washed / Wet,7.33,7.58,7.42,7.67,7.33,7.5,10.0,10.0,10.0,0.11,0,0,0
+751,Arabica,North America,Mexico,2012,04/02/13,Typica,Green,Washed / Wet,7.42,7.5,7.42,7.58,7.42,7.5,10.0,10.0,10.0,0.1,0,0,3
+752,Arabica,South America,Colombia,2012,02/21/13,Caturra,Green,Washed / Wet,7.5,7.42,7.67,7.33,7.58,7.33,10.0,10.0,10.0,0.12,0,0,1
+753,Arabica,South America,Colombia,2012,02/08/13,Caturra,Green,Washed / Wet,7.67,7.33,7.33,7.33,7.5,7.5,10.0,10.0,10.0,0.11,0,0,0
+754,Arabica,South America,Brazil,2012,01/22/13,Arusha,Green,Natural / Dry,7.67,7.58,7.42,7.0,7.5,7.58,10.0,10.0,10.0,0.12,0,0,1
+755,Arabica,South America,Colombia,,02/29/12,,,,7.17,7.25,7.58,7.25,7.58,7.67,10.0,10.0,10.0,0.22,0,0,2
+756,Arabica,South America,Brazil,2016,08/16/17,Bourbon,Green,Natural / Dry,7.42,7.42,7.5,7.42,7.42,7.5,10.0,10.0,10.0,0.11,1,0,5
+757,Arabica,North America,Honduras,2015,06/09/17,Caturra,Bluish-Green,Washed / Wet,7.5,7.5,7.17,7.42,7.5,7.5,10.0,10.0,10.0,0.11,1,0,2
+758,Arabica,North America,Nicaragua,,03/15/17,,Green,,7.5,7.5,7.33,7.42,7.5,7.42,10.0,10.0,10.0,0.1,0,0,1
+759,Arabica,Africa,Tanzania,2015,11/15/16,Bourbon,Green,Washed / Wet,7.58,7.42,7.42,7.33,7.5,7.42,10.0,10.0,10.0,0.13,0,1,6
+760,Arabica,Africa,Tanzania,2015,10/19/16,Other,Green,Washed / Wet,7.42,7.42,7.42,7.5,7.5,7.33,10.0,10.0,10.0,0.12,0,0,1
+761,Arabica,South America,Brazil,2015,10/07/16,Yellow Bourbon,Green,Natural / Dry,6.92,7.58,7.42,7.33,7.83,7.5,10.0,10.0,10.0,0.0,0,0,1
+762,Arabica,Asia,Thailand,2014,06/08/16,,Bluish-Green,Washed / Wet,7.42,7.42,7.17,7.75,7.25,7.67,10.0,10.0,10.0,0.12,0,0,0
+763,Arabica,North America,Honduras,2015,04/14/16,Catuai,Green,Washed / Wet,7.67,7.5,7.25,7.42,7.58,7.42,10.0,10.0,10.0,0.11,0,0,2
+764,Arabica,North America,Guatemala,2014,03/20/16,Bourbon,Blue-Green,Washed / Wet,7.42,7.42,7.5,7.5,7.42,7.5,10.0,10.0,10.0,0.09,0,0,4
+765,Arabica,South America,Brazil,2014,01/15/16,Mundo Novo,Green,Natural / Dry,7.58,7.5,7.42,7.25,7.5,7.42,10.0,10.0,10.0,0.12,0,0,1
+766,Arabica,Africa,Tanzania,2014,12/15/15,Other,Green,Washed / Wet,7.75,7.42,7.42,7.58,7.33,7.42,10.0,10.0,10.0,0.12,0,0,1
+767,Arabica,North America,Mexico,2013,07/15/15,Other,Green,Washed / Wet,7.42,7.33,7.17,7.42,7.33,8.17,10.0,10.0,10.0,0.12,0,0,0
+768,Arabica,North America,Mexico,2013,04/10/15,Other,None,Washed / Wet,7.5,7.5,7.33,7.42,7.5,7.42,10.0,10.0,10.0,0.1,0,1,1
+769,Arabica,Asia,Taiwan,2013,12/26/14,Typica,Green,Other,7.5,7.5,7.5,7.5,7.5,7.5,10.0,10.0,10.0,0.11,0,0,0
+770,Arabica,Asia,Taiwan,2012,05/29/14,Typica,Green,Washed / Wet,7.67,7.5,7.5,7.17,7.17,7.58,10.0,10.0,10.0,0.0,0,0,0
+771,Arabica,South America,Colombia,2013,03/20/14,Caturra,Bluish-Green,Washed / Wet,7.33,7.25,7.25,7.58,7.75,7.5,10.0,10.0,10.0,0.0,0,0,1
+772,Arabica,North America,Mexico,2012,09/27/13,Typica,None,Washed / Wet,7.5,7.67,7.0,7.5,7.33,7.5,10.0,10.0,10.0,0.15,0,1,9
+773,Arabica,North America,Guatemala,2012,08/02/13,Caturra,None,Washed / Wet,7.25,7.75,7.0,7.75,8.17,7.75,10.0,10.0,9.33,0.12,0,0,2
+774,Arabica,North America,Mexico,2012,07/11/13,Typica,Green,Washed / Wet,7.5,7.58,7.25,7.5,7.5,7.33,10.0,10.0,10.0,0.12,0,0,4
+775,Arabica,North America,Mexico,2012,07/02/13,Typica,Green,Washed / Wet,7.0,7.67,7.5,7.5,7.42,7.5,10.0,10.0,10.0,0.1,0,0,1
+776,Arabica,South America,Colombia,2010,02/09/12,,,,7.58,7.67,7.42,7.17,7.17,7.75,10.0,10.0,10.0,0.08,0,0,0
+777,Arabica,Asia,Indonesia,2017,08/03/18,Bourbon,,Washed / Wet,7.5,7.5,7.42,7.42,7.5,7.42,10.0,10.0,10.0,0.15,0,0,3
+778,Arabica,South America,Colombia,2016,02/20/18,Caturra,Green,Washed / Wet,7.75,7.58,7.42,7.67,7.83,7.58,9.33,9.33,10.0,0.0,7,0,6
+779,Arabica,South America,Brazil,2016,08/16/17,Bourbon,Green,Natural / Dry,7.42,7.58,7.42,7.5,7.42,7.25,10.0,10.0,10.0,0.11,1,0,3
+780,Arabica,South America,Brazil,2015,10/07/16,Yellow Bourbon,Green,Natural / Dry,7.25,7.25,7.58,7.58,7.25,7.92,10.0,10.0,10.0,0.0,0,0,1
+781,Arabica,North America,Costa Rica,2015,04/09/16,Caturra,Blue-Green,Washed / Wet,7.75,7.42,7.42,7.25,7.17,7.42,10.0,10.0,10.0,0.0,0,0,0
+782,Arabica,Africa,Tanzania,2014,03/24/16,Bourbon,Green,Washed / Wet,7.42,7.33,7.42,7.42,7.5,7.58,10.0,10.0,10.0,0.12,0,0,5
+783,Arabica,Africa,Tanzania,2014,01/08/16,Other,Green,Washed / Wet,7.42,7.5,7.5,7.33,7.33,7.5,10.0,10.0,10.0,0.12,0,0,3
+784,Arabica,South America,Colombia,2013,09/12/15,,Green,Washed / Wet,7.5,7.42,7.42,7.42,7.67,7.42,10.0,10.0,10.0,0.11,0,1,0
+785,Arabica,North America,Costa Rica,2013,03/21/15,Caturra,Green,Washed / Wet,7.58,7.33,7.33,7.33,7.5,7.67,10.0,10.0,10.0,0.11,0,0,2
+786,Arabica,North America,United States,2012,11/26/13,Hawaiian Kona,Bluish-Green,Natural / Dry,7.25,7.58,7.58,7.25,7.5,7.42,10.0,10.0,10.0,0.11,0,0,0
+787,Arabica,North America,Mexico,2012,09/10/13,Typica,Green,Washed / Wet,7.42,7.58,7.5,7.33,7.42,7.42,10.0,10.0,10.0,0.13,0,0,7
+788,Arabica,North America,Mexico,2012,08/30/13,Typica,Green,Washed / Wet,7.5,7.42,7.42,7.5,7.25,7.5,10.0,10.0,10.0,0.13,0,3,13
+789,Arabica,North America,Mexico,2012,07/26/13,Typica,Green,Washed / Wet,7.67,7.5,7.25,7.58,7.42,7.33,10.0,10.0,10.0,0.11,0,0,11
+790,Arabica,Asia,Vietnam,2012,07/23/13,Other,Green,Natural / Dry,7.67,8.0,7.17,7.08,7.67,7.08,10.0,10.0,10.0,0.12,0,0,2
+791,Arabica,North America,Mexico,2012,07/11/13,Typica,Green,Washed / Wet,7.58,7.42,7.25,7.75,7.33,7.42,10.0,10.0,10.0,0.11,0,0,1
+792,Arabica,North America,United States,2012,02/22/13,Hawaiian Kona,Green,Washed / Wet,7.33,7.5,7.33,7.58,7.08,7.83,10.0,10.0,10.0,0.1,0,0,2
+793,Arabica,South America,Colombia,2011,04/17/12,,,,7.67,7.42,7.67,7.33,7.25,7.58,10.0,10.0,10.0,0.08,0,1,5
+794,Arabica,North America,Honduras,2017,06/01/18,Caturra,Green,Washed / Wet,7.5,7.5,7.17,7.5,7.5,7.42,10.0,10.0,10.0,0.12,0,0,1
+795,Arabica,North America,Honduras,2016,04/06/18,Caturra,Green,Natural / Dry,7.5,7.5,7.25,7.33,7.42,7.5,10.0,10.0,10.0,0.1,1,0,7
+796,Arabica,South America,Brazil,2016,08/16/17,Bourbon,Green,Natural / Dry,7.5,7.33,7.42,7.5,7.33,7.42,10.0,10.0,10.0,0.11,2,0,3
+797,Arabica,Africa,Tanzania,2015,11/15/16,Other,Green,Washed / Wet,7.67,7.33,7.33,7.42,7.42,7.42,10.0,10.0,10.0,0.13,0,0,20
+798,Arabica,Asia,Laos,2015,11/04/16,Other,Blue-Green,Washed / Wet,7.42,7.5,7.25,7.33,7.5,7.5,10.0,10.0,10.0,0.12,0,0,0
+799,Arabica,Africa,Tanzania,2014,12/18/15,Other,Green,Washed / Wet,7.42,7.42,7.33,7.58,7.33,7.42,10.0,10.0,10.0,0.12,0,0,3
+800,Arabica,Africa,Malawi,2014,10/31/15,Gesha,Bluish-Green,Washed / Wet,7.5,7.42,7.33,7.58,7.33,7.5,10.0,10.0,10.0,0.13,0,0,1
+801,Arabica,Asia,Taiwan,2013,07/22/15,Typica,Green,Washed / Wet,7.33,7.5,7.17,7.42,7.5,7.33,10.0,10.0,10.0,0.09,0,0,0
+802,Arabica,Asia,Thailand,2013,06/20/15,,Green,Washed / Wet,7.58,7.5,7.42,7.42,7.33,7.42,10.0,10.0,10.0,0.11,0,0,0
+803,Arabica,North America,Costa Rica,2013,06/09/15,Catuai,Green,Washed / Wet,7.5,7.25,7.33,7.33,7.75,7.5,10.0,10.0,10.0,0.1,0,0,4
+804,Arabica,North America,Honduras,2014,04/30/15,Caturra,Green,Washed / Wet,7.33,7.33,7.33,7.5,7.5,7.83,10.0,10.0,10.0,0.11,0,0,5
+805,Arabica,South America,Colombia,2013,09/13/14,Caturra,Green,Washed / Wet,7.33,7.33,7.58,7.5,7.5,7.58,10.0,10.0,10.0,0.11,0,0,1
+806,Arabica,Asia,Taiwan,2012,06/03/14,Typica,Bluish-Green,Washed / Wet,7.42,7.58,7.33,7.42,8.0,7.5,9.33,10.0,10.0,0.12,0,0,0
+807,Arabica,South America,Brazil,2012,05/21/14,Mundo Novo,Blue-Green,Natural / Dry,7.33,7.67,7.42,7.17,7.33,7.42,10.0,10.0,10.0,0.11,0,0,0
+808,Arabica,North America,Mexico,2012,07/11/13,Typica,Green,Washed / Wet,7.67,7.33,7.25,7.5,7.42,7.42,10.0,10.0,10.0,0.12,0,0,1
+809,Arabica,South America,Brazil,2012,06/04/13,Mundo Novo,Green,Natural / Dry,7.42,7.5,7.33,7.5,7.33,7.5,10.0,10.0,10.0,0.12,0,0,1
+810,Arabica,South America,Brazil,2012,04/11/13,Catuai,Blue-Green,Semi-washed / Semi-pulped,7.42,7.5,7.25,7.5,7.5,7.42,10.0,10.0,10.0,0.11,0,0,1
+811,Arabica,North America,Guatemala,2012,03/26/13,Bourbon,Green,Natural / Dry,7.33,7.33,7.33,7.5,7.67,7.67,10.0,10.0,10.0,0.11,0,0,3
+812,Arabica,South America,Brazil,2012,02/16/13,Mundo Novo,Green,Semi-washed / Semi-pulped,7.58,7.5,7.17,7.5,7.5,7.42,10.0,10.0,10.0,0.12,0,0,2
+813,Arabica,North America,Guatemala,2012,01/31/13,Bourbon,Green,Washed / Wet,7.75,7.33,7.33,7.42,7.75,7.67,10.0,10.0,9.33,0.0,0,0,10
+814,Arabica,South America,Colombia,,07/28/12,Caturra,,,7.33,7.0,7.08,7.42,7.5,7.67,10.0,10.0,10.0,0.07,0,0,2
+815,Arabica,North America,Guatemala,2017,08/22/18,Bourbon,Green,Washed / Wet,7.58,7.5,7.25,7.58,7.58,7.5,9.33,10.0,10.0,0.1,0,0,1
+816,Arabica,North America,Guatemala,2017,06/22/18,Bourbon,Green,Washed / Wet,7.5,7.5,7.25,7.42,7.42,7.42,10.0,10.0,10.0,0.11,2,0,0
+817,Arabica,North America,Honduras,2017,06/01/18,Caturra,Green,Washed / Wet,7.58,7.5,7.25,7.33,7.42,7.5,10.0,10.0,10.0,0.12,0,0,1
+818,Arabica,South America,Brazil,2016,10/26/17,Catuai,Green,Natural / Dry,7.42,7.33,7.33,7.5,7.5,7.33,10.0,10.0,10.0,0.11,0,0,4
+819,Arabica,North America,El Salvador,2014,05/04/16,Bourbon,Green,Washed / Wet,7.67,7.58,7.33,7.5,7.5,7.67,10.0,10.0,9.33,0.11,0,0,2
+820,Arabica,North America,Guatemala,2015,04/19/16,Catuai,Green,Washed / Wet,7.58,7.58,7.17,7.83,7.17,7.33,10.0,10.0,10.0,0.11,0,0,7
+821,Arabica,Africa,Tanzania,2014,01/06/16,Other,Green,Washed / Wet,7.33,7.33,7.33,7.42,7.5,7.58,10.0,10.0,10.0,0.12,0,0,4
+822,Arabica,North America,Nicaragua,2013,07/29/15,,Green,Washed / Wet,7.58,7.42,7.25,7.17,7.5,7.67,10.0,10.0,10.0,0.12,0,3,4
+823,Arabica,Africa,Zambia,2014,06/20/15,SL28,,Washed / Wet,7.67,7.08,7.42,7.33,7.75,7.42,10.0,10.0,10.0,0.0,0,1,3
+824,Arabica,North America,Honduras,2012,01/17/15,,Green,Washed / Wet,7.42,7.33,7.33,7.58,7.33,7.5,10.0,10.0,10.0,0.11,0,0,0
+825,Arabica,Asia,Taiwan,2012,12/26/14,Typica,Green,Other,7.5,7.5,7.42,7.25,7.5,7.5,10.0,10.0,10.0,0.11,0,0,0
+826,Arabica,North America,Mexico,2013,03/29/14,Bourbon,Green,Washed / Wet,7.58,7.5,7.25,7.58,7.5,7.25,10.0,10.0,10.0,0.12,0,0,6
+827,Arabica,North America,Mexico,2012,09/27/13,Typica,None,Semi-washed / Semi-pulped,7.5,7.5,7.25,7.25,7.5,7.5,10.0,10.0,10.0,0.13,0,2,7
+828,Arabica,North America,Mexico,2012,09/27/13,Mundo Novo,None,Washed / Wet,7.5,7.42,7.25,7.5,7.33,7.33,10.0,10.0,10.0,0.14,0,2,8
+829,Arabica,North America,Mexico,2012,07/11/13,Other,Green,Washed / Wet,7.33,7.58,7.17,7.58,7.42,7.33,10.0,10.0,10.0,0.12,0,0,4
+830,Arabica,North America,Mexico,2012,07/11/13,Bourbon,Green,Washed / Wet,7.67,7.42,7.33,7.83,7.5,7.5,9.33,10.0,10.0,0.12,0,0,0
+831,Arabica,South America,Brazil,2012,02/28/13,Mundo Novo,Green,Natural / Dry,7.42,7.58,7.25,7.5,7.33,7.5,10.0,10.0,10.0,0.12,0,0,3
+832,Arabica,South America,Colombia,2010,02/01/12,,,,7.67,7.33,7.33,7.58,7.33,7.33,10.0,10.0,10.0,0.09,0,0,1
+833,Arabica,North America,Guatemala,2017,08/22/18,Bourbon,Green,Washed / Wet,7.42,7.5,7.25,7.5,7.33,7.42,10.0,10.0,10.0,0.1,0,1,1
+834,Arabica,North America,Costa Rica,2016,02/13/18,Catuai,Green,Pulped natural / honey,7.25,7.33,7.5,7.33,7.67,7.42,10.0,10.0,10.0,0.0,0,1,4
+835,Arabica,South America,Brazil,2016,01/20/18,Mundo Novo,Green,Natural / Dry,7.42,7.5,7.42,7.5,7.42,7.25,10.0,10.0,10.0,0.11,1,0,3
+836,Arabica,Asia,Indonesia,2015,01/19/18,Other,Green,Other,7.75,7.83,7.58,7.75,7.92,7.83,10.0,10.0,10.0,0.11,1,0,0
+837,Arabica,North America,Guatemala,2015,08/02/17,Bourbon,Green,Washed / Wet,7.58,7.5,7.33,7.42,7.58,7.25,10.0,10.0,10.0,0.1,0,2,6
+838,Arabica,South America,Brazil,2015,10/07/16,Yellow Bourbon,Green,Natural / Dry,7.17,7.58,6.83,7.5,7.75,7.25,10.0,10.0,10.0,0.0,0,0,1
+839,Arabica,South America,Brazil,2015,10/07/16,Yellow Bourbon,Green,Natural / Dry,7.58,7.0,6.92,6.92,7.67,7.5,10.0,10.0,10.0,0.0,0,0,0
+840,Arabica,Asia,Myanmar,2015,07/16/16,Catuai,Green,Washed / Wet,7.33,7.58,7.5,7.42,7.33,7.33,10.0,10.0,10.0,0.0,0,0,2
+841,Arabica,North America,Mexico,2015,06/24/16,Catuai,Green,Washed / Wet,7.58,7.5,7.33,7.5,7.17,7.33,10.0,10.0,10.0,0.11,0,0,7
+842,Arabica,North America,Honduras,2015,05/11/16,Catuai,Green,Washed / Wet,7.5,7.5,7.33,7.5,7.42,7.25,10.0,10.0,10.0,0.12,0,0,1
+843,Arabica,North America,Costa Rica,2015,05/06/16,Caturra,Green,Washed / Wet,7.67,7.5,7.5,7.25,7.08,7.42,10.0,10.0,10.0,0.09,0,0,0
+844,Arabica,Asia,Taiwan,2014,04/29/16,Typica,Green,Washed / Wet,7.67,7.33,7.17,7.25,7.75,7.33,10.0,10.0,10.0,0.0,0,0,0
+845,Arabica,Asia,Indonesia,2014,03/20/16,Typica,None,Other,7.42,7.42,7.42,7.33,7.42,7.42,10.0,10.0,10.0,0.11,0,2,6
+846,Arabica,Africa,Malawi,2014,10/31/15,Gesha,Green,Washed / Wet,7.58,7.42,7.33,7.33,7.33,7.42,10.0,10.0,10.0,0.13,0,0,0
+847,Arabica,South America,Brazil,2014,10/15/15,Bourbon,Green,Natural / Dry,7.33,7.58,7.25,7.17,7.83,7.33,10.0,10.0,10.0,0.11,0,0,0
+848,Arabica,North America,Honduras,2014,05/16/15,Caturra,Green,Natural / Dry,7.5,7.5,7.33,7.33,7.33,7.33,10.0,10.0,10.0,0.1,0,0,4
+849,Arabica,North America,Mexico,2014,04/26/15,Typica,Green,Washed / Wet,7.42,7.42,7.25,7.5,7.33,7.42,10.0,10.0,10.0,0.11,0,0,0
+850,Arabica,South America,Colombia,2013,07/19/14,Caturra,Bluish-Green,Washed / Wet,7.5,7.5,7.0,7.42,7.5,7.58,10.0,10.0,10.0,0.0,0,2,0
+851,Arabica,North America,United States,2012,03/06/14,Hawaiian Kona,Bluish-Green,Natural / Dry,7.83,7.83,7.83,8.0,7.83,7.83,10.0,6.67,10.0,0.0,0,1,1
+852,Arabica,South America,Brazil,2012,03/02/14,Bourbon,Bluish-Green,Semi-washed / Semi-pulped,7.75,7.75,7.5,7.42,7.83,7.75,9.33,9.33,9.33,0.12,0,0,0
+853,Arabica,North America,Guatemala,2013,02/26/14,Bourbon,Green,Washed / Wet,7.83,7.67,7.33,7.33,7.67,7.83,9.33,10.0,9.33,0.11,0,0,1
+854,Arabica,North America,Mexico,2012,08/31/13,Bourbon,Green,Washed / Wet,7.83,7.33,7.25,7.58,7.25,7.33,10.0,10.0,10.0,0.12,0,0,2
+855,Arabica,North America,Mexico,2012,07/11/13,Typica,Green,Semi-washed / Semi-pulped,7.33,7.33,7.25,7.5,7.5,7.5,10.0,10.0,10.0,0.12,0,0,10
+856,Arabica,South America,Brazil,2011,10/27/12,Mundo Novo,,,7.33,7.67,7.25,7.5,7.5,7.25,10.0,10.0,10.0,0.02,0,0,2
+857,Arabica,South America,Colombia,2011,06/13/12,,,,7.58,7.5,7.17,7.58,7.33,7.33,10.0,10.0,10.0,0.05,0,0,0
+858,Arabica,North America,United States,,05/24/11,,,,7.25,7.58,7.83,7.67,7.75,7.75,9.33,9.33,10.0,0.02,0,3,12
+859,Arabica,North America,Guatemala,2017,06/22/18,Bourbon,Green,Washed / Wet,7.5,7.5,7.25,7.42,7.42,7.33,10.0,10.0,10.0,0.11,1,0,1
+860,Arabica,Asia,Vietnam,2014,12/20/16,Caturra,Bluish-Green,Washed / Wet,7.0,7.08,7.33,7.5,7.5,7.33,10.0,10.0,10.0,0.12,0,0,0
+861,Arabica,Africa,Tanzania,2014,01/08/16,Other,Bluish-Green,Washed / Wet,7.42,7.42,7.42,7.42,7.33,7.33,10.0,10.0,10.0,0.12,0,0,4
+862,Arabica,South America,Brazil,2013,08/25/15,,Bluish-Green,Natural / Dry,7.17,7.25,7.17,7.25,7.42,8.25,10.0,10.0,10.0,0.1,0,0,1
+863,Arabica,North America,Mexico,2012,09/27/13,Bourbon,None,Washed / Wet,7.5,7.5,7.33,7.42,7.25,7.25,10.0,10.0,10.0,0.13,0,2,9
+864,Arabica,North America,Mexico,2012,09/10/13,Mundo Novo,Green,Washed / Wet,7.42,7.5,7.17,7.67,7.33,7.42,10.0,10.0,10.0,0.13,0,0,23
+865,Arabica,North America,Mexico,2012,09/04/13,Typica,Green,Washed / Wet,7.42,7.5,7.33,7.58,7.33,7.33,10.0,10.0,10.0,0.11,0,0,1
+866,Arabica,North America,Mexico,2012,08/30/13,Caturra,Green,Washed / Wet,7.33,7.42,7.33,7.67,7.42,7.25,10.0,10.0,10.0,0.12,0,10,14
+867,Arabica,North America,Mexico,2012,06/06/13,Typica,,Washed / Wet,7.5,7.42,7.25,7.33,7.67,7.25,10.0,10.0,10.0,0.12,0,0,1
+868,Arabica,South America,Colombia,2011,12/21/12,Caturra,Green,Washed / Wet,7.33,7.42,7.33,7.33,7.5,7.67,10.0,10.0,10.0,0.0,0,0,1
+869,Arabica,South America,Colombia,,10/03/12,,,,7.42,7.58,6.92,7.08,7.25,8.0,10.0,10.0,10.0,0.08,0,0,0
+870,Arabica,South America,Brazil,2017,10/20/18,Bourbon,Green,Natural / Dry,7.42,7.5,7.25,7.5,7.5,7.25,10.0,10.0,10.0,0.11,0,0,5
+871,Arabica,North America,Guatemala,2017,08/22/18,Bourbon,Green,Washed / Wet,7.42,7.42,7.08,7.42,7.33,7.42,10.0,10.0,10.0,0.1,0,0,1
+872,Arabica,North America,Guatemala,2017,06/05/18,Bourbon,Green,Washed / Wet,7.42,7.33,7.17,7.67,7.33,7.42,10.0,10.0,10.0,0.12,1,0,3
+873,Arabica,North America,Honduras,2016,05/02/17,Catuai,Blue-Green,Washed / Wet,7.58,7.5,7.33,7.33,7.42,7.25,10.0,10.0,10.0,0.11,0,0,2
+874,Arabica,Africa,Tanzania,2016,04/27/17,,Green,,7.17,7.33,7.33,7.42,7.5,7.33,10.0,10.0,10.0,0.0,0,0,1
+875,Arabica,North America,Nicaragua,,03/11/17,,Green,,7.58,7.5,7.25,7.25,7.5,7.25,10.0,10.0,10.0,0.1,0,0,1
+876,Arabica,South America,Colombia,2016,01/20/17,,,,7.75,7.75,7.75,7.67,5.25,7.83,10.0,10.0,10.0,0.0,1,0,1
+877,Arabica,South America,Brazil,2015,10/07/16,Yellow Bourbon,Green,Natural / Dry,7.25,7.75,6.92,7.42,7.5,7.58,10.0,10.0,10.0,0.0,0,0,0
+878,Arabica,Africa,Tanzania,2014,01/02/16,Other,Green,Washed / Wet,7.42,7.33,7.25,7.42,7.5,7.42,10.0,10.0,10.0,0.12,0,0,0
+879,Arabica,Africa,Tanzania,2013,12/15/15,Other,Green,Washed / Wet,7.33,7.33,7.5,7.25,7.42,7.33,10.0,10.0,10.0,0.12,0,0,7
+880,Arabica,South America,Brazil,2014,10/16/15,Bourbon,Green,Washed / Wet,7.25,7.42,7.25,7.5,7.5,7.42,10.0,10.0,10.0,0.1,0,0,2
+881,Arabica,Asia,Indonesia,2013,05/23/15,Sumatra,Bluish-Green,Semi-washed / Semi-pulped,7.17,7.42,7.33,7.42,7.33,7.42,10.0,10.0,10.0,0.11,0,0,0
+882,Arabica,North America,Honduras,2014,05/16/15,Caturra,Green,Natural / Dry,7.5,7.33,7.5,7.5,7.17,7.17,10.0,10.0,10.0,0.1,0,0,5
+883,Arabica,North America,Costa Rica,2013,04/26/15,Caturra,Green,Washed / Wet,7.5,7.17,7.17,7.17,7.5,7.08,10.0,10.0,10.0,0.11,0,0,3
+884,Arabica,North America,Mexico,2014,04/02/15,,Green,Washed / Wet,7.42,7.42,7.67,8.0,7.58,7.5,9.33,9.33,10.0,0.0,0,0,4
+885,Arabica,Asia,Taiwan,2013,12/26/14,Typica,Green,Semi-washed / Semi-pulped,7.5,7.5,7.5,7.25,7.42,7.25,10.0,10.0,10.0,0.11,0,0,0
+886,Arabica,Asia,Taiwan,2013,12/26/14,Typica,Green,Washed / Wet,7.58,7.42,7.33,7.42,7.33,7.33,10.0,10.0,10.0,0.11,0,0,0
+887,Arabica,North America,Mexico,2013,03/29/14,Typica,Green,Washed / Wet,7.5,7.42,7.08,7.58,7.33,7.33,10.0,10.0,10.0,0.12,0,0,6
+888,Arabica,North America,Guatemala,2012,10/05/13,Bourbon,Green,Washed / Wet,7.5,7.67,7.33,7.33,7.33,7.33,10.0,10.0,10.0,0.11,0,0,4
+889,Arabica,North America,Mexico,2012,09/11/13,Typica,Green,Washed / Wet,7.25,7.67,7.58,7.67,7.67,7.58,8.67,10.0,10.0,0.13,0,1,13
+890,Arabica,North America,Mexico,2012,08/30/13,Bourbon,Green,Washed / Wet,7.67,7.25,7.17,7.75,7.5,7.25,10.0,10.0,10.0,0.11,0,0,4
+891,Arabica,North America,Mexico,2012,07/27/13,Bourbon,Green,Washed / Wet,7.5,7.42,7.33,7.42,7.42,7.42,10.0,10.0,10.0,0.11,0,0,2
+892,Arabica,North America,Mexico,2012,04/02/13,Bourbon,Green,Washed / Wet,7.58,7.42,7.25,7.58,7.25,7.17,10.0,10.0,10.0,0.11,0,0,2
+893,Arabica,North America,Mexico,2012,02/28/13,Caturra,Green,Semi-washed / Semi-pulped,7.75,7.58,7.25,7.17,7.58,7.33,9.33,10.0,10.0,0.11,0,0,4
+894,Arabica,North America,United States,2012,02/07/13,Hawaiian Kona,Green,Washed / Wet,7.42,7.33,7.33,7.33,7.17,7.83,10.0,10.0,10.0,0.1,0,1,1
+895,Arabica,North America,Honduras,2018,01/19/19,Catimor,Blue-Green,Washed / Wet,7.5,7.42,7.08,7.42,7.5,7.33,10.0,10.0,10.0,0.11,1,0,3
+896,Arabica,North America,Guatemala,2017,06/01/18,Bourbon,Green,Washed / Wet,7.42,7.42,7.08,7.5,7.42,7.33,10.0,10.0,10.0,0.12,0,0,0
+897,Arabica,Asia,Taiwan,2016,07/15/17,Typica,Blue-Green,Washed / Wet,7.42,7.42,7.25,7.67,7.33,7.25,10.0,10.0,10.0,0.1,0,0,0
+898,Arabica,North America,Costa Rica,2015,02/03/16,Caturra,Green,Washed / Wet,7.58,7.42,7.5,7.17,7.08,7.58,10.0,10.0,10.0,0.12,0,0,1
+899,Arabica,Africa,Tanzania,2014,12/18/15,Other,Green,Washed / Wet,7.42,7.42,7.33,7.42,7.42,7.33,10.0,10.0,10.0,0.12,0,0,5
+900,Arabica,Africa,Malawi,2014,10/31/15,Gesha,Green,Washed / Wet,7.42,7.42,7.17,7.58,7.33,7.33,10.0,10.0,10.0,0.13,0,0,0
+901,Arabica,Asia,Taiwan,2014,08/25/15,Typica,,Semi-washed / Semi-pulped,7.33,7.17,7.08,7.08,8.33,8.25,10.0,10.0,9.33,0.0,0,0,0
+902,Arabica,South America,Brazil,2013,11/06/14,Yellow Bourbon,Blue-Green,Washed / Wet,7.42,7.42,7.33,7.33,7.5,7.25,10.0,10.0,10.0,0.12,0,0,3
+903,Arabica,North America,Guatemala,2013,07/16/14,Bourbon,Green,Washed / Wet,7.42,7.33,7.17,7.58,7.42,7.5,10.0,10.0,10.0,0.12,0,0,1
+904,Arabica,North America,Mexico,2013,03/29/14,Typica,Green,Washed / Wet,7.67,7.5,7.42,7.5,6.75,7.42,10.0,10.0,10.0,0.12,0,0,9
+905,Arabica,North America,Mexico,2012,06/06/13,Marigojipe,,Natural / Dry,7.33,7.5,7.25,7.5,7.5,7.17,10.0,10.0,10.0,0.11,0,0,0
+906,Arabica,North America,Mexico,2012,06/06/13,Typica,,Natural / Dry,7.67,7.58,7.42,7.58,7.58,7.42,10.0,10.0,8.67,0.11,0,0,2
+907,Arabica,Asia,Thailand,2011,11/15/12,,,,7.08,7.33,7.58,7.58,7.17,7.5,10.0,10.0,10.0,0.01,0,0,0
+908,Arabica,Asia,Thailand,2011,08/15/12,,,,7.33,7.33,7.17,7.5,7.58,7.33,10.0,10.0,10.0,0.2,0,0,0
+909,Arabica,North America,Costa Rica,,06/13/12,,,,7.25,7.17,7.33,7.33,7.5,7.75,10.0,10.0,10.0,0.0,0,0,1
+910,Arabica,North America,Guatemala,2017,08/23/18,Bourbon,Green,Washed / Wet,7.67,7.58,7.17,7.42,7.33,7.42,9.33,10.0,10.0,0.1,0,0,0
+911,Arabica,North America,Nicaragua,2017,06/20/18,Caturra,Green,Other,7.5,7.42,7.33,7.33,7.25,7.33,10.0,10.0,10.0,0.11,0,0,3
+912,Arabica,North America,Honduras,2017,06/03/18,Caturra,Green,Washed / Wet,7.5,7.5,7.33,7.42,7.17,7.25,10.0,10.0,10.0,0.1,0,0,5
+913,Arabica,North America,Guatemala,2017,06/01/18,Bourbon,Green,,7.5,7.42,7.25,7.25,7.5,7.25,10.0,10.0,10.0,0.12,0,0,0
+914,Arabica,Asia,Taiwan,2015,09/16/16,Typica,Green,Natural / Dry,7.5,7.42,7.33,7.08,7.58,7.25,10.0,10.0,10.0,0.12,0,0,2
+915,Arabica,Asia,Myanmar,2015,07/16/16,Catuai,Green,Washed / Wet,7.25,7.42,7.25,7.5,7.33,7.33,10.0,10.0,10.0,0.0,0,0,4
+916,Arabica,North America,Costa Rica,2014,01/07/16,Caturra,Green,Washed / Wet,7.83,7.33,7.08,7.08,7.33,7.5,10.0,10.0,10.0,0.12,0,1,2
+917,Arabica,Africa,Malawi,2014,11/04/15,Gesha,Green,Washed / Wet,7.67,7.42,6.92,7.5,7.5,7.17,10.0,10.0,10.0,0.12,0,0,0
+918,Arabica,North America,Guatemala,2014,09/23/15,Other,Green,Washed / Wet,7.5,7.42,7.17,7.58,7.25,7.42,10.0,10.0,10.0,0.12,0,0,0
+919,Arabica,Asia,Taiwan,2014,08/18/15,Typica,Blue-Green,Washed / Wet,7.42,7.33,7.67,7.33,7.42,7.5,10.0,10.0,9.33,0.11,0,0,0
+920,Arabica,South America,Brazil,2014,07/29/15,Yellow Bourbon,Green,Semi-washed / Semi-pulped,7.58,7.5,7.5,7.67,7.67,7.83,9.33,9.33,9.33,0.0,0,1,1
+921,Arabica,North America,Haiti,2013,05/05/15,Blue Mountain,Bluish-Green,Washed / Wet,7.42,7.33,7.25,7.42,7.42,7.33,10.0,10.0,10.0,0.11,0,0,0
+922,Arabica,Asia,Taiwan,2013,12/26/14,Typica,Green,Other,7.5,7.42,7.25,7.25,7.33,7.33,10.0,10.0,10.0,0.11,0,0,0
+923,Arabica,North America,Mexico,2013,03/11/14,Typica,Green,Washed / Wet,7.33,7.33,7.17,7.42,7.5,7.5,10.0,10.0,10.0,0.13,0,0,2
+924,Arabica,North America,Mexico,2012,08/30/13,Typica,Green,Washed / Wet,7.58,7.42,7.25,7.42,7.33,7.33,10.0,10.0,10.0,0.12,0,0,5
+925,Arabica,North America,Mexico,2012,08/29/13,Catuai,Green,Washed / Wet,7.42,7.25,7.17,7.42,7.17,8.0,10.0,10.0,10.0,0.12,0,0,10
+926,Arabica,North America,Mexico,2012,08/01/13,Typica,Green,Semi-washed / Semi-pulped,7.33,7.5,7.33,7.33,7.33,7.42,10.0,10.0,10.0,0.11,0,0,6
+927,Arabica,North America,Mexico,2012,07/26/13,Bourbon,Green,Washed / Wet,7.42,7.42,7.33,7.17,7.25,7.42,10.0,10.0,10.0,0.13,0,0,5
+928,Arabica,North America,Mexico,2012,07/26/13,Typica,Green,Natural / Dry,7.5,7.5,7.25,7.5,7.42,7.58,9.33,10.0,10.0,0.11,0,0,3
+929,Arabica,Asia,Indonesia,2012,05/24/13,Other,Green,Washed / Wet,7.75,7.17,7.17,7.33,7.58,7.33,10.0,10.0,10.0,0.12,0,0,0
+930,Arabica,South America,Brazil,2012,04/12/13,Bourbon,Blue-Green,Semi-washed / Semi-pulped,7.5,7.42,7.17,7.42,7.5,7.33,10.0,10.0,10.0,0.12,0,0,2
+931,Arabica,North America,Guatemala,2012,01/24/13,Bourbon,Green,Washed / Wet,7.33,7.5,7.33,7.42,7.17,7.33,10.0,10.0,10.0,0.11,0,0,1
+932,Arabica,South America,Colombia,,09/06/12,,,,7.42,7.42,7.17,7.42,7.42,7.33,10.0,10.0,10.0,0.06,0,1,0
+933,Arabica,North America,United States,,06/29/11,,,,7.33,7.33,7.33,7.5,7.5,7.83,9.33,10.0,10.0,0.0,0,0,17
+934,Arabica,North America,Mexico,2017,05/12/18,Mundo Novo,Green,Washed / Wet,7.58,7.33,7.08,7.33,7.5,7.33,10.0,10.0,10.0,0.12,5,1,17
+935,Arabica,North America,Guatemala,2016,03/17/17,Catuai,Green,Washed / Wet,7.42,7.33,7.08,7.58,7.33,7.25,10.0,10.0,10.0,0.1,0,0,0
+936,Arabica,South America,Brazil,2015,12/02/16,Catuai,Green,Natural / Dry,7.33,7.5,7.5,7.33,6.83,7.42,10.0,10.0,10.0,0.11,0,0,2
+937,Arabica,North America,Honduras,2015,05/11/16,Catuai,Green,Washed / Wet,7.5,7.33,7.17,7.25,7.5,7.42,10.0,10.0,10.0,0.12,0,0,1
+938,Arabica,Asia,Taiwan,2014,11/23/15,Typica,Green,Washed / Wet,7.83,7.75,7.42,7.17,7.08,7.08,10.0,10.0,10.0,0.12,0,0,0
+939,Arabica,Africa,Malawi,2014,11/04/15,Gesha,Bluish-Green,Washed / Wet,7.58,7.17,7.33,7.42,7.08,7.42,10.0,10.0,10.0,0.12,0,0,0
+940,Arabica,South America,Brazil,2014,10/17/15,Bourbon,Green,Natural / Dry,7.25,7.5,7.42,7.17,7.33,7.33,10.0,10.0,10.0,0.0,0,0,0
+941,Arabica,North America,Guatemala,2014,05/26/15,Bourbon,Green,Washed / Wet,7.42,7.5,7.17,7.42,7.42,7.42,10.0,10.0,10.0,0.1,0,0,6
+942,Arabica,North America,Mexico,2014,05/01/15,Typica,Green,Washed / Wet,7.67,7.33,7.25,7.17,7.25,7.42,10.0,10.0,10.0,0.0,0,1,1
+943,Arabica,South America,Peru,2013,02/27/15,,Bluish-Green,Washed / Wet,7.42,7.42,7.17,7.33,7.42,7.42,10.0,10.0,10.0,0.1,0,1,5
+944,Arabica,North America,Guatemala,2013,10/07/14,Bourbon,Green,Washed / Wet,7.42,7.33,7.25,7.42,7.42,7.5,10.0,10.0,10.0,0.12,0,0,4
+945,Arabica,North America,Mexico,2012,09/27/13,Caturra,None,Washed / Wet,7.42,7.33,7.25,7.17,7.25,7.42,10.0,10.0,10.0,0.13,0,1,8
+946,Arabica,North America,Mexico,2012,06/06/13,Typica,,Washed / Wet,7.42,7.42,7.25,7.25,7.5,7.33,10.0,10.0,10.0,0.13,0,0,1
+947,Arabica,South America,Colombia,2011,11/10/12,Caturra,Green,Natural / Dry,7.5,7.42,7.25,7.17,7.17,7.75,10.0,10.0,10.0,0.11,0,0,0
+948,Arabica,South America,Colombia,2010,02/22/12,,,,7.75,7.33,7.42,7.0,7.33,7.25,10.0,10.0,10.0,0.16,0,0,2
+949,Arabica,North America,United States,,05/24/11,Peaberry,,,7.83,7.0,7.0,7.58,7.58,7.5,10.0,10.0,10.0,0.01,0,0,10
+950,Arabica,South America,Colombia,2016,11/08/17,Caturra,,Washed / Wet,7.5,7.33,7.33,7.17,7.33,7.42,10.0,10.0,10.0,0.0,0,0,0
+951,Arabica,North America,Honduras,2016,06/09/17,Caturra,Bluish-Green,Washed / Wet,7.5,7.5,7.0,7.17,7.5,7.33,10.0,10.0,10.0,0.11,2,0,3
+952,Arabica,North America,Mexico,2016,02/24/17,,Green,,7.67,7.42,7.0,7.42,7.58,7.08,10.0,10.0,10.0,0.12,2,0,0
+953,Arabica,South America,Brazil,2015,11/19/16,Catuai,Green,Natural / Dry,7.25,7.33,7.33,7.33,7.33,7.42,10.0,10.0,10.0,0.11,0,0,14
+954,Arabica,North America,Honduras,2015,05/21/16,Catuai,Green,Washed / Wet,7.58,7.42,7.17,7.42,7.17,7.17,10.0,10.0,10.0,0.09,0,0,4
+955,Arabica,South America,Brazil,2014,12/16/15,Yellow Bourbon,Green,Other,7.17,7.33,7.42,7.25,7.42,7.33,10.0,10.0,10.0,0.12,0,0,6
+956,Arabica,Asia,Philippines,2014,11/13/15,Other,Green,Washed / Wet,7.08,7.33,7.42,7.33,7.33,7.5,10.0,10.0,10.0,0.14,0,0,3
+957,Arabica,Africa,Malawi,2014,11/04/15,Gesha,Green,Washed / Wet,7.75,7.33,7.08,7.33,7.33,7.25,10.0,10.0,10.0,0.13,0,0,1
+958,Arabica,North America,Honduras,2014,01/22/15,Catuai,Green,Washed / Wet,7.33,7.33,7.17,7.33,7.5,7.33,10.0,10.0,10.0,0.12,0,0,3
+959,Arabica,North America,Mexico,2012,08/30/13,Typica,Green,Washed / Wet,7.58,7.42,7.25,7.33,7.25,7.25,10.0,10.0,10.0,0.13,0,4,13
+960,Arabica,North America,Mexico,2012,07/11/13,Typica,None,Washed / Wet,7.33,7.25,7.17,7.42,7.58,7.33,10.0,10.0,10.0,0.12,0,0,4
+961,Arabica,South America,Brazil,,11/15/18,Catuai,Green,Natural / Dry,7.5,7.58,7.5,7.5,7.75,7.83,9.33,9.33,9.33,0.11,0,0,0
+962,Arabica,Asia,Taiwan,2015,05/18/17,Typica,Green,Natural / Dry,7.83,7.75,7.67,7.83,7.83,7.75,9.33,10.0,10.0,0.12,0,0,0
+963,Arabica,South America,Brazil,2015,10/07/16,Yellow Bourbon,Green,Natural / Dry,7.17,7.42,7.17,7.08,6.92,8.17,10.0,10.0,10.0,0.0,0,0,1
+964,Arabica,North America,Nicaragua,2015,07/05/16,Catuai,Green,Washed / Wet,7.08,7.5,7.33,7.17,7.42,7.25,10.0,10.0,10.0,0.1,0,0,4
+965,Arabica,North America,Honduras,2015,05/11/16,Catuai,Green,Washed / Wet,7.42,7.17,7.17,7.5,7.33,7.25,10.0,10.0,10.0,0.12,0,0,1
+966,Arabica,North America,Guatemala,2014,03/20/16,Pacamara,Bluish-Green,Washed / Wet,7.33,7.42,7.17,7.25,7.42,7.33,10.0,10.0,10.0,0.09,0,0,2
+967,Arabica,Africa,Tanzania,2014,12/17/15,Other,Green,Washed / Wet,7.33,7.17,7.17,7.5,7.25,7.42,10.0,10.0,10.0,0.13,0,0,5
+968,Arabica,Asia,Taiwan,2013,12/26/14,Typica,Green,Semi-washed / Semi-pulped,7.5,7.5,7.25,7.25,7.25,7.25,10.0,10.0,10.0,0.11,0,0,0
+969,Arabica,North America,Guatemala,2013,03/04/14,Caturra,Green,Washed / Wet,7.5,7.33,7.5,7.58,7.0,7.25,10.0,10.0,10.0,0.11,0,0,4
+970,Arabica,North America,Mexico,2012,07/26/13,Typica,Green,Washed / Wet,7.42,7.42,7.33,7.33,7.5,7.42,9.33,10.0,10.0,0.12,0,0,1
+971,Arabica,North America,Nicaragua,2016,03/08/18,,Green,Washed / Wet,7.33,7.5,7.17,7.17,7.58,7.17,10.0,10.0,10.0,0.09,0,0,7
+972,Arabica,Africa,Tanzania,2015,11/15/16,Bourbon,Green,Washed / Wet,7.67,7.17,7.17,7.33,7.5,7.17,10.0,10.0,10.0,0.12,0,0,2
+973,Arabica,North America,Mexico,2015,06/24/16,Caturra,Green,Washed / Wet,7.75,7.58,7.08,7.25,7.08,7.25,10.0,10.0,10.0,0.12,0,0,10
+974,Arabica,North America,Costa Rica,2015,05/21/16,Caturra,Bluish-Green,Washed / Wet,7.5,7.5,7.33,7.17,7.08,7.17,10.0,10.0,10.0,0.11,0,0,0
+975,Arabica,North America,Honduras,2015,03/10/16,Catuai,Green,Natural / Dry,7.42,7.33,7.0,7.42,7.33,7.33,10.0,10.0,10.0,0.13,0,0,1
+976,Arabica,Asia,Thailand,2014,02/15/16,Caturra,Blue-Green,Washed / Wet,6.83,7.42,7.42,7.17,7.5,7.42,10.0,10.0,10.0,0.12,0,0,0
+977,Arabica,Asia,Philippines,2014,01/08/16,Typica,None,Natural / Dry,7.25,7.25,7.25,7.08,7.58,7.5,10.0,10.0,10.0,0.0,0,0,4
+978,Arabica,Africa,Tanzania,2014,12/17/15,Bourbon,Bluish-Green,Washed / Wet,7.58,7.17,7.17,7.33,7.33,7.25,10.0,10.0,10.0,0.12,0,0,2
+979,Arabica,Africa,Malawi,2014,11/04/15,Caturra,Green,Washed / Wet,7.58,7.25,7.33,7.08,7.33,7.33,10.0,10.0,10.0,0.12,0,0,12
+980,Arabica,North America,Costa Rica,2014,05/09/15,Catuai,Green,Washed / Wet,7.33,7.08,7.33,7.25,7.33,7.58,10.0,10.0,10.0,0.11,0,0,3
+981,Arabica,South America,Brazil,2013,02/04/15,Catuai,Green,Natural / Dry,7.42,7.42,7.17,7.42,7.33,7.25,10.0,10.0,10.0,0.11,0,0,3
+982,Arabica,North America,Mexico,2012,08/30/13,Typica,Green,Natural / Dry,7.42,7.25,7.08,7.75,7.42,7.17,10.0,10.0,10.0,0.13,0,3,7
+983,Arabica,North America,Guatemala,2012,08/20/13,Caturra,Green,Washed / Wet,7.42,7.25,7.33,7.25,7.25,7.42,10.0,10.0,10.0,0.12,0,0,4
+984,Arabica,South America,Brazil,2012,01/22/13,Mundo Novo,Green,Natural / Dry,7.42,7.33,7.25,7.42,7.5,7.17,10.0,10.0,10.0,0.12,0,0,1
+985,Arabica,North America,United States,,09/21/12,,,,7.25,7.75,7.67,7.67,7.42,7.67,8.67,9.33,10.0,0.04,0,3,0
+986,Arabica,Africa,Ethiopia,2016,07/14/18,,,Natural / Dry,7.42,7.33,7.17,7.33,7.42,7.17,10.0,10.0,10.0,0.11,0,0,1
+987,Arabica,South America,Brazil,2016,06/21/18,Mundo Novo,Green,Natural / Dry,7.58,7.42,7.5,7.25,7.75,7.58,9.33,10.0,9.33,0.11,0,5,8
+988,Arabica,North America,Nicaragua,2015,03/27/16,Other,,Washed / Wet,7.33,7.33,7.33,7.42,7.33,7.33,10.0,10.0,10.0,0.11,0,0,1
+989,Arabica,North America,United States,2014,03/03/16,Pache Comun,,Natural / Dry,7.42,7.17,7.33,7.42,7.25,7.33,10.0,10.0,10.0,0.0,0,0,0
+990,Arabica,Africa,Tanzania,2014,01/02/16,Other,Green,Washed / Wet,7.42,7.33,7.33,7.25,7.25,7.33,10.0,10.0,10.0,0.13,0,0,2
+991,Arabica,North America,Costa Rica,2014,12/18/15,Caturra,Green,Washed / Wet,7.42,7.25,7.17,7.25,7.25,7.58,10.0,10.0,10.0,0.13,0,0,0
+992,Arabica,North America,United States,2013,05/28/15,Other,Green,Washed / Wet,7.67,7.75,7.67,7.58,7.58,7.67,6.67,10.0,10.0,0.0,0,0,0
+993,Arabica,North America,Mexico,2012,09/14/13,Typica,None,Washed / Wet,7.25,7.42,7.33,7.33,7.17,7.33,10.0,10.0,10.0,0.13,0,5,16
+994,Arabica,North America,Mexico,2012,09/04/13,Typica,Green,Washed / Wet,7.33,7.25,7.33,7.42,7.25,7.42,10.0,10.0,10.0,0.12,0,0,2
+995,Arabica,North America,Mexico,2012,08/30/13,Typica,Green,Washed / Wet,7.33,7.33,7.25,7.42,7.25,7.25,10.0,10.0,10.0,0.11,0,0,5
+996,Arabica,North America,Mexico,2012,07/03/13,Typica,Green,Washed / Wet,7.42,7.33,7.25,7.42,7.17,7.25,10.0,10.0,10.0,0.1,0,0,1
+997,Arabica,North America,United States,2012,02/12/13,Hawaiian Kona,Blue-Green,Washed / Wet,7.42,7.42,7.25,7.58,6.92,7.17,10.0,10.0,10.0,0.06,0,0,0
+998,Arabica,South America,Brazil,,01/16/19,Bourbon,Green,Pulped natural / honey,7.25,7.25,7.17,7.5,7.33,7.17,10.0,10.0,10.0,0.11,6,0,9
+999,Arabica,North America,El Salvador,2017,08/28/18,Bourbon,Green,Washed / Wet,7.42,7.08,7.08,7.33,7.25,7.58,10.0,10.0,10.0,0.0,2,0,6
+1000,Arabica,South America,Brazil,2016,09/09/17,Yellow Bourbon,Bluish-Green,Pulped natural / honey,7.33,7.17,7.17,7.67,7.33,7.17,10.0,10.0,10.0,0.11,2,0,3
+1001,Arabica,North America,Guatemala,2016,08/02/17,Bourbon,Green,Washed / Wet,7.42,7.25,7.17,7.5,7.25,7.17,10.0,10.0,10.0,0.09,0,0,8
+1002,Arabica,South America,Colombia,2016,07/22/17,Caturra,Green,Washed / Wet,7.67,7.5,7.42,5.25,7.67,7.75,10.0,10.0,10.0,0.0,4,0,4
+1003,Arabica,North America,Guatemala,2015,07/22/16,Bourbon,Green,Washed / Wet,7.5,7.25,7.0,7.25,7.5,7.25,10.0,10.0,10.0,0.11,0,0,1
+1004,Arabica,Asia,Taiwan,2015,05/05/16,Typica,Bluish-Green,Washed / Wet,7.25,7.17,7.17,7.25,7.5,7.33,10.0,10.0,10.0,0.12,0,0,0
+1005,Arabica,North America,Honduras,2014,01/26/16,Caturra,Green,Natural / Dry,7.42,7.25,7.25,7.33,7.25,7.17,10.0,10.0,10.0,0.12,0,0,1
+1006,Arabica,South America,Brazil,2014,01/15/16,Mundo Novo,Green,Natural / Dry,7.67,7.75,7.83,7.75,7.83,7.75,10.0,6.67,10.0,0.12,0,0,0
+1007,Arabica,Africa,Tanzania,2014,12/15/15,Other,Green,Washed / Wet,7.33,7.33,7.08,7.42,7.17,7.33,10.0,10.0,10.0,0.12,0,0,5
+1008,Arabica,Africa,Uganda,2013,06/30/15,SL14,Green,Natural / Dry,7.33,6.92,7.17,7.33,7.42,7.42,10.0,10.0,10.0,0.12,0,0,3
+1009,Arabica,Asia,Taiwan,2013,12/26/14,Typica,Green,Semi-washed / Semi-pulped,7.5,6.92,7.33,7.33,7.33,7.33,10.0,10.0,10.0,0.11,0,0,0
+1010,Arabica,Asia,Thailand,2012,05/29/14,,Green,Washed / Wet,7.33,7.42,7.25,7.42,7.25,7.17,10.0,10.0,10.0,0.0,0,0,3
+1011,Arabica,North America,Mexico,2012,09/11/13,Other,Green,Washed / Wet,7.08,7.33,7.33,7.33,7.42,7.25,10.0,10.0,10.0,0.12,0,0,12
+1012,Arabica,North America,Mexico,2012,07/03/13,Typica,Green,Washed / Wet,7.58,7.67,7.5,7.67,7.58,7.5,8.0,10.0,10.0,0.0,0,0,8
+1013,Arabica,Asia,Taiwan,2017,12/08/18,Other,Blue-Green,Washed / Wet,7.33,7.17,7.25,7.33,7.33,7.25,10.0,10.0,10.0,0.0,0,0,0
+1014,Arabica,North America,Guatemala,2017,08/23/18,Bourbon,Green,Washed / Wet,7.67,7.67,7.33,7.58,7.67,7.5,9.33,9.33,9.33,0.1,0,0,2
+1015,Arabica,Africa,Kenya,2017,07/07/18,SL28,Green,Washed / Wet,7.17,7.58,7.5,7.5,8.0,7.75,10.0,10.0,10.0,0.11,0,0,3
+1016,Arabica,North America,Mexico,2017,05/12/18,Bourbon,Green,Washed / Wet,7.5,7.33,7.17,7.42,7.5,7.33,9.33,10.0,10.0,0.11,0,0,11
+1017,Arabica,Asia,Myanmar,2015,07/16/16,Other,,Other,7.17,7.42,7.0,7.58,7.33,7.0,10.0,10.0,10.0,0.0,0,0,5
+1018,Arabica,North America,United States,2014,01/13/16,Hawaiian Kona,Bluish-Green,Natural / Dry,7.42,7.08,7.17,7.17,7.58,7.25,10.0,10.0,10.0,0.1,0,2,5
+1019,Arabica,Africa,Tanzania,2014,12/18/15,Other,Green,Washed / Wet,7.33,7.17,7.17,7.25,7.42,7.33,10.0,10.0,10.0,0.12,0,0,0
+1020,Arabica,South America,Brazil,2014,12/16/15,Yellow Bourbon,Green,Natural / Dry,7.25,7.33,7.25,7.25,7.25,7.33,10.0,10.0,10.0,0.12,0,0,8
+1021,Arabica,Asia,Taiwan,2014,11/23/15,Typica,Green,Washed / Wet,7.92,7.67,7.33,7.08,7.08,7.08,10.0,10.0,10.0,0.09,0,0,0
+1022,Arabica,South America,Brazil,2014,10/16/15,Bourbon,None,Natural / Dry,7.17,7.42,7.17,7.25,7.25,7.33,10.0,10.0,10.0,0.1,0,0,0
+1023,Arabica,North America,Nicaragua,2013,07/16/15,Caturra,Green,Washed / Wet,7.33,7.08,7.25,7.0,7.5,7.42,10.0,10.0,10.0,0.1,0,1,3
+1024,Arabica,North America,Guatemala,2014,06/10/15,Pacas,Green,Washed / Wet,7.58,7.42,6.92,7.5,7.25,7.17,10.0,10.0,10.0,0.12,0,2,5
+1025,Arabica,Asia,Taiwan,2013,12/26/14,Typica,,Washed / Wet,7.42,7.25,7.25,7.25,7.25,7.25,10.0,10.0,10.0,0.11,0,0,0
+1026,Arabica,Asia,Taiwan,2013,12/26/14,Typica,Green,Other,7.25,7.17,7.08,7.08,7.08,8.08,10.0,10.0,10.0,0.11,0,0,0
+1027,Arabica,Asia,Taiwan,2013,12/26/14,Typica,Green,Washed / Wet,7.42,7.25,7.25,7.25,7.25,7.25,10.0,10.0,10.0,0.11,0,0,0
+1028,Arabica,North America,Mexico,2012,07/11/13,Typica,Green,Washed / Wet,7.58,7.33,7.08,7.5,7.17,7.25,10.0,10.0,10.0,0.13,0,0,12
+1029,Arabica,Asia,Thailand,,04/13/11,Peaberry,,,7.67,7.58,7.33,7.33,7.17,7.0,10.0,10.0,10.0,0.0,0,0,0
+1030,Arabica,Asia,Laos,2016,06/22/18,Catimor,Green,Washed / Wet,7.42,7.33,7.17,7.17,7.17,7.25,10.0,10.0,10.0,0.0,0,0,0
+1031,Arabica,North America,Guatemala,2013,05/26/15,Caturra,Green,Washed / Wet,7.67,7.25,7.08,7.33,7.17,7.25,10.0,10.0,10.0,0.11,0,0,1
+1032,Arabica,North America,Mexico,2012,08/30/13,Catuai,Green,Semi-washed / Semi-pulped,7.17,7.08,7.25,7.42,7.25,7.33,10.0,10.0,10.0,0.13,0,0,7
+1033,Arabica,North America,Mexico,2012,08/29/13,Typica,Green,Washed / Wet,7.33,7.25,7.33,7.33,7.25,7.17,10.0,10.0,10.0,0.11,0,0,3
+1034,Arabica,North America,Mexico,2012,07/03/13,Bourbon,Green,Washed / Wet,7.5,7.17,7.33,7.25,7.17,7.17,10.0,10.0,10.0,0.13,0,0,1
+1035,Arabica,North America,United States,2012,02/22/13,Hawaiian Kona,Blue-Green,Washed / Wet,7.42,7.33,7.0,7.25,7.33,7.5,10.0,10.0,10.0,0.1,0,2,0
+1036,Arabica,South America,Colombia,2010,01/25/12,,,,7.33,7.33,7.0,6.83,7.33,7.67,10.0,10.0,10.0,0.01,0,0,1
+1037,Arabica,South America,Brazil,2015,10/07/16,,Green,Natural / Dry,7.17,7.25,7.08,7.17,7.25,7.58,10.0,10.0,10.0,0.0,0,0,1
+1038,Arabica,Asia,Myanmar,2015,07/16/16,Catuai,Green,Washed / Wet,6.92,7.5,7.0,7.58,7.5,7.08,10.0,10.0,10.0,0.0,0,0,2
+1039,Arabica,North America,Guatemala,2015,06/17/16,Caturra,Green,Washed / Wet,7.5,7.33,7.0,7.42,7.17,7.17,10.0,10.0,10.0,0.12,0,0,1
+1040,Arabica,North America,Nicaragua,2015,05/27/16,Other,Green,Washed / Wet,7.25,7.25,7.17,7.25,7.33,7.25,10.0,10.0,10.0,0.12,0,0,5
+1041,Arabica,North America,Honduras,2015,05/24/16,Caturra,Green,Natural / Dry,7.5,7.33,7.0,7.42,7.25,7.17,10.0,10.0,10.0,0.11,0,0,2
+1042,Arabica,North America,Panama,2014,05/22/16,Caturra,Green,Other,7.25,7.33,7.17,7.33,7.33,7.17,10.0,10.0,10.0,0.11,0,1,4
+1043,Arabica,North America,Honduras,2015,05/21/16,Catuai,Green,Washed / Wet,7.42,7.17,7.08,7.42,7.25,7.25,10.0,10.0,10.0,0.09,0,0,2
+1044,Arabica,North America,Honduras,2015,03/10/16,Catuai,Green,Natural / Dry,7.25,7.33,7.08,7.5,7.25,7.33,10.0,10.0,10.0,0.13,0,0,1
+1045,Arabica,North America,Costa Rica,2014,04/11/15,Caturra,Green,Washed / Wet,7.33,7.33,7.25,7.25,7.17,7.17,10.0,10.0,10.0,0.11,0,0,0
+1046,Arabica,North America,Mexico,2012,09/04/13,Typica,Green,Washed / Wet,7.58,7.33,7.42,7.25,7.5,7.5,9.33,9.33,10.0,0.11,0,0,2
+1047,Arabica,North America,Haiti,2012,05/22/13,Typica,Green,Washed / Wet,7.42,7.0,7.42,7.25,7.08,7.33,10.0,10.0,10.0,0.12,0,0,0
+1048,Arabica,North America,United States,2011,12/20/12,Arusha,Bluish-Green,Natural / Dry,7.08,7.33,7.17,7.25,7.33,7.67,10.0,10.0,10.0,0.13,0,0,6
+1049,Arabica,Asia,Taiwan,2016,08/12/17,Typica,Green,Other,7.33,7.08,7.08,7.08,7.42,7.33,10.0,10.0,10.0,0.0,0,0,1
+1050,Arabica,Asia,Indonesia,2015,11/09/16,Mandheling,Blue-Green,Semi-washed / Semi-pulped,7.58,7.42,7.0,7.67,7.5,7.5,9.33,9.33,10.0,0.13,0,0,1
+1051,Arabica,North America,Guatemala,2015,10/22/16,Bourbon,Green,Washed / Wet,7.67,7.42,6.83,7.17,7.42,7.17,10.0,10.0,10.0,0.11,0,0,0
+1052,Arabica,North America,Costa Rica,2015,02/27/16,Caturra,Blue-Green,Washed / Wet,7.83,7.5,7.67,7.67,7.83,7.5,6.67,10.0,10.0,0.11,0,0,4
+1053,Arabica,Africa,Malawi,2014,11/04/15,Caturra,Bluish-Green,Washed / Wet,7.5,7.25,7.17,7.17,7.25,7.17,10.0,10.0,10.0,0.12,0,0,1
+1054,Arabica,North America,Mexico,2014,10/23/15,Typica,Green,Washed / Wet,7.25,7.17,7.17,7.25,7.17,7.42,10.0,10.0,10.0,0.12,0,0,4
+1055,Arabica,South America,Colombia,2014,04/14/15,Caturra,,Natural / Dry,7.67,7.5,7.42,7.67,7.5,7.75,10.0,10.0,6.67,0.0,0,0,1
+1056,Arabica,North America,Guatemala,2013,06/05/14,Bourbon,Green,Washed / Wet,7.67,7.17,7.0,7.5,7.0,7.0,10.0,10.0,10.0,0.12,0,0,5
+1057,Arabica,North America,Guatemala,2012,01/24/13,Bourbon,Green,Washed / Wet,7.0,7.33,7.5,7.33,7.0,7.33,10.0,10.0,10.0,0.11,0,0,2
+1058,Arabica,North America,Guatemala,2012,01/24/13,Bourbon,Green,Washed / Wet,7.0,7.5,7.33,7.17,7.17,7.17,10.0,10.0,10.0,0.11,0,0,3
+1059,Arabica,South America,Colombia,,03/14/12,,,,7.17,7.25,7.08,7.42,7.08,7.42,10.0,10.0,10.0,0.18,0,0,2
+1060,Arabica,South America,Brazil,2016,03/11/17,,Green,,7.33,7.25,7.33,7.08,7.58,7.25,9.33,10.0,10.0,0.11,0,0,7
+1061,Arabica,North America,Nicaragua,2016,02/25/17,,Green,,7.08,7.5,7.0,7.25,7.42,7.0,10.0,10.0,10.0,0.11,1,0,0
+1062,Arabica,Africa,Tanzania,2014,01/06/16,Other,Bluish-Green,Washed / Wet,7.25,7.08,7.08,7.33,7.33,7.25,10.0,10.0,10.0,0.12,0,0,1
+1063,Arabica,South America,Brazil,2014,10/17/15,Bourbon,Green,Semi-washed / Semi-pulped,7.42,7.25,7.33,7.0,7.08,7.25,10.0,10.0,10.0,0.0,0,0,3
+1064,Arabica,North America,Honduras,2014,04/30/15,Caturra,Green,Washed / Wet,7.5,7.17,7.0,7.42,7.33,7.0,10.0,10.0,10.0,0.11,0,0,5
+1065,Arabica,North America,Guatemala,2014,01/28/15,Bourbon,Green,Natural / Dry,7.17,7.42,6.83,7.5,7.17,7.25,10.0,10.0,10.0,0.11,0,0,5
+1066,Arabica,North America,United States,,05/03/12,,,,7.42,7.58,7.5,7.92,7.83,7.83,8.67,8.67,9.33,0.0,0,0,0
+1067,Arabica,South America,Colombia,,03/14/12,,,,7.08,7.25,7.0,7.5,7.08,7.33,10.0,10.0,10.0,0.0,0,0,2
+1068,Arabica,Asia,Taiwan,2017,12/08/18,Other,Blue-Green,Natural / Dry,7.17,7.17,7.17,7.42,7.17,7.25,10.0,10.0,10.0,0.0,0,0,0
+1069,Arabica,North America,Guatemala,2017,09/08/18,Caturra,Green,Washed / Wet,7.33,7.25,7.08,7.17,7.25,7.17,10.0,10.0,10.0,0.1,0,0,4
+1070,Arabica,North America,Honduras,2017,08/23/18,Catuai,Green,Washed / Wet,7.58,7.33,7.0,7.17,7.33,7.08,10.0,10.0,10.0,0.11,0,0,5
+1071,Arabica,Africa,Mauritius,2016,02/10/17,,Green,,7.25,7.25,7.17,7.17,7.25,7.17,10.0,10.0,10.0,0.12,0,0,0
+1072,Arabica,South America,Brazil,2015,11/16/16,Yellow Bourbon,Green,Semi-washed / Semi-pulped,7.25,7.33,7.17,7.5,7.33,7.25,9.33,10.0,10.0,0.11,0,0,3
+1073,Arabica,Asia,Myanmar,2015,07/16/16,Other,Green,Washed / Wet,7.17,7.33,7.17,7.42,7.25,7.08,10.0,10.0,10.0,0.0,0,0,2
+1074,Arabica,North America,Guatemala,2014,04/23/15,Other,Green,Washed / Wet,7.5,7.17,6.83,7.5,7.17,7.17,10.0,10.0,10.0,0.11,0,0,3
+1075,Arabica,South America,Brazil,2013,04/17/15,Yellow Bourbon,None,Semi-washed / Semi-pulped,7.42,7.42,7.08,7.33,7.67,7.5,9.33,9.33,10.0,0.1,0,0,10
+1076,Arabica,North America,United States,2013,02/04/15,Hawaiian Kona,Green,Natural / Dry,7.42,7.33,7.33,7.58,7.58,7.42,8.67,10.0,10.0,0.11,0,1,0
+1077,Arabica,North America,Guatemala,2013,02/13/14,Bourbon,Green,Washed / Wet,7.5,7.5,7.0,7.67,7.17,7.0,10.0,10.0,10.0,0.12,0,1,1
+1078,Arabica,North America,Mexico,2012,09/17/13,Typica,None,Washed / Wet,7.25,7.25,7.08,7.33,7.25,7.17,10.0,10.0,10.0,0.15,0,0,1
+1079,Arabica,North America,Honduras,2016,02/02/17,,Green,,7.25,7.42,7.0,7.42,7.33,7.0,10.0,10.0,10.0,0.1,0,0,0
+1080,Arabica,Asia,Taiwan,2014,11/23/15,Typica,Green,Washed / Wet,7.58,7.17,7.17,7.17,7.17,7.17,10.0,10.0,10.0,0.14,0,0,0
+1081,Arabica,North America,El Salvador,2013,04/26/15,Bourbon,Green,Washed / Wet,7.33,7.17,7.08,7.08,7.33,7.17,10.0,10.0,10.0,0.0,0,0,1
+1082,Arabica,Asia,China,2013,01/17/15,Other,Green,Washed / Wet,7.25,7.08,7.25,7.17,7.33,7.17,10.0,10.0,10.0,0.17,0,0,14
+1083,Arabica,Asia,Taiwan,2013,12/26/14,Typica,Green,Washed / Wet,7.25,7.25,7.17,7.25,7.25,7.25,10.0,10.0,10.0,0.11,0,0,0
+1084,Arabica,North America,Mexico,2012,09/04/13,Typica,Green,Washed / Wet,6.92,7.17,7.08,7.5,7.33,7.17,10.0,10.0,10.0,0.1,0,2,4
+1085,Arabica,North America,Mexico,2012,08/30/13,Caturra,Green,Washed / Wet,7.42,7.08,7.08,7.33,7.25,7.17,10.0,10.0,10.0,0.12,0,4,16
+1086,Arabica,Africa,Burundi,2016,01/21/17,,Green,,7.08,7.25,7.17,7.33,7.08,7.08,10.0,10.0,10.0,0.12,0,0,0
+1087,Arabica,Africa,Tanzania,2015,11/15/16,Bourbon,Green,Washed / Wet,7.25,7.17,7.0,7.25,7.42,7.08,10.0,10.0,10.0,0.13,0,0,5
+1088,Arabica,Africa,Tanzania,2014,12/18/15,Other,Bluish-Green,Washed / Wet,7.25,7.17,7.25,7.25,7.25,7.08,10.0,10.0,10.0,0.12,0,0,5
+1089,Arabica,Asia,Taiwan,2013,12/26/14,Yellow Bourbon,Green,Other,7.25,7.25,7.08,7.25,7.25,7.25,10.0,10.0,10.0,0.11,0,0,0
+1090,Arabica,North America,Guatemala,2013,06/06/14,Bourbon,Green,Washed / Wet,7.33,7.33,6.83,7.5,7.0,7.17,10.0,10.0,10.0,0.11,0,1,4
+1091,Arabica,North America,Mexico,2012,08/30/13,Typica,Green,Semi-washed / Semi-pulped,7.25,7.08,7.08,7.33,7.33,7.17,10.0,10.0,10.0,0.11,0,0,21
+1092,Arabica,North America,United States,2012,02/07/13,Hawaiian Kona,Green,Washed / Wet,7.17,7.5,6.92,7.33,7.67,7.33,9.33,10.0,10.0,0.12,0,5,7
+1093,Arabica,Africa,Ethiopia,2010,06/17/11,,,,7.25,7.25,7.25,7.33,7.5,8.0,9.33,9.33,10.0,0.1,0,0,1
+1094,Arabica,South America,Brazil,2017,11/03/18,Catuai,Green,Natural / Dry,7.17,7.33,7.42,7.08,7.0,7.0,10.0,10.0,10.0,0.11,1,0,1
+1095,Arabica,North America,Honduras,2016,04/06/18,Caturra,Green,Natural / Dry,7.25,7.25,7.0,7.0,7.42,7.0,10.0,10.0,10.0,0.1,0,0,4
+1096,Arabica,North America,Mexico,2016,04/26/17,Caturra,Green,Washed / Wet,7.25,7.17,7.0,7.33,7.33,7.0,10.0,10.0,10.0,0.1,0,0,2
+1097,Arabica,Asia,Myanmar,2015,08/26/16,Other,Green,Natural / Dry,8.0,7.08,7.0,7.33,7.08,6.92,10.0,10.0,10.0,0.11,0,1,26
+1098,Arabica,Asia,Myanmar,2014,07/16/16,Catuai,Green,Natural / Dry,7.42,7.0,7.08,7.0,7.17,7.33,10.0,10.0,10.0,0.0,0,0,1
+1099,Arabica,North America,Nicaragua,2015,02/20/16,Caturra,Green,Washed / Wet,7.08,6.92,7.0,7.25,7.5,7.25,10.0,10.0,10.0,0.11,0,0,2
+1100,Arabica,North America,United States,2014,03/03/15,Hawaiian Kona,Green,Natural / Dry,7.5,7.08,7.67,7.67,7.42,7.58,9.33,9.33,9.33,0.12,0,4,13
+1101,Arabica,South America,Colombia,2012,01/08/15,Typica,Green,Washed / Wet,7.42,8.0,7.83,7.75,8.08,7.58,8.67,8.67,8.67,0.1,0,0,0
+1102,Arabica,Asia,Taiwan,2013,12/26/14,Typica,Green,Semi-washed / Semi-pulped,7.25,7.08,7.25,7.25,7.17,7.25,10.0,10.0,10.0,0.11,0,0,0
+1103,Arabica,North America,Guatemala,2012,01/09/14,Caturra,Green,Washed / Wet,7.0,7.17,7.33,7.33,7.0,7.17,10.0,10.0,10.0,0.11,0,1,12
+1104,Arabica,North America,Mexico,2012,09/27/13,Caturra,None,Washed / Wet,7.58,7.33,7.17,7.25,6.75,7.0,10.0,10.0,10.0,0.11,0,2,8
+1105,Arabica,Asia,Vietnam,2017,05/09/18,Catimor,,Other,7.42,7.25,7.25,7.58,7.42,7.33,8.67,10.0,10.0,0.0,0,0,2
+1106,Arabica,North America,Nicaragua,2015,04/23/16,Caturra,,Washed / Wet,7.17,7.08,7.08,7.33,7.25,7.08,10.0,10.0,10.0,0.11,0,0,2
+1107,Arabica,North America,Honduras,2015,01/26/16,Catuai,Green,Washed / Wet,7.25,7.25,7.0,7.17,7.08,7.08,10.0,10.0,10.0,0.11,0,0,0
+1108,Arabica,North America,Guatemala,2013,08/07/14,Bourbon,Green,Washed / Wet,7.33,7.33,7.0,7.17,7.17,7.17,10.0,10.0,10.0,0.11,0,0,2
+1109,Arabica,North America,Mexico,2012,10/09/13,Typica,Green,Washed / Wet,7.33,7.08,6.92,7.42,7.25,7.08,10.0,10.0,10.0,0.11,0,0,2
+1110,Arabica,North America,Mexico,2012,09/13/13,Typica,Green,Washed / Wet,7.58,7.42,7.33,7.5,7.08,7.17,8.67,10.0,10.0,0.14,0,1,2
+1111,Arabica,North America,Mexico,2012,09/10/13,Bourbon,Green,Washed / Wet,7.33,7.33,7.17,7.08,7.25,7.0,10.0,10.0,10.0,0.12,0,0,12
+1112,Arabica,North America,Guatemala,2012,05/24/13,Bourbon,Green,Washed / Wet,7.33,7.33,7.0,7.33,7.0,7.0,10.0,10.0,10.0,0.11,0,0,5
+1113,Arabica,North America,United States,,09/21/12,,,,7.58,7.5,7.33,7.33,7.67,7.33,9.33,9.33,9.33,0.05,0,12,1
+1114,Arabica,South America,Brazil,2017,11/29/18,Bourbon,Green,Pulped natural / honey,7.17,7.17,7.0,7.17,7.25,7.25,10.0,10.0,10.0,0.11,0,0,5
+1115,Arabica,Asia,Taiwan,2014,11/23/15,Typica,Green,Washed / Wet,7.42,7.25,7.25,7.17,7.0,7.0,10.0,10.0,10.0,0.07,0,0,0
+1116,Arabica,North America,Nicaragua,2013,02/25/15,,Green,Natural / Dry,7.25,7.17,6.92,7.25,7.17,7.25,10.0,10.0,10.0,0.1,0,0,4
+1117,Arabica,Asia,Taiwan,2013,12/26/14,Typica,Green,Other,7.25,7.25,7.25,7.25,7.08,7.0,10.0,10.0,10.0,0.11,0,0,0
+1118,Arabica,Asia,Taiwan,2013,12/26/14,Typica,Green,Washed / Wet,7.25,7.25,7.25,7.0,7.25,7.08,10.0,10.0,10.0,0.11,0,0,0
+1119,Arabica,Asia,Taiwan,2013,12/26/14,Typica,Green,Semi-washed / Semi-pulped,7.25,7.25,7.25,7.08,7.17,7.08,10.0,10.0,10.0,0.11,0,0,0
+1120,Arabica,North America,Mexico,2012,09/14/13,Typica,None,Washed / Wet,7.33,7.17,7.25,7.08,7.08,7.08,10.0,10.0,10.0,0.15,0,0,0
+1121,Arabica,North America,Mexico,2012,08/30/13,Typica,Green,Washed / Wet,7.25,7.08,7.0,7.17,7.33,7.17,10.0,10.0,10.0,0.14,0,1,17
+1122,Arabica,North America,Nicaragua,2017,06/13/18,Caturra,Green,Washed / Wet,7.33,7.08,6.92,7.08,7.42,7.17,10.0,10.0,10.0,0.1,0,0,5
+1123,Arabica,Asia,Myanmar,2015,07/16/16,Other,Green,Washed / Wet,7.17,7.33,7.0,7.42,7.17,7.0,10.0,10.0,10.0,0.0,0,0,4
+1124,Arabica,North America,Mexico,2014,05/01/15,Typica,Green,Washed / Wet,7.58,7.75,7.42,7.5,7.5,7.5,8.67,8.67,10.0,0.0,0,0,2
+1125,Arabica,Asia,Taiwan,2013,12/26/14,Typica,Green,Washed / Wet,7.25,7.25,7.25,7.0,7.25,7.0,10.0,10.0,10.0,0.11,0,0,0
+1126,Arabica,Asia,Thailand,2012,05/29/14,,Green,Washed / Wet,7.33,6.67,7.08,7.42,7.42,7.08,10.0,10.0,10.0,0.0,0,0,0
+1127,Arabica,North America,Mexico,2012,09/10/13,Typica,Green,Washed / Wet,7.25,7.25,7.08,7.17,7.33,7.33,9.33,10.0,10.0,0.12,0,0,9
+1128,Arabica,North America,Mexico,2012,09/04/13,Other,Green,Washed / Wet,7.08,7.33,7.0,7.33,7.08,7.0,10.0,10.0,10.0,0.11,0,0,12
+1129,Arabica,Africa,Ethiopia,2010,06/17/11,,,,7.42,7.42,7.5,7.92,7.75,7.58,8.67,9.33,8.67,0.05,0,0,2
+1130,Arabica,South America,Colombia,2015,04/22/16,,Green,Washed / Wet,7.83,7.67,7.58,7.75,7.83,7.17,6.67,10.0,10.0,0.0,0,0,1
+1131,Arabica,North America,United States,2014,05/12/15,Hawaiian Kona,Green,Natural / Dry,7.5,7.0,7.0,6.92,7.33,7.17,10.0,10.0,10.0,0.11,0,1,3
+1132,Arabica,North America,Mexico,2013,03/29/14,Bourbon,Green,Washed / Wet,7.33,7.08,7.08,7.33,7.42,7.17,9.33,10.0,10.0,0.12,0,0,4
+1133,Arabica,North America,Mexico,2012,09/11/13,Other,Green,Washed / Wet,7.17,7.17,6.92,7.25,7.33,7.08,10.0,10.0,10.0,0.12,0,1,7
+1134,Arabica,North America,Mexico,2012,08/30/13,Bourbon,,Washed / Wet,7.5,7.17,7.0,7.17,7.25,7.08,10.0,10.0,10.0,0.0,0,0,0
+1135,Arabica,North America,Mexico,2012,07/26/13,Catuai,Green,Washed / Wet,7.17,7.08,7.08,7.08,7.5,7.33,9.33,10.0,10.0,0.11,0,0,3
+1136,Arabica,North America,Mexico,2012,07/11/13,Typica,Green,Natural / Dry,7.33,7.25,7.0,7.42,7.17,7.17,9.33,10.0,10.0,0.12,0,0,6
+1137,Arabica,North America,Mexico,2012,07/11/13,Mundo Novo,Green,Washed / Wet,7.17,7.33,7.08,7.58,7.33,7.08,10.0,9.33,10.0,0.11,0,0,0
+1138,Arabica,North America,United States,,09/21/12,,,,7.5,7.42,7.58,7.42,7.5,7.58,8.67,8.67,10.0,0.05,0,3,0
+1139,Arabica,Africa,Kenya,2017,08/25/18,SL34,,Washed / Wet,7.0,7.08,7.0,7.17,7.25,7.25,10.0,10.0,10.0,0.11,1,0,5
+1140,Arabica,North America,Guatemala,2017,08/22/18,Bourbon,Green,Washed / Wet,7.33,7.25,6.92,7.33,7.25,7.33,9.33,10.0,10.0,0.1,0,0,2
+1141,Arabica,North America,Nicaragua,2014,03/29/16,Caturra,Green,Washed / Wet,6.83,7.17,7.17,6.92,7.5,7.08,10.0,10.0,10.0,0.11,0,0,0
+1142,Arabica,North America,Mexico,2012,07/11/13,Typica,Green,Washed / Wet,7.17,7.08,7.0,7.25,7.5,7.0,10.0,10.0,10.0,0.12,0,0,3
+1143,Arabica,North America,United States,2012,04/05/13,Hawaiian Kona,Blue-Green,Natural / Dry,7.58,7.08,6.83,7.17,7.5,7.17,9.33,10.0,10.0,0.12,0,7,10
+1144,Arabica,North America,Guatemala,2016,06/22/18,Bourbon,Green,Washed / Wet,7.5,7.42,7.25,7.58,7.33,7.42,9.33,9.33,9.33,0.1,4,0,1
+1145,Arabica,Asia,Taiwan,2014,03/20/16,Typica,,Natural / Dry,7.75,7.33,7.17,7.33,7.67,7.83,9.33,9.33,8.67,0.0,0,0,0
+1146,Arabica,Asia,Taiwan,2013,07/28/15,Typica,Blue-Green,Washed / Wet,7.08,7.08,7.25,7.0,7.17,7.17,10.0,10.0,10.0,0.1,0,0,0
+1147,Arabica,Asia,Thailand,2013,06/16/15,,Green,Washed / Wet,7.25,7.08,6.92,7.5,7.08,6.92,10.0,10.0,10.0,0.12,0,0,0
+1148,Arabica,South America,Peru,2013,01/23/15,,Green,Washed / Wet,7.0,7.08,7.0,7.25,7.5,7.42,9.33,10.0,10.0,0.12,0,1,2
+1149,Arabica,North America,Costa Rica,2013,09/23/14,Catuai,Bluish-Green,Washed / Wet,7.58,7.5,7.67,7.75,7.67,7.58,8.0,8.0,10.0,0.1,0,0,4
+1150,Arabica,North America,Mexico,2013,03/29/14,Typica,Green,Washed / Wet,7.58,7.08,7.0,7.0,7.5,6.92,10.0,10.0,10.0,0.12,0,0,4
+1151,Arabica,North America,Mexico,2013,03/29/14,Bourbon,Green,Washed / Wet,7.58,7.08,6.92,7.58,7.5,6.92,10.0,9.33,10.0,0.13,0,0,4
+1152,Arabica,North America,Mexico,2013,03/29/14,Bourbon,Green,Washed / Wet,7.25,7.08,7.0,7.17,7.17,7.08,10.0,10.0,10.0,0.12,0,0,5
+1153,Arabica,North America,Mexico,2012,09/14/13,Bourbon,None,Washed / Wet,7.25,7.17,7.17,7.08,7.17,7.0,10.0,10.0,10.0,0.14,0,0,0
+1154,Arabica,North America,Mexico,2012,09/04/13,Typica,Green,Washed / Wet,7.33,7.25,7.0,7.08,7.08,7.0,10.0,10.0,10.0,0.1,0,1,22
+1155,Arabica,North America,Guatemala,2012,07/23/13,Bourbon,Green,Washed / Wet,7.58,7.33,7.5,7.33,7.0,7.33,9.33,9.33,9.33,0.0,0,0,4
+1156,Arabica,North America,Mexico,2012,06/06/13,Typica,,Washed / Wet,7.25,6.83,6.92,7.08,7.25,7.08,10.0,10.0,10.0,0.12,0,0,7
+1157,Arabica,North America,Guatemala,2016,06/22/18,Bourbon,Green,Washed / Wet,7.42,7.42,7.25,7.58,7.42,7.33,9.33,9.33,9.33,0.1,2,0,1
+1158,Arabica,North America,El Salvador,2016,03/23/18,Bourbon,Bluish-Green,Washed / Wet,7.25,7.08,7.0,6.83,7.33,7.17,10.0,10.0,10.0,0.0,0,0,12
+1159,Arabica,Asia,Thailand,2013,06/16/15,,Blue-Green,Washed / Wet,6.92,7.17,6.83,7.42,7.17,7.08,10.0,10.0,10.0,0.12,0,0,0
+1160,Arabica,North America,Guatemala,2013,06/27/14,Bourbon,Green,Washed / Wet,7.5,7.0,6.83,7.08,7.08,7.17,10.0,10.0,10.0,0.11,0,0,6
+1161,Arabica,North America,Mexico,2013,03/29/14,Typica,Green,Washed / Wet,7.42,7.25,6.83,7.58,7.17,6.58,10.0,10.0,10.0,0.12,0,0,6
+1162,Arabica,North America,Mexico,2012,09/27/13,Caturra,None,Washed / Wet,7.33,7.17,7.0,6.75,7.08,7.0,10.0,10.0,10.0,0.13,0,5,6
+1163,Arabica,North America,Mexico,2012,06/04/13,Mundo Novo,,Washed / Wet,6.92,7.17,7.17,7.17,7.08,7.08,10.0,10.0,10.0,0.0,0,0,9
+1164,Arabica,Asia,Thailand,,04/09/11,Peaberry,,,7.17,7.17,7.0,7.0,7.25,6.92,10.0,10.0,10.0,0.0,0,1,0
+1165,Arabica,North America,Mexico,2012,09/17/13,Typica,None,Washed / Wet,7.08,7.0,6.92,7.33,7.25,7.08,10.0,10.0,10.0,0.12,0,0,11
+1166,Arabica,North America,Mexico,2012,08/30/13,Caturra,Green,Washed / Wet,7.25,6.92,6.92,7.33,7.25,7.0,10.0,10.0,10.0,0.13,0,0,5
+1167,Arabica,South America,Colombia,2010,02/09/12,,,,7.25,7.17,7.0,6.75,7.17,7.33,10.0,10.0,10.0,0.1,0,0,4
+1168,Arabica,North America,Guatemala,2009,01/13/12,,,,7.08,7.0,6.83,7.33,7.25,7.0,10.0,10.0,10.0,0.17,0,1,19
+1169,Arabica,North America,Nicaragua,2015,07/05/16,Caturra,Green,Natural / Dry,6.92,6.92,7.0,7.42,7.25,7.0,10.0,10.0,10.0,0.12,0,0,6
+1170,Arabica,Asia,Taiwan,2014,05/22/16,Typica,,Natural / Dry,6.92,7.0,7.17,7.0,7.42,7.0,10.0,10.0,10.0,0.0,0,0,1
+1171,Arabica,South America,Colombia,2013,06/21/14,Caturra,Green,Washed / Wet,7.83,7.5,7.42,7.42,7.67,7.5,10.0,6.67,10.0,0.0,0,0,2
+1172,Arabica,North America,Mexico,2012,08/01/13,Caturra,Green,Washed / Wet,7.25,7.08,6.92,7.25,7.58,7.08,9.33,10.0,10.0,0.12,0,1,20
+1173,Arabica,North America,Mexico,2012,07/11/13,Typica,Bluish-Green,Washed / Wet,7.25,7.33,7.0,7.25,7.17,7.17,9.33,10.0,10.0,0.12,0,0,5
+1174,Arabica,North America,Guatemala,2013,05/13/15,Bourbon,Green,Washed / Wet,7.08,7.33,7.25,7.58,7.33,7.42,9.33,9.33,9.33,0.1,0,0,2
+1175,Arabica,North America,Guatemala,2014,03/31/15,Other,Green,Washed / Wet,7.25,7.33,6.83,7.0,7.0,7.17,10.0,10.0,10.0,0.1,0,1,4
+1176,Arabica,North America,Mexico,2012,09/11/13,Typica,Green,Washed / Wet,7.0,6.83,6.83,7.42,7.33,7.17,10.0,10.0,10.0,0.13,0,0,30
+1177,Arabica,Africa,Cote dIvoire,2016,06/06/18,,Bluish-Green,Washed / Wet,7.42,7.25,6.83,7.0,7.33,7.08,9.33,10.0,10.0,0.13,0,1,2
+1178,Arabica,South America,Colombia,2013,01/08/15,Caturra,Green,Washed / Wet,7.42,7.25,6.75,7.25,7.42,7.25,9.33,9.33,10.0,0.0,0,0,3
+1179,Arabica,North America,Mexico,2012,09/17/13,Typica,None,Washed / Wet,7.0,7.0,6.83,7.33,7.42,6.92,10.0,10.0,10.0,0.14,0,0,23
+1180,Arabica,North America,Mexico,2012,09/10/13,Typica,Green,Washed / Wet,7.42,7.17,7.08,7.17,7.08,7.08,9.33,10.0,10.0,0.14,0,0,19
+1181,Arabica,North America,Guatemala,2012,01/12/13,Bourbon,Green,Washed / Wet,7.17,6.5,6.33,7.25,7.58,7.33,10.0,10.0,10.0,0.11,0,0,6
+1182,Arabica,Asia,Taiwan,2014,11/07/15,Typica,Blue-Green,Washed / Wet,7.08,6.83,6.83,7.25,7.42,7.08,10.0,10.0,10.0,0.11,0,0,0
+1183,Arabica,North America,Mexico,2012,09/10/13,Bourbon,Green,Washed / Wet,7.0,7.0,6.92,7.17,7.17,7.08,10.0,10.0,10.0,0.13,0,0,10
+1184,Arabica,North America,Guatemala,2017,08/22/18,Bourbon,Green,Washed / Wet,7.33,7.42,7.33,7.42,7.5,7.42,8.67,9.33,9.33,0.1,0,0,0
+1185,Arabica,North America,Honduras,2017,07/27/18,Catuai,Green,Washed / Wet,7.58,7.0,6.75,6.92,7.0,6.92,10.0,10.0,10.0,0.11,0,0,5
+1186,Arabica,North America,Guatemala,2016,05/23/17,Bourbon,Green,Washed / Wet,7.08,7.0,6.92,7.42,7.0,6.92,10.0,10.0,10.0,0.11,8,0,6
+1187,Arabica,North America,Guatemala,2015,06/29/16,Catuai,Green,Washed / Wet,7.25,7.17,6.75,7.25,7.0,6.92,10.0,10.0,10.0,0.11,0,0,6
+1188,Arabica,North America,Costa Rica,2012,12/10/14,Catuai,None,Washed / Wet,7.17,7.42,7.5,8.0,7.25,7.83,10.0,10.0,6.67,0.1,0,5,20
+1189,Arabica,North America,Mexico,2012,09/13/13,Typica,None,Washed / Wet,7.25,7.08,6.92,7.08,7.17,7.17,9.33,10.0,10.0,0.14,0,0,8
+1190,Arabica,North America,Mexico,2012,08/30/13,Typica,Green,Washed / Wet,7.17,6.92,6.92,7.08,7.17,7.0,10.0,10.0,10.0,0.14,0,0,34
+1191,Arabica,North America,Mexico,,04/09/11,Typica,,,6.75,6.75,6.83,7.25,7.58,7.08,10.0,10.0,10.0,0.01,0,0,8
+1192,Arabica,North America,Guatemala,2017,08/23/18,Bourbon,Green,Washed / Wet,7.58,7.67,7.42,7.42,7.67,7.67,8.67,8.67,8.67,0.1,0,0,1
+1193,Arabica,North America,United States,2013,06/09/15,Other,Green,Washed / Wet,7.42,7.08,6.75,7.33,7.33,6.92,10.0,9.33,10.0,0.13,0,0,0
+1194,Arabica,North America,Mexico,2012,09/13/13,Typica,None,Washed / Wet,7.33,7.0,6.92,7.25,7.33,7.08,9.33,10.0,10.0,0.16,0,0,2
+1195,Arabica,North America,Mexico,2012,09/12/13,Mundo Novo,Green,Washed / Wet,7.25,7.08,6.75,7.33,7.42,7.0,9.33,10.0,10.0,0.11,0,0,45
+1196,Arabica,North America,Mexico,2012,07/03/13,Typica,Bluish-Green,Washed / Wet,7.17,7.25,7.25,7.17,7.25,7.08,9.33,9.33,10.0,0.1,0,0,0
+1197,Arabica,,,,02/29/12,,,,6.75,6.75,6.42,6.83,7.58,7.5,10.0,10.0,10.0,0.1,0,0,3
+1198,Arabica,North America,Guatemala,2014,09/11/15,Other,Green,Washed / Wet,7.33,7.17,6.58,7.42,7.08,6.83,10.0,10.0,10.0,0.12,0,0,3
+1199,Arabica,North America,Honduras,2014,04/26/15,Pacas,Green,Washed / Wet,7.0,7.0,7.0,7.0,7.0,7.0,10.0,10.0,10.0,0.11,0,0,12
+1200,Arabica,South America,Peru,2012,01/08/14,Typica,,Washed / Wet,7.67,7.17,7.08,7.25,8.0,7.5,8.67,9.33,9.33,0.0,0,0,4
+1201,Arabica,North America,Mexico,2012,09/17/13,Mundo Novo,None,Natural / Dry,6.75,7.08,6.67,7.25,7.17,7.08,10.0,10.0,10.0,0.12,0,0,12
+1202,Arabica,North America,Mexico,2012,09/12/13,Typica,Green,Semi-washed / Semi-pulped,7.5,7.17,6.92,7.5,7.25,7.0,8.67,10.0,10.0,0.14,0,3,17
+1203,Arabica,North America,Mexico,2012,08/30/13,Typica,Green,Washed / Wet,7.17,6.83,6.83,7.25,7.17,6.92,10.0,10.0,10.0,0.14,0,7,38
+1204,Arabica,North America,Mexico,2013,03/12/14,Typica,Green,Washed / Wet,7.33,7.0,6.75,7.08,7.17,7.25,9.33,10.0,10.0,0.12,0,0,8
+1205,Arabica,North America,Mexico,2012,09/17/13,Typica,None,Washed / Wet,7.5,7.0,6.92,7.08,6.92,6.75,10.0,10.0,10.0,0.16,0,0,0
+1206,Arabica,North America,Nicaragua,2016,05/22/18,Caturra,Green,Other,7.17,7.0,6.92,7.0,7.0,7.0,10.0,10.0,10.0,0.1,2,0,4
+1207,Arabica,North America,United States,2013,01/17/15,,Green,Natural / Dry,7.5,6.92,6.92,7.25,7.58,7.42,9.33,9.33,9.33,0.12,0,5,8
+1208,Arabica,North America,Guatemala,2013,07/05/14,Bourbon,Green,Washed / Wet,7.33,7.08,6.33,7.25,7.0,7.0,10.0,10.0,10.0,0.12,0,1,8
+1209,Arabica,North America,Mexico,2012,08/01/13,Typica,Green,Washed / Wet,7.25,6.83,6.83,7.0,7.17,7.0,10.0,10.0,10.0,0.14,0,0,0
+1210,Arabica,North America,Mexico,2012,07/16/13,Typica,None,Semi-washed / Semi-pulped,7.25,7.33,7.17,7.25,7.08,7.0,8.67,10.0,10.0,0.14,0,0,0
+1211,Arabica,North America,Mexico,2012,06/06/13,Bourbon,,Washed / Wet,7.67,7.17,6.83,7.33,7.58,7.17,9.33,10.0,8.67,0.12,0,0,0
+1212,Arabica,Asia,China,2013,04/26/15,Typica,Green,Washed / Wet,7.0,6.92,6.83,7.17,7.17,7.17,10.0,10.0,9.33,0.0,0,0,5
+1213,Arabica,North America,Mexico,2012,09/17/13,Caturra,None,Washed / Wet,6.92,6.92,6.67,7.25,7.17,6.92,10.0,10.0,10.0,0.13,0,0,2
+1214,Arabica,North America,Nicaragua,2016,02/16/17,,Green,,7.08,7.0,6.75,6.83,7.08,6.92,10.0,10.0,10.0,0.1,5,1,7
+1215,Arabica,North America,Nicaragua,2014,03/27/16,,Green,Natural / Dry,6.83,7.08,6.92,6.75,7.25,7.08,10.0,10.0,10.0,0.11,0,1,1
+1216,Arabica,North America,Guatemala,2014,09/04/15,Other,Green,Washed / Wet,7.33,7.17,6.92,7.58,7.25,7.17,8.67,9.33,10.0,0.12,0,0,3
+1217,Arabica,Asia,Taiwan,2013,07/22/15,Typica,Green,Washed / Wet,6.83,6.75,7.17,7.25,7.0,6.92,10.0,10.0,10.0,0.1,0,0,0
+1218,Arabica,North America,Mexico,2012,07/26/13,Typica,Green,Washed / Wet,7.0,7.0,6.75,7.33,6.92,6.92,10.0,10.0,10.0,0.13,0,0,1
+1219,Arabica,North America,Mexico,2012,07/02/13,Typica,,Washed / Wet,7.92,7.58,7.58,7.92,7.92,7.5,8.0,6.67,10.0,0.1,0,0,1
+1220,Arabica,North America,United States,,06/20/12,,,,7.92,6.83,7.08,7.42,6.75,7.33,8.67,9.33,10.0,0.0,0,0,0
+1221,Arabica,North America,Mexico,2014,04/26/15,Bourbon,Green,Washed / Wet,7.25,6.75,6.92,6.92,7.25,7.58,9.33,9.33,10.0,0.0,0,0,0
+1222,Arabica,North America,Mexico,2012,09/14/13,Typica,None,Washed / Wet,7.08,6.83,6.83,7.0,7.0,6.92,10.0,10.0,10.0,0.12,0,0,14
+1223,Arabica,North America,Mexico,2012,07/26/13,Caturra,Green,Washed / Wet,7.25,7.17,7.0,6.83,7.58,7.08,8.67,10.0,10.0,0.13,0,1,3
+1224,Arabica,South America,Brazil,2014,12/16/15,Catuai,Green,Natural / Dry,6.83,7.0,6.92,7.08,6.92,6.83,10.0,10.0,10.0,0.12,0,3,4
+1225,Arabica,North America,Mexico,2012,09/14/13,Typica,None,Washed / Wet,7.58,7.17,7.0,7.17,7.33,7.0,8.0,10.0,10.0,0.14,0,0,0
+1226,Arabica,North America,United States,2014,03/19/15,Hawaiian Kona,Bluish-Green,Natural / Dry,7.5,7.75,7.58,7.83,7.92,7.92,7.33,8.0,8.67,0.1,0,0,0
+1227,Arabica,North America,Guatemala,2014,02/27/15,Other,Green,Washed / Wet,7.17,6.5,6.67,7.0,7.17,7.17,10.0,10.0,10.0,0.1,0,0,2
+1228,Arabica,North America,Guatemala,2012,02/07/14,Bourbon,Green,Washed / Wet,7.17,7.17,6.5,7.17,7.0,6.83,10.0,10.0,10.0,0.11,0,1,4
+1229,Arabica,North America,Mexico,2012,09/11/13,Typica,Green,Natural / Dry,7.25,7.25,7.0,7.5,7.33,7.42,8.0,9.33,10.0,0.13,0,31,47
+1230,Arabica,North America,Guatemala,2012,01/12/13,Bourbon,Green,Washed / Wet,7.17,6.08,6.17,7.25,7.33,7.33,10.0,10.0,10.0,0.11,0,0,9
+1231,Arabica,North America,United States,2014,01/20/16,Hawaiian Kona,Green,Natural / Dry,7.5,7.5,7.33,7.58,7.5,7.42,8.67,8.67,8.67,0.11,0,2,8
+1232,Arabica,North America,United States,2012,05/24/13,Hawaiian Kona,Green,Natural / Dry,7.42,7.33,7.33,7.5,7.67,7.75,8.0,8.67,9.33,0.11,0,4,31
+1233,Arabica,Asia,Indonesia,2016,07/18/18,Java,,Washed / Wet,6.92,6.83,6.92,6.92,6.92,6.83,10.0,10.0,10.0,0.13,0,0,1
+1234,Arabica,North America,Mexico,2012,07/11/13,Typica,Green,Washed / Wet,7.08,6.83,6.67,7.25,7.25,6.92,10.0,9.33,10.0,0.11,0,0,3
+1235,Arabica,Asia,Taiwan,2016,06/06/18,Yellow Bourbon,Green,Washed / Wet,7.5,7.08,7.33,7.17,7.5,7.5,6.67,10.0,10.0,0.0,0,3,4
+1236,Arabica,North America,Honduras,2014,05/15/15,Pacas,Green,Natural / Dry,6.83,7.0,6.67,7.0,7.0,6.83,10.0,10.0,10.0,0.11,0,2,6
+1237,Arabica,North America,United States,2014,03/18/15,Hawaiian Kona,Green,Natural / Dry,7.58,7.33,7.5,7.42,7.5,7.33,8.0,8.67,9.33,0.12,0,2,3
+1238,Arabica,North America,Guatemala,2014,02/07/15,Other,Green,Washed / Wet,7.42,7.25,6.83,7.33,7.0,6.92,9.33,9.33,9.33,0.1,0,1,2
+1239,Arabica,Asia,China,2013,09/05/14,Typica,Green,Washed / Wet,7.33,7.17,6.92,7.08,7.33,7.0,9.33,9.33,9.33,0.1,0,0,28
+1240,Arabica,North America,Guatemala,2013,04/29/14,Bourbon,Green,Washed / Wet,7.0,6.83,6.83,7.17,6.67,6.83,10.0,10.0,10.0,0.11,0,3,9
+1241,Arabica,North America,Mexico,2012,09/11/13,Other,Green,Washed / Wet,7.25,7.33,7.0,7.0,7.25,7.08,10.0,10.0,8.0,0.12,0,2,7
+1242,Arabica,South America,Colombia,,11/30/12,,Green,,7.42,7.17,7.0,7.17,7.67,7.17,8.67,9.33,9.33,0.1,0,1,3
+1243,Arabica,North America,Costa Rica,2014,02/03/16,Caturra,Green,Washed / Wet,7.5,7.25,7.42,7.0,7.08,6.83,8.67,9.33,10.0,0.12,0,2,4
+1244,Arabica,North America,Mexico,2012,07/26/13,Typica,Green,Washed / Wet,7.42,7.25,7.0,7.0,7.25,7.08,8.0,10.0,10.0,0.11,0,0,3
+1245,Arabica,North America,Guatemala,2012,01/12/13,Bourbon,Green,Washed / Wet,7.17,6.17,6.17,7.08,7.33,6.83,10.0,10.0,10.0,0.11,0,0,7
+1246,Arabica,North America,Nicaragua,2016,02/28/17,,Bluish-Green,,7.42,7.0,7.0,7.17,7.08,7.0,9.33,8.67,10.0,0.1,0,0,0
+1247,Arabica,South America,Brazil,2014,08/25/15,,,Washed / Wet,7.0,6.75,6.67,6.83,7.08,6.83,10.0,10.0,10.0,0.11,0,0,2
+1248,Arabica,North America,Guatemala,2013,02/07/14,Bourbon,Green,Washed / Wet,7.0,6.83,6.67,7.17,6.83,6.83,10.0,10.0,10.0,0.11,0,0,2
+1249,Arabica,Asia,Taiwan,2012,05/29/14,Typica,Bluish-Green,Washed / Wet,7.17,6.75,6.58,7.33,7.33,7.17,9.33,9.33,10.0,0.11,0,0,0
+1250,Arabica,North America,United States,2013,05/03/14,,Green,Natural / Dry,7.58,7.67,7.58,7.67,7.42,7.42,9.33,9.33,6.0,0.12,0,1,5
+1251,Arabica,North America,Mexico,2012,09/17/13,Typica,Green,Washed / Wet,7.17,6.75,6.58,6.75,6.83,6.75,10.0,10.0,10.0,0.13,0,0,3
+1252,Arabica,North America,Guatemala,2013,01/29/14,Bourbon,Green,Washed / Wet,7.08,6.92,6.33,7.0,6.92,7.0,10.0,10.0,10.0,0.11,0,2,15
+1253,Arabica,South America,Brazil,2017,10/20/18,Bourbon,Green,Natural / Dry,7.5,7.33,7.42,7.58,7.58,6.92,8.0,8.0,10.0,0.0,0,0,3
+1254,Arabica,North America,Guatemala,2014,04/08/15,Other,Green,Washed / Wet,7.33,7.0,6.83,7.17,7.17,7.17,9.33,9.33,9.33,0.1,0,1,2
+1255,Arabica,North America,Mexico,2012,09/13/13,Typica,None,Washed / Wet,7.33,7.0,6.67,7.0,6.92,6.92,9.33,9.33,10.0,0.15,0,4,5
+1256,Arabica,North America,Haiti,2013,05/05/15,Typica,,Washed / Wet,6.83,6.83,6.83,6.75,6.92,6.92,9.33,10.0,10.0,0.1,0,0,1
+1257,Arabica,North America,United States,2013,01/27/15,,Green,Natural / Dry,7.08,6.92,6.83,6.67,7.58,7.42,8.67,9.33,10.0,0.12,0,1,5
+1258,Arabica,North America,Mexico,2012,09/11/13,Other,Green,Washed / Wet,7.08,7.0,7.0,7.25,7.33,7.25,8.67,8.67,10.0,0.12,0,1,11
+1259,Arabica,South America,Peru,2014,06/15/16,Caturra,Green,Washed / Wet,7.42,7.75,7.42,7.67,7.92,7.83,8.67,5.33,9.33,0.0,0,7,9
+1260,Arabica,Asia,India,2016,01/16/18,,Green,Natural / Dry,7.67,7.33,7.17,6.67,7.17,7.42,9.33,10.0,6.67,0.0,7,0,0
+1261,Arabica,North America,Mexico,,04/09/11,Typica,,,6.67,6.33,6.42,6.83,7.0,6.92,10.0,10.0,10.0,0.0,0,0,0
+1262,Arabica,North America,Guatemala,2012,01/02/13,Bourbon,None,Washed / Wet,6.42,6.5,6.5,7.33,6.33,6.92,10.0,10.0,10.0,0.12,0,0,4
+1263,Arabica,North America,Mexico,2012,07/26/13,Typica,Green,Washed / Wet,7.17,6.58,6.58,7.0,7.25,6.58,9.33,9.33,10.0,0.13,0,0,14
+1264,Arabica,North America,Guatemala,2012,04/30/13,Bourbon,Green,Washed / Wet,7.5,7.0,6.83,7.5,7.17,7.33,8.67,8.67,8.67,0.11,0,0,8
+1265,Arabica,North America,Guatemala,2011,01/02/13,Bourbon,,Washed / Wet,6.17,6.5,6.5,7.17,7.0,6.83,10.0,10.0,10.0,0.11,0,0,5
+1266,Arabica,North America,United States,2014,03/18/15,Hawaiian Kona,Green,Natural / Dry,7.25,7.08,6.83,7.17,7.33,6.83,8.67,8.67,9.33,0.0,0,0,0
+1267,Arabica,North America,United States,2013,01/20/15,,Bluish-Green,Natural / Dry,7.5,7.33,7.33,7.58,7.67,7.25,8.0,8.0,8.0,0.0,0,0,3
+1268,Arabica,North America,Mexico,2012,09/17/13,Typica,None,Washed / Wet,7.42,7.0,6.83,7.08,6.92,6.83,7.33,10.0,10.0,0.16,0,2,4
+1269,Arabica,Asia,Indonesia,2011,01/17/13,Other,None,Natural / Dry,7.33,7.0,6.5,6.08,7.58,6.33,9.33,10.0,9.33,0.12,0,4,26
+1270,Arabica,North America,Mexico,2012,09/10/13,Bourbon,Green,Washed / Wet,7.08,6.83,6.83,7.17,7.17,7.08,10.0,7.33,10.0,0.12,0,0,12
+1271,Arabica,North America,Honduras,2014,05/15/15,Pacas,Green,Natural / Dry,6.83,6.83,6.67,6.83,7.0,6.83,9.33,8.67,10.0,0.11,0,0,7
+1272,Arabica,Asia,Philippines,2012,05/14/14,,Green,Washed / Wet,6.83,6.5,6.5,6.92,6.75,7.0,9.33,10.0,9.33,0.12,0,0,2
+1273,Arabica,South America,Brazil,2017,10/27/18,,Green,Natural / Dry,7.17,7.0,6.83,7.5,7.17,7.0,8.0,8.0,10.0,0.11,1,0,6
+1274,Arabica,North America,Guatemala,2012,07/09/13,Bourbon,Green,Washed / Wet,7.92,7.58,7.17,7.58,7.33,7.17,8.0,8.0,8.0,0.11,0,0,15
+1275,Arabica,North America,Guatemala,2012,01/05/13,Bourbon,,Washed / Wet,6.67,6.5,6.33,7.0,7.17,6.75,8.67,10.0,10.0,0.12,0,0,10
+1276,Arabica,North America,Mexico,2012,09/12/13,Pacamara,Green,Washed / Wet,7.5,7.25,6.92,7.0,7.17,6.83,8.0,8.0,10.0,0.11,0,4,20
+1277,Arabica,North America,Mexico,2012,09/12/13,Mundo Novo,Green,Washed / Wet,7.17,6.92,6.67,6.83,7.25,7.75,10.0,6.0,10.0,0.11,0,0,20
+1278,Arabica,North America,Mexico,2012,06/06/13,Other,,Washed / Wet,7.25,6.83,6.67,7.08,7.17,6.83,10.0,6.67,10.0,0.12,0,0,8
+1279,Arabica,North America,Mexico,2012,03/05/13,Typica,Bluish-Green,Washed / Wet,7.17,7.17,6.83,7.17,7.42,6.67,8.67,7.33,10.0,0.13,0,23,29
+1280,Arabica,North America,Mexico,2012,07/11/13,Typica,Green,Washed / Wet,7.0,6.92,6.75,6.92,7.17,6.83,10.0,6.67,10.0,0.14,0,15,7
+1281,Arabica,North America,Mexico,2012,09/13/13,Typica,None,Washed / Wet,7.08,6.75,6.58,7.0,7.0,6.75,8.67,8.67,10.0,0.17,0,0,6
+1282,Arabica,North America,Mexico,2012,08/01/13,Typica,Green,Washed / Wet,7.33,6.75,6.67,7.25,7.5,7.0,10.0,5.33,10.0,0.12,0,0,30
+1283,Arabica,North America,Guatemala,2012,01/08/13,Bourbon,,Washed / Wet,6.75,6.5,6.17,7.0,7.25,6.75,8.0,10.0,10.0,0.11,0,0,8
+1284,Arabica,North America,Guatemala,2012,01/04/13,Bourbon,,Washed / Wet,6.75,6.67,6.17,7.17,7.0,6.58,8.0,10.0,10.0,0.11,0,0,10
+1285,Arabica,North America,Mexico,2013,03/29/14,Typica,Green,Washed / Wet,7.08,7.0,6.83,7.5,7.33,6.83,8.0,7.33,10.0,0.12,0,0,7
+1286,Arabica,North America,United States,2014,03/13/15,Hawaiian Kona,Blue-Green,Natural / Dry,7.5,7.25,7.0,7.25,7.42,7.33,8.0,8.67,6.67,0.0,0,1,2
+1287,Arabica,North America,Guatemala,2013,06/06/14,Bourbon,Green,Washed / Wet,6.5,6.33,6.5,7.5,7.33,6.83,8.67,10.0,8.67,0.11,0,1,1
+1288,Arabica,North America,Mexico,2012,09/10/13,Typica,Green,Washed / Wet,7.0,6.58,6.67,6.83,7.08,6.83,10.0,6.67,10.0,0.14,0,3,11
+1289,Arabica,North America,Mexico,2012,09/17/13,Typica,None,Washed / Wet,6.92,6.42,6.17,7.33,7.25,6.75,10.0,6.67,10.0,0.13,0,0,27
+1290,Arabica,North America,Mexico,2012,08/01/13,Typica,Green,Washed / Wet,7.67,7.0,7.17,7.58,7.33,7.33,10.0,2.67,10.0,0.12,0,0,19
+1291,Arabica,North America,United States,2012,04/06/13,Hawaiian Kona,,Natural / Dry,7.17,7.17,7.17,7.58,7.67,6.92,9.33,6.67,6.67,0.0,0,9,17
+1292,Arabica,South America,Brazil,2016,12/27/16,,Green,,7.25,6.58,6.58,7.0,7.0,6.42,8.0,8.0,10.0,0.11,1,0,0
+1293,Arabica,North America,Honduras,2014,04/26/15,Pacas,Green,Washed / Wet,7.0,7.17,6.83,7.17,7.0,7.17,8.0,8.0,8.0,0.11,0,1,16
+1294,Arabica,North America,Mexico,2014,05/08/15,Typica,,Washed / Wet,7.08,7.08,6.92,7.08,6.92,6.92,8.0,8.0,8.0,0.0,0,1,1
+1295,Arabica,South America,Colombia,2013,03/03/15,,Bluish-Green,Natural / Dry,8.0,7.33,7.75,7.33,7.42,7.67,6.67,6.67,6.67,0.0,0,0,15
+1296,Arabica,North America,United States,2014,03/10/15,Hawaiian Kona,Green,Natural / Dry,6.92,6.92,6.92,7.5,7.58,7.17,6.67,6.67,9.33,0.11,0,5,9
+1297,Arabica,North America,Haiti,2010,08/22/12,,,,6.92,6.75,7.08,7.17,7.33,6.67,10.0,5.33,8.67,0.08,0,1,0
+1298,Arabica,North America,Costa Rica,2014,02/03/16,Caturra,Green,Washed / Wet,6.33,6.5,6.33,6.83,6.33,6.5,10.0,6.67,10.0,0.11,0,0,7
+1299,Arabica,North America,Mexico,2012,09/10/13,Mundo Novo,Green,Washed / Wet,6.92,6.92,6.92,6.92,7.17,7.0,10.0,2.67,10.0,0.12,0,4,24
+1300,Arabica,North America,Mexico,2012,07/11/13,Bourbon,Green,Washed / Wet,6.5,6.67,6.42,7.17,7.33,6.5,8.0,6.0,10.0,0.11,0,0,0
+1301,Arabica,North America,Mexico,2014,05/05/15,Typica,Green,Washed / Wet,6.92,7.0,6.83,6.92,7.42,6.92,6.0,6.0,10.0,0.12,0,0,1
+1302,Arabica,South America,Brazil,2017,10/27/18,,Green,Natural / Dry,7.0,7.0,6.83,7.0,7.33,6.83,6.0,6.0,10.0,0.11,1,0,55
+1303,Arabica,North America,Honduras,2014,05/15/15,Catuai,Green,Washed / Wet,6.67,6.5,6.17,6.67,6.83,6.17,8.0,8.0,8.0,0.1,0,0,4
+1304,Arabica,North America,Honduras,2014,05/15/15,Catuai,Green,Washed / Wet,7.0,6.17,6.17,6.67,6.5,6.17,8.0,8.0,8.0,0.1,0,0,3
+1305,Arabica,North America,Honduras,2014,05/15/15,Catuai,Green,Washed / Wet,7.0,6.33,6.17,6.5,6.67,6.17,8.0,8.0,8.0,0.1,0,0,4
+1306,Arabica,North America,Mexico,2012,09/17/13,Bourbon,None,Washed / Wet,7.08,6.83,6.25,7.42,7.25,6.75,10.0,0.0,10.0,0.11,0,0,20
+1307,Arabica,North America,Haiti,2012,05/24/13,Typica,Blue-Green,Natural / Dry,6.75,6.58,6.42,6.67,7.08,6.67,9.33,6.0,6.0,0.14,0,8,16
+1308,Arabica,North America,Nicaragua,2016,06/06/18,Caturra,Green,Other,7.25,6.58,6.33,6.25,6.42,6.08,6.0,6.0,6.0,0.13,0,1,5
+1309,Arabica,North America,Guatemala,2012,05/24/13,Catuai,Green,Washed / Wet,7.5,6.67,6.67,7.67,7.33,6.67,8.0,1.33,1.33,0.1,0,0,4
+1310,Arabica,North America,Honduras,2017,04/28/18,Caturra,Green,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.12,0,0,2
+1311,Robusta,Africa,Uganda,2013,06/26/15,,Green,,7.83,8.08,7.75,7.92,8.25,7.92,10.0,10.0,8.0,0.12,0,0,2
+1312,Robusta,Asia,India,2017,10/31/18,,,Washed / Wet,8.0,7.75,7.92,8.0,7.92,7.92,10.0,10.0,8.0,0.0,0,0,2
+1313,Robusta,Asia,India,2015,04/29/16,,Green,,7.92,7.83,7.92,8.0,7.83,7.92,10.0,10.0,7.83,0.0,0,0,0
+1314,Robusta,Africa,Uganda,2013,07/14/15,,Green,,8.0,7.92,7.92,7.75,7.83,7.75,10.0,10.0,7.75,0.12,0,0,7
+1315,Robusta,Africa,Uganda,2013,06/26/15,,Green,,8.33,7.83,7.83,7.75,8.25,7.75,10.0,10.0,7.58,0.12,0,0,3
+1316,Robusta,Asia,India,2012,02/28/13,,Green,,8.0,7.92,7.67,8.0,7.75,7.92,10.0,10.0,7.75,0.0,0,0,0
+1317,Robusta,Asia,India,2014,05/15/15,,Green,,7.67,7.75,7.83,7.83,7.92,7.75,10.0,10.0,8.0,0.0,0,0,0
+1318,Robusta,Asia,India,2017,10/25/18,,Bluish-Green,Washed / Wet,7.67,7.75,7.83,7.67,7.92,7.83,10.0,10.0,7.92,0.1,0,0,0
+1319,Robusta,Asia,India,2015,08/17/17,Other,Green,Washed / Wet,7.67,7.75,7.58,7.83,7.83,8.0,10.0,10.0,7.92,0.09,0,0,0
+1320,Robusta,Africa,Uganda,2014,08/05/15,,Green,,7.67,7.83,7.83,7.83,7.92,7.75,10.0,10.0,7.75,0.12,0,0,6
+1321,Robusta,Africa,Uganda,2014,06/26/15,,Green,,7.58,7.92,7.75,7.83,7.5,7.67,10.0,10.0,7.67,0.12,0,0,1
+1322,Robusta,Asia,India,2015,08/23/17,Other,Green,Natural / Dry,7.67,7.83,7.75,7.5,7.75,7.58,10.0,10.0,7.75,0.11,0,0,0
+1323,Robusta,Asia,India,2014,05/19/15,,Green,,7.58,7.58,7.67,7.58,7.67,7.67,10.0,10.0,7.5,0.0,0,0,1
+1324,Robusta,Africa,Uganda,2013,07/14/15,,Green,,8.0,7.75,7.75,7.58,7.67,7.5,10.0,10.0,7.58,0.11,0,0,7
+1325,Robusta,Africa,Uganda,2014,07/14/15,,Green,,8.0,7.67,7.75,7.5,7.67,7.58,10.0,10.0,7.58,0.12,0,0,2
+1326,Robusta,Asia,India,2015,04/29/16,,Green,,7.75,7.75,7.67,7.67,7.58,7.58,10.0,10.0,7.58,0.0,0,0,0
+1327,Robusta,Asia,India,2013,06/03/14,,Blue-Green,Natural / Dry,7.5,7.5,7.25,7.83,7.67,7.83,10.0,10.0,7.83,0.13,0,0,0
+1328,Robusta,Africa,Uganda,2013,06/27/15,,Green,,7.33,7.58,7.5,7.75,7.75,7.67,10.0,10.0,7.75,0.12,0,0,1
+1329,Robusta,Africa,Uganda,2013,06/27/15,,Green,,7.83,7.58,7.33,7.67,7.5,7.5,10.0,10.0,7.75,0.12,0,0,2
+1330,Robusta,Africa,Uganda,2013,06/27/15,,Green,,7.75,7.42,7.33,7.58,7.67,7.58,10.0,10.0,7.67,0.12,0,0,1
+1331,Robusta,Asia,India,2014,05/19/15,,Bluish-Green,,7.67,7.67,7.5,7.33,7.58,7.5,10.0,10.0,7.42,0.0,0,0,1
+1332,Robusta,Asia,India,2013,06/20/14,,Green,Natural / Dry,7.58,7.42,7.42,7.83,7.42,7.5,10.0,10.0,7.42,0.0,0,0,0
+1333,Robusta,North America,United States,2012,02/28/13,Arusha,Green,Natural / Dry,7.92,7.5,7.42,7.42,7.42,7.42,9.33,10.0,7.58,0.0,0,0,0
+1334,Robusta,South America,Ecuador,2016,01/18/17,,Blue-Green,,7.75,7.58,7.33,7.58,5.08,7.83,10.0,10.0,7.75,0.0,0,0,1
+1335,Robusta,South America,Ecuador,2016,01/18/17,,Blue-Green,,7.5,7.67,7.75,7.75,5.17,5.25,10.0,10.0,8.42,0.0,0,0,0
+1336,Robusta,North America,United States,2014,12/23/15,,,Natural / Dry,7.33,7.33,7.17,7.42,7.5,7.17,9.33,9.33,7.42,0.0,0,0,6
+1337,Robusta,Asia,India,2013,08/25/15,,Green,Natural / Dry,7.42,6.83,6.75,7.17,7.25,7.0,9.33,9.33,7.08,0.1,0,20,1
+1338,Robusta,Asia,Vietnam,2013,08/25/15,,None,Natural / Dry,6.75,6.67,6.5,6.83,6.92,6.83,9.33,9.33,6.67,0.12,0,63,9
